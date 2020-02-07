@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Samgatha</title>
+    <!-- stylesheets -->
+    <!-- Bootstrap v4.4.1-->
+    <link rel="stylesheet" href="/stylesheets/bootstrap.min.css">
+    <!-- Montserrat -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900&display=swap" rel="stylesheet">
+    <!-- Blackout-sunrise -->
+    <link href="/fonts/stylesheet.css" rel="stylesheet">
+
+    <% if (route !== 'index' && route !== 'sponsors') { %>
+    <!-- Overlay-Scrollbar -->
+    <link rel="stylesheet" href="/stylesheets/OverlayScrollbars.min.css">
+    <% if(route === 'events') { %>
+    <link rel="stylesheet" href="/stylesheets/os-theme-round-light.css">
+    <% } else { %>
+    <link rel="stylesheet" href="/stylesheets/os-theme-block-light.css">
+    <% } %>
+    <% } %>
+
+    <% if (route !== 'index') { %>
+    <link rel="stylesheet" href="/stylesheets/cards.css">
+    <% } %>
+
+    <% if (route == 'events') { %>
+    <link rel="stylesheet" href="/stylesheets/events.css">
+    <% } %>
+
+    <% if (route === 'hospitality') { %>
+    <link rel="stylesheet" href="/stylesheets/hospitality.css">
+    <% } %>
+
+    <% if (route === 'club') { %>
+    <link rel="stylesheet" href="/stylesheets/club.css">
+    <% } %>
+
+    <% if (route === 'index' || route === 'club') { %>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css"
+        integrity="sha256-PF6MatZtiJ8/c9O9HQ8uSUXr++R9KBYu4gbNG5511WE=" crossorigin="anonymous" />
+    <% } %>
+
+    <% switch (route) {
+    case 'index': %>
+    <!-- fontawesome v5.9.0 -->
+    
+    <link rel="stylesheet" href="/stylesheets/index.css">
+    <% break; %>
+    <% } %>
+
+    <!-- Website Theme -->
+    <link rel="stylesheet" href="/stylesheets/theme.css">
+</head>
+
+<body>

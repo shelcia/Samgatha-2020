@@ -1,0 +1,14 @@
+div.card {
+    cursor: default !important;
+    background-image: url('/images/svg1.svg');
+    background-repeat: no-repeat;
+}
+
+div.card-body {
+    max-height: 50%;
+    overflow-y: scroll;
+}
+
+div.os-content {
+    padding: 0 !important;
+}

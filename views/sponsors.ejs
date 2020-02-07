@@ -1,0 +1,15 @@
+<%- include('./partials/header') %>
+<section>
+    <%- include('./partials/navbar') %>
+    <div class="container">
+        <h1 class="text-white">OUR SPONSORS</h1>
+        <div class="row row-cols-1 row-cols-md-4 mt-5">
+            <% for(let i = 0; i < 8; i++) { %>
+            <div class="col mb-4">
+                <%- include('./partials/card-II.ejs', {i: i, route: route}) %>
+            </div>
+            <% } %>
+        </div>
+    </div>
+</section>
+<%- include('./partials/footer') %>

@@ -1,0 +1,26 @@
+<%- include('./partials/header') %>
+<section class="hero text-white">
+    <%- include('./partials/navbar') %>
+    <div class="container">
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item mr-3">
+                <a href="#March27" class="nav-link btn btn-outline-razzmatazz active" data-toggle="pill" role="tab">27
+                    March</a>
+            </li>
+            <li class="nav-item ml-3">
+                <a href="#March28" class="nav-link btn btn-outline-razzmatazz" data-toggle="pill" role="tab">28
+                    March</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="March27" role="tabpanel">
+                <%- include('./partials/cards', {item: 'Workshop', date: '27 March', route: route}) %>
+            </div>
+            <div class="tab-pane fade" id="March28" role="tabpanel">
+                <%- include('./partials/cards', {item: 'Workshop', date: '28 March', route: route}) %>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('./partials/footer') %>

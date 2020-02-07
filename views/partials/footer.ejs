@@ -1,0 +1,22 @@
+<!-- jQuery v3.4.1 -->
+<script src="/scripts/jquery-3.4.1.min.js"></script>
+<!-- popper v1.16.0 -->
+<!-- you may remove this -->
+<script src="/scripts/popper.min.js"></script>
+<!-- bootstrap v4.4.1 -->
+<script src="/scripts/bootstrap.min.js"></script>
+<!-- scrollbars -->
+<% if(route !== "index" && route !== "sponsors") { %>
+<script src="/scripts/OverlayScrollbars.min.js"></script>
+<script src="/scripts/scrollbar.js"></script>
+<% } %>
+<% if (route === 'shows' || route === 'workshops') { %>
+<script src="/scripts/cards.js"></script>
+<% } %>
+
+<% if (route === 'club') { %>
+<script src="/scripts/overlay.js"></script>
+<% } %>
+</body>
+
+</html>

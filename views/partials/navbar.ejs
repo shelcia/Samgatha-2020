@@ -1,0 +1,34 @@
+<nav id="navbar-example2" class="navbar navbar-expand-lg navbar-light text-center bg-transparent sticky-top py-5">
+    <div class="container">
+        <% if(route !== 'index') { %>
+        <a href="/" class="navbar-brand">
+            <img src="/images/logo.svg" class="img-fluid" width="120px" alt="Samgatha logo 2020">
+        </a>
+        <% } %>
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto align-items-center">
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="/events">Events</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="/shows">Pro Shows</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="/workshops">Informals And Workshop</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="/hospitality">Hospitality</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="/sponsors">Sponsors</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link text-white" href="#team">Meet The Team</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,68 @@
+<%- include('./partials/header') %>
+
+<section class="hero text-white">
+    <%- include('./partials/navbar') %>
+    <div class="container hero-text align-self-center mt-5">
+        <div class="row h-100 justify-content-around">
+            <h3 class="bg-gold-tips rotate p-3 m-0"><%= clubName.toUpperCase() %> CLUB
+                <a href="/back" class="text-razzmatazz"><i class="fa fa-caret-right fa-lg float-right"></i></a>
+            </h3>
+            <main class="col-10">
+                <div>
+                    <% for(let j = 0; j < 3; j++) { %>
+                    <h1 class="bg-razzmatazz sticky-top px-2 text-center">March <%= 27 + j %></h1>
+                    <div class="row justify-content-around row-cols-1 row-cols-md-3 mt-5">
+                        <% for(let j = 0; j < 5; j++) { %>
+                        <div class="col mb-4">
+                            <%- include('./partials/card-II.ejs', {i: j, route: route}) %>
+                        </div>
+                        <% } %>
+                    </div>
+                    <% } %>
+                </div>
+            </main>
+        </div>
+    </div>
+</section>
+
+<section class="d-none" id="overlay">
+    <div class="overlay position-absolute d-flex justify-content-center bg-primary align-items-center w-100 vh-100">
+        <div class="container">
+            <div class="card mb-3 bg-transparent text-white border-0 rounded-0">
+                <div class="row no-gutters">
+                    <h3 class="bg-gold-tips rotate p-3 my-0"><%= clubName.toUpperCase() %> CLUB
+                        <i class="fa fa-caret-right fa-lg float-right"></i>
+                    </h3>
+                    <div class="col-md-4">
+                        <img src="https://picsum.photos/400/500?random" class="card-img rounded-0 h-100">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card-body p-5">
+                            <h1 class="card-title">Event Name</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi
+                                eius
+                                est quidem sunt similique minima quae beatae atque quis non ullam recusandae ducimus,
+                                voluptatum exercitationem alias animi, vero commodi!</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi
+                                eius
+                                est quidem sunt similique minima quae beatae atque quis non ullam recusandae ducimus,
+                                voluptatum exercitationem alias animi, vero commodi!</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi
+                                eius
+                                est quidem sunt similique minima quae beatae atque quis non ullam recusandae ducimus,
+                                voluptatum exercitationem alias animi, vero commodi!</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
+                                excepturi
+                                eius
+                                est quidem sunt similique minima quae beatae atque quis non ullam recusandae ducimus,
+                                voluptatum exercitationem alias animi, vero commodi!</p>
+                            <a href="" class="btn btn-outline-light pb-5">REGISTER</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('./partials/footer') %>
