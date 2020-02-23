@@ -13,7 +13,7 @@
 section.hero {
     height: 100vh;
     background-image: url('../images/hero.svg'), linear-gradient(180deg, #280b67 0%, #0f0030 100%);
-    background-position: center bottom, center;
+    background-position: bottom, center;
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -70,4 +70,13 @@ div.daycount p:after {
 
 img.logo {
     width: 200px;
+}
+
+@media (max-width: 576px) {
+    section.hero {
+        background-image: url('../images/hero.svg'), linear-gradient(180deg, #280b67 0%, #0f0030 100%);
+        background-position: -90vw bottom, center;
+        background-size: 200vw 40vh, contain;
+        background-repeat: no-repeat;
+    }
 }
