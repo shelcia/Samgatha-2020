@@ -1,17 +1,21 @@
 <%- include('./partials/header') %>
 <section class="hero">
     <%- include('./partials/navbar') %>
-    <div class="container">
-        <img src="/images/logo.svg" class="img-fluid logo" alt="Samgatha Logo">
+    <div class="container-lg">
+        <div class="d-flex justify-content-between align-items-end">
+            <img src="/images/logo.svg" class="img-fluid logo" alt="Samgatha Logo">
+            <h5 class="bg-gold-tips text-razzmatazz px-3 py-2 m-0 d-md-none font-weight-bold">TAKE A TRIP TO OUR
+            </h5>
+        </div>
         <div class="row justify-content-around mt-5">
-            <div class="col-1">
+            <div class="col-1 d-none d-md-block">
                 <h5 class="bg-gold-tips rotate d-inline p-3 m-0">TAKE A TRIP TO OUR</h5>
             </div>
-            <header class="col-5">
+            <header class="col-12 col-sm-5">
                 <h1 class="display-1 text-gold-tips text-left">DREAM LAND</h1>
-                <a href="" class="btn btn-lg btn-outline-light">REGISTER</a>
+                <a href="" class="btn btn-outline-light">REGISTER</a>
             </header>
-            <div class="col-5 text-right align-self-center">
+            <div class="col-11 col-sm-5 text-right align-self-end align-self-md-center" id="day-count">
                 <div class="daycount text-center bg-white d-inline-block">
                     <h1 class="display-2 d-inline"><%= daysLeft %></h1>
                     <p class="lead font-weight-bolder bg-gold-tips m-0 py-2 px-3">DAYS TO GO</p>

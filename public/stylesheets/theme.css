@@ -94,3 +94,43 @@ i.fa.fa-caret-right:hover {
         max-width: 85vw;
     }
 }
+
+@media (max-width: 768px) {
+    .display-1 {
+        font-size: 680% !important;
+    }
+
+    #day-count {
+        transform-origin: top right;
+        transform: scale(0.8);
+    }
+
+    div.d-flex.justify-content-between.align-items-end img {
+        width: 150px;
+    }
+
+    div.d-flex.justify-content-between.align-items-end h5 {
+        font-size: 100%;
+    }
+
+}
+
+
+@media (max-width: 400px) {
+    .display-1 {
+        font-size: 525% !important;
+    }
+
+    #day-count {
+        transform-origin: top right;
+        transform: scale(0.7);
+    }
+
+    div.d-flex.justify-content-between.align-items-end img {
+        width: 125px;
+    }
+
+    div.d-flex.justify-content-between.align-items-end h5 {
+        font-size: 75%;
+    }
+}
