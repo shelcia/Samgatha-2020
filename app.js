@@ -13,7 +13,8 @@ app.get('/', function (req, res) {
 });
 
 app.get('/events', function (req, res) {
-    res.render('events', { route: 'events' });
+    const events = require('./public/json/events.json');
+    res.render('events', { route: 'events', workshop: events });
 });
 
 app.get('/events/:clubname', function (req, res) {
@@ -24,11 +25,13 @@ app.get('/events/:clubname', function (req, res) {
 });
 
 app.get('/shows', function (req, res) {
-    res.render('shows', { route: 'shows' });
+    const proshows = require('./public/json/proshows.json');
+    res.render('shows', { route: 'shows', workshop: proshows });
 });
 
 app.get('/workshops', function (req, res) {
-    res.render('workshops', { route: 'workshops' });
+    const workshop = require('./public/json/workshops.json');
+    res.render('workshops', { route: 'workshops', workshop: workshop });
 });
 
 app.get('/hospitality', function (req, res) {
@@ -36,7 +39,8 @@ app.get('/hospitality', function (req, res) {
 });
 
 app.get('/sponsors', function (req, res) {
-    res.render('sponsors', { route: 'sponsors' });
+    const sponsor = require('./public/json/sponsors.json');
+    res.render('sponsors', { route: 'sponsors', sponsor: sponsor });
 });
 
 app.get('/teams', function (req, res) {

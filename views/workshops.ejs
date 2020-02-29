@@ -7,17 +7,24 @@
                 <a href="#March27" class="nav-link btn btn-outline-razzmatazz active" data-toggle="pill" role="tab">27
                     March</a>
             </li>
-            <li class="nav-item ml-3">
+            <li class="nav-item mx-3">
                 <a href="#March28" class="nav-link btn btn-outline-razzmatazz" data-toggle="pill" role="tab">28
+                    March</a>
+            </li>
+            <li class="nav-item ml-3">
+                <a href="#March29" class="nav-link btn btn-outline-razzmatazz" data-toggle="pill" role="tab">29
                     March</a>
             </li>
         </ul>
         <div class="tab-content">
             <div class="tab-pane fade show active" id="March27" role="tabpanel">
-                <%- include('./partials/cards', {item: 'Workshop', date: '27 March', route: route}) %>
+                <%- include('./partials/cards', {origin: 'Workshop', workshop: workshop, date: '27 March', route: route}) %>
             </div>
             <div class="tab-pane fade" id="March28" role="tabpanel">
-                <%- include('./partials/cards', {item: 'Workshop', date: '28 March', route: route}) %>
+                <%- include('./partials/cards', {origin: 'Workshop', workshop: workshop, date: '28 March', route: route}) %>
+            </div>
+            <div class="tab-pane fade" id="March29" role="tabpanel">
+                <%- include('./partials/cards', {origin: 'Workshop', workshop: workshop, date: '29 March', route: route}) %>
             </div>
         </div>
     </div>

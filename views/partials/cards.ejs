@@ -1,25 +1,33 @@
+<% if(route == 'events') { %>
+<% len = workshop.length %>
+<% } else { %>
+<% len = workshop[date].length %>
+<% } %>
+
 <div class="scroll-wrapper">
-    <% for( let i = 0; i < 4; i++ ) { %>
+    <% for( let i = 0; i < len; i++ ) { %>
     <div class="card justify-content-between bg-dark text-white <% if (i !== 0) { %>ml-5<% } %> my-2 border-0 rounded-0 <%= route %>"
         style="width:45vh">
         <div class="card-body <% if(route === 'events') { %>m-4<% } %>">
             <% if(route !== 'events') { %>
             <h1 class="card-title"><%= date %></h1>
-            <p class="card-text">Lorem ipsum dolor</p>
+            <p class="card-text"><%= workshop[date][i].tagline %></p>
             <% } else { %>
-            <% for(let i = 0; i < 4; i++) { %>
+            <% for(let j = 0; j < workshop[i].events.length; j++) { %>
             <div class="mb-4">
-                <h4 class="card-title mb-0"><%= date %></h4>
-                <caption class="card-title">Blah Blah event</caption>
+                <h4 class="card-title mb-0"><%= workshop[i].events[j].date %></h4>
+                <caption class="card-title"><%= workshop[i].events[j].eventName %></caption>
             </div>
             <% } %>
             <% } %>
         </div>
-        <a href="/events/<%= item %>" class="text-white">
+        <a href="/events/<%= origin %>" class="text-white">
             <div class="card-footer">
-                <h1 class="mb-0"><%= item %></h1>
                 <% if(route === 'events') { %>
+                <h1 class="mb-0"><%= workshop[i].clubName %></h1>
                 <h2>Club</h2>
+                <% } else { %>
+                <h1 class="mb-0"><%= workshop[date][i].name %></h1>
                 <% } %>
             </div>
         </a>
@@ -27,10 +35,11 @@
     <% if(route !== 'events') { %>
     <div class="card bg-transparent text-white mr-5 my-2 border-0 rounded-0" style="width: 0">
         <div class="card-body pl-5 d-none">
-            <h1 class="card-title text-gold-tips">Event Name</h1>
-            <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate perferendis
-                voluptatum quam sunt dolore eligendi.</p>
-            <a href="" class="btn btn-outline-gold-tips">REGISTER</a>
+            <h1 class="card-title <% if(route == 'shows') { %>text-gold-tips<% } else { %>text-razzmatazz<% } %>">
+                <%= workshop[date][i].name %></h1>
+            <p class="card-text"><%= workshop[date][i].description %></p>
+            <a href="<%= workshop[date][i].registrationLink %>"
+                class="btn <% if(route == 'shows') { %>btn-outline-gold-tips<% } else { %>btn-outline-razzmatazz<% } %>">REGISTER</a>
         </div>
     </div>
     <% } %>
