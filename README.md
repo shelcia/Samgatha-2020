@@ -1,6 +1,7 @@
 Please DO NOT alter any of the paths.
 
 Use the "imgsrc" key to set the image. If the name of the image is 'test.svg', then your JSON should look like this:
+
 "imgsrc": "../images/sponsors/test.svg"
 
 Make sure to enter the full link (https://example.com, not example.com). Try to use 'https' links as much as possible.
