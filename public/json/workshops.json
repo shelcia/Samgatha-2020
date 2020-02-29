@@ -3,18 +3,21 @@
         {
             "name": "workshop1",
             "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "lorem ipsum dolor sit amet consectutor",
             "registrationLink": ""
         },
         {
             "name": "workshop2",
             "tagline": "tagline2",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah2",
             "registrationLink": ""
         },
         {
             "name": "workshop3",
             "tagline": "tagline3",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah3",
             "registrationLink": ""
         }
@@ -23,24 +26,28 @@
         {
             "name": "workshop5",
             "tagline": "tagline5",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah5",
             "registrationLink": ""
         },
         {
             "name": "workshop6",
             "tagline": "tagline6",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah6",
             "registrationLink": ""
         },
         {
             "name": "workshop7",
             "tagline": "tagline7",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah7",
             "registrationLink": ""
         },
         {
             "name": "workshop8",
             "tagline": "tagline8",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah8",
             "registrationLink": ""
         }
@@ -49,6 +56,7 @@
         {
             "name": "workshop9",
             "tagline": "tagline9",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah9",
             "date": "29 March",
             "registrationLink": ""
@@ -56,6 +64,7 @@
         {
             "name": "workshop10",
             "tagline": "tagline10",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah10",
             "date": "29 March",
             "registrationLink": ""
@@ -63,6 +72,7 @@
         {
             "name": "workshop11",
             "tagline": "tagline11",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah11",
             "date": "29 March",
             "registrationLink": ""
@@ -70,6 +80,7 @@
         {
             "name": "workshop12",
             "tagline": "tagline12",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah12",
             "date": "29 March",
             "registrationLink": ""
@@ -77,6 +88,7 @@
         {
             "name": "workshop13",
             "tagline": "tagline13",
+            "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah13",
             "date": "29 March",
             "registrationLink": ""

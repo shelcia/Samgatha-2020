@@ -1,13 +1,19 @@
 <div class="card bg-transparent border-0">
-    <img src="https://picsum.photos/500/600?random-<%= i %>" class="card-img-top rounded-0" alt="sponsor">
+    <% if(route === 'sponsors') { %>
+    <a href="<%= sponsor[i].website %>" target="_blank"><img src="<%= sponsor[i].imgsrc %>"
+            class="card-img-top rounded-0" alt="sponsor"></a>
+    <% } else { %>
+    <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="sponsor">
+    <% } %>
+
     <div class="card-body text-white px-0 <% if(route === 'club') { %>py-0<% } %>">
         <% if(route === 'sponsors') { %>
         <h5 class="card-title mb-0"><%= sponsor[i].name %></h5>
         <small><%= sponsor[i].description %></small>
         <% } else { %>
-        <h5 class="card-title p-3 font-weight-bolder bg-white text-dark">Event Name<%= i %></h5>
-        <caption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</caption>
-        <button class="btn btn-outline-light d-block mt-2">REGISTER</button>
+        <h5 class="card-title p-3 font-weight-bolder bg-white text-dark"><%= event.eventName %></h5>
+        <caption><%= event.description %></caption>
+        <a href="<%= event.registrationLink %>" class="btn btn-outline-light d-block mt-2">REGISTER</a>
         <% } %>
     </div>
 </div>

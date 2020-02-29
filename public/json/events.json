@@ -1,176 +1,463 @@
 [
     {
         "clubName": "Club1",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club2",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club3",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club5",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club6",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club7",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     },
     {
         "clubName": "Club8",
+        "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
                 "eventName": "Event name blah",
-                "date": "27 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "27 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "28 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg2.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Event name blah",
-                "date": "29 March"
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": "9988776655",
+                "registrationLink": "https://blah.com"
             }
         ]
     }

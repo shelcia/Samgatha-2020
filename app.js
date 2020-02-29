@@ -18,10 +18,31 @@ app.get('/events', function (req, res) {
 });
 
 app.get('/events/:clubname', function (req, res) {
-    var clubnames = ['Drama'];
-    if (clubnames.includes(req.params.clubname))
-        res.render('club', { route: 'club', clubName: req.params.clubname });
-    else res.sendStatus(404);
+    // var clubnames = ['Drama'];
+    const events = require('./public/json/events.json');
+    var i = 0, count27 = [], count28 = [], count29 = [], count = [count27, count28, count29];
+    // if (clubnames.includes(req.params.clubname)) {
+    while (events[i].clubName.toUpperCase() !== req.params.clubname.toUpperCase()) {
+        i++;
+    }
+    for (let j = 0; j < events[i].events.length; j++) {
+        const e = events[i].events[j];
+        if (e.date === '27 March') {
+            count27.push(e);
+        } else if (e.date === '28 March') {
+            count28.push(e);
+        } else {
+            count29.push(e);
+        }
+    }
+    count = [count27, count28, count29]
+    res.render('club', {
+        route: 'club',
+        clubName: req.params.clubname,
+        club: events[i],
+        count: count
+    });
+    // } else res.sendStatus(404);
 });
 
 app.get('/shows', function (req, res) {
