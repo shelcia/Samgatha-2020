@@ -98,6 +98,10 @@ i.fa.fa-caret-right:hover {
     font-size: 20px;
 }
 
+ul {
+    font-size: 16px;
+}
+
 /* divs */
 
 @media (min-width: 1200px) {
