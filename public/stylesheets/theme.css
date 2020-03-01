@@ -5,7 +5,8 @@ body {
     scroll-behavior: smooth;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    background-color: #280b67;
+    background-color: #02145b;
+    /* font-size: 1.05vw; */
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -93,17 +94,19 @@ i.fa.fa-caret-right:hover {
     box-shadow: 0 0 0 0.2rem rgba(232, 196, 25, 0.3);
 }
 
+.navbar-toggler {
+    font-size: 20px;
+}
+
 /* divs */
 
 @media (min-width: 1200px) {
-
-    section .container,
-    section.container {
+    section .container {
         max-width: 85vw;
     }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .display-1 {
         font-size: 680% !important;
     }
@@ -141,4 +144,4 @@ i.fa.fa-caret-right:hover {
     div.d-flex.justify-content-between.align-items-end h5 {
         font-size: 75%;
     }
-}
+} */

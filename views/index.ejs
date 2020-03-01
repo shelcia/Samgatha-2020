@@ -1,29 +1,63 @@
 <%- include('./partials/header') %>
-<section class="hero">
+<section class="hero d-flex align-items-center px-0 px-sm-2 px-md-5">
     <%- include('./partials/navbar') %>
-    <div class="container-lg">
-        <div class="d-flex justify-content-between align-items-end">
-            <img src="/images/logo.svg" class="img-fluid logo" alt="Samgatha Logo">
-            <h5 class="bg-gold-tips text-violent-violet px-3 py-2 m-0 d-md-none font-weight-bold">TAKE A TRIP TO OUR
+    <div class="row container-fluid mx-4">
+        <div class="col-12 mb-5 px-0">
+            <img src="/images/logo.svg" class="img-fluid logo d-block mb-3" alt="Samgatha Logo">
+            <h5 class="bg-gold-tips text-violent-violet px-3 py-2 m-0 d-inline d-md-none font-weight-bold">TAKE A
+                TRIP
+                TO
+                OUR
             </h5>
         </div>
-        <div class="row justify-content-around mt-5">
-            <div class="col-1 d-none d-md-block">
-                <h5 class="bg-gold-tips rotate d-inline p-3 m-0">TAKE A TRIP TO OUR</h5>
-            </div>
-            <header class="col-12 col-sm-5">
-                <h1 class="display-1 text-gold-tips text-left">DREAM LAND</h1>
-                <a href="" class="btn btn-outline-light">REGISTER</a>
-            </header>
-            <div class="col-11 col-sm-5 text-right align-self-end align-self-md-center" id="day-count">
-                <div class="daycount text-center bg-white d-inline-block">
-                    <h1 class="display-2 d-inline"><%= daysLeft %></h1>
-                    <p class="lead font-weight-bolder bg-gold-tips m-0 py-2 px-3">DAYS TO GO</p>
+        <div class="col-1 d-none d-md-block align-self-start pl-0 pl-lg-4">
+            <h5 class="bg-gold-tips rotate d-inline p-3 m-0">TAKE A TRIP TO OUR</h5>
+        </div>
+        <header class="col-12 col-sm-11 mt-5 mt-sm-0 pt-3 pt-sm-0">
+            <div class="row">
+                <div class="align-self-start">
+                    <h1 class="display-1 text-gold-tips text-left">DREAM</h1>
+                </div>
+                <div class="text-white align-self-end d-none d-lg-block">
+                    <h1 class="mb-0">MARCH</h1>
+                    <h1 class="mb-2">27-29</h1>
                 </div>
             </div>
+            <div class="row">
+                <div class="align-self-start">
+                    <h1 class="display-1 text-gold-tips text-left">LAND</h1>
+                    <div class="text-white align-self-end d-block d-lg-none mb-5 mb-sm-0">
+                        <h1 class="mb-0">MARCH</h1>
+                        <h1 class="mb-2">27-29</h1>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-5 text-white align-self-center px-0 pt-3 pt-sm-0">
+                    <h2 class="font-weight-bolder text-gold-tips text-left text-sm-center">ABOUT SAMGATHA</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto officia repellendus
+                        alias eius
+                        quos nesciunt aliquid eos incidunt dolorum possimus fugit illo numquam accusantium, deleniti
+                        consequuntur facere corrupti eaque modi?</p>
+                </div>
+            </div>
+            <a href="" class="btn btn-lg btn-outline-light mr-auto rounded-0 mt-4 mt-sm-0">REGISTER</a>
+        </header>
+        <!-- <div class="col-11 col-sm-5 text-right align-self-end align-self-md-center" id="day-count">
+            <div class="daycount text-center bg-white d-inline-block">
+                <h1 class="display-2 d-inline"><%= //daysLeft %></h1>
+                <p class="lead font-weight-bolder bg-gold-tips m-0 py-2 px-3">DAYS TO GO</p>
+            </div>
+        </div> -->
+        <div class="fixed-top d-flex justify-content-center"
+            style="transform-origin: right bottom; transform: rotateZ(-90deg); width: 90vh; left: auto;">
+            <a href="">
+                <h5 class="px-3 py-2 m-0 bg-gold-tips text-violent-violet font-weight-bold mr-4">SCHEDULE</h5>
+            </a>
+            <a href="">
+                <h5 class="px-3 py-2 m-0 bg-gold-tips text-violent-violet font-weight-bold ml-4">RULEBOOK</h5>
+            </a>
         </div>
     </div>
-    <div class="social text-white text-right">
+    <div class="social fixed-bottom text-white text-right mb-2 mb-sm-4 mr-0 mr-sm-4">
         <i class="fab fa-twitter fa-lg mr-5"></i>
         <i class="fab fa-facebook-f fa-lg mx-5"></i>
         <i class="fab fa-linkedin-in fa-lg mx-5"></i>

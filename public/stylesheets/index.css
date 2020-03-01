@@ -1,5 +1,11 @@
+/* Old background image linear-gradient(180deg, #280b67 0%, #0f0030 100%) */
+
 .btn {
     font-weight: 500;
+}
+
+h1.display-1.text-gold-tips.text-left {
+    line-height: 85%;
 }
 
 .rotate {
@@ -10,19 +16,27 @@
     color: #280b67;
 }
 
+/* section.hero {
+    height: 100vh;
+    background-image: url('../images/hero.svg'), url('../images/bg.svg');
+    background-position: bottom, center;
+    background-size: contain, cover;
+    background-repeat: no-repeat;
+} */
+
 section.hero {
     height: 100vh;
-    background-image: url('../images/hero.svg'), linear-gradient(180deg, #280b67 0%, #0f0030 100%);
-    background-position: bottom, center;
-    background-size: contain;
+    width: 100vw;
+    background-image: url('../images/bg.svg');
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
-section.hero header h1 {
+h1.display-1 {
     font-family: 'blackoutsunrise', 'sans-serif';
     letter-spacing: 10px;
-    font-weight: 900;
-    font-size: 9rem;
+    font-size: 12rem;
 }
 
 div.daycount {
@@ -69,14 +83,62 @@ div.daycount p:after {
 }
 
 img.logo {
-    width: 200px;
+    width: 12.5rem;
+}
+
+div.social {
+    font-size: 15px;
+}
+
+@media (min-width:1200px) {
+
+    html,
+    body {
+        font-size: 1.1vw;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    html,
+    body {
+        font-size: 1.25vw;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+    html,
+    body {
+        font-size: 1.5vw;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    html,
+    body {
+        font-size: 1.9vw;
+    }
 }
 
 @media (max-width: 576px) {
-    section.hero {
-        background-image: url('../images/hero.svg'), linear-gradient(180deg, #280b67 0%, #0f0030 100%);
-        background-position: -90vw bottom, center;
-        background-size: 200vw 40vh, contain;
-        background-repeat: no-repeat;
+
+    html,
+    body {
+        font-size: 2vw;
+    }
+
+    p {
+        font-size: 2.75vw;
+    }
+
+    img {
+        width: 40vw !important;
+    }
+
+    h5,
+    h2 {
+        font-size: 4vw !important;
     }
 }
