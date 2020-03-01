@@ -130,15 +130,19 @@ div.social {
     }
 
     p {
-        font-size: 2.75vw;
+        font-size: 2.8vw;
     }
 
     img {
-        width: 40vw !important;
+        width: 35vw !important;
     }
 
     h5,
     h2 {
         font-size: 4vw !important;
+    }
+
+    a.btn-lg {
+        font-size: 1.7rem;
     }
 }
