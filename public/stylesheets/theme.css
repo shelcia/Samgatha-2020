@@ -6,7 +6,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     background-color: #02145b;
-    /* font-size: 1.05vw; */
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -46,6 +45,10 @@ i.fa.fa-caret-right:hover {
 
 .bg-razzmatazz {
     background-color: #d9145c;
+}
+
+.bg-violent-violet {
+    background-color: #02145b;
 }
 
 /* buttons */
@@ -96,6 +99,10 @@ i.fa.fa-caret-right:hover {
 
 .navbar-toggler {
     font-size: 20px;
+}
+
+nav {
+    transition: background-color 400ms;
 }
 
 ul {
