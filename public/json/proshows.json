@@ -20,6 +20,13 @@
             "imgsrc": "../images/proshows/svg2.svg",
             "description": "blah3",
             "registrationLink": "https://blah-blah.com"
+        },
+        {
+            "name": "Proshow3",
+            "tagline": "tagline3",
+            "imgsrc": "../images/proshows/svg2.svg",
+            "description": "blah3",
+            "registrationLink": "https://blah-blah.com"
         }
     ],
     "28 March": [

@@ -1,9 +1,6 @@
-const nav = document.querySelector('nav');
-const hamburger = document.querySelector('span.navbar-toggler-icon');
-
-hamburger.addEventListener('click', function (e) {
+$('span.navbar-toggler-icon').click(function (e) {
     e.preventDefault();
-    nav.classList.toggle('bg-transparent');
-    nav.classList.toggle('bg-violent-violet');
-    nav.classList.toggle('border-bottom');
+    $('nav').toggleClass('bg-transparent');
+    $('nav').toggleClass('bg-violent-violet');
+    $('nav').toggleClass('border-bottom');
 });

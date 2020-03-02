@@ -20,6 +20,13 @@
             "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah3",
             "registrationLink": ""
+        },
+        {
+            "name": "workshop3",
+            "tagline": "tagline3",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "blah3",
+            "registrationLink": ""
         }
     ],
     "28 March": [

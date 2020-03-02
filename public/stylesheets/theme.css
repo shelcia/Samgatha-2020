@@ -5,6 +5,10 @@ body {
     scroll-behavior: smooth;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    background-image: url('../images/bg.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: #02145b;
 }
 
