@@ -9,7 +9,11 @@ body {
 }
 
 .navbar-light .navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(217,20,92,1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(232,196,25,1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+button.navbar-toggler:focus {
+    outline: none;
 }
 
 *::selection {
@@ -105,11 +109,13 @@ nav {
     transition: background-color 400ms;
 }
 
+nav.border-bottom {
+    border-bottom: 2px solid #d9145c !important;
+}
+
 ul {
     font-size: 16px;
 }
-
-/* divs */
 
 @media (min-width: 1200px) {
     section .container {

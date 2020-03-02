@@ -37,6 +37,7 @@ h1.display-1 {
     font-family: 'blackoutsunrise', 'sans-serif';
     letter-spacing: 10px;
     font-size: 12rem;
+    font-weight: 600;
 }
 
 div.daycount {
@@ -143,6 +144,11 @@ div.social {
     }
 
     a.btn-lg {
-        font-size: 1.7rem;
+        font-size: 1.75rem;
+        padding: 7.5px 15px;
+    }
+
+    h1.display-1 {
+        letter-spacing: 5px;
     }
 }
