@@ -85,25 +85,30 @@
                 "eventName": "Comicverse",
                 "description": "Have a thing for recreating comic scripts? Let the wild- est of your imagination flow and deliver an interesting comic script in your own style.",
                 "imgsrc": "../images/events/svg2.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Duration: 2 hrs.\n2.  Individual Event.\n3.  A short note describing the art piece must be provided.\n4.  Usage of the Internet and mobile phones are strictly prohibited unless told.\n5.  Time limits must be strictly adhered to.\n6.  The decision of the judges will be final.\n6. Rubric- Creativity, Cohesivity, Detailing, Neatness",
                 "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "28 March",
-                "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "date": "28 March"
+                "contact": "9988776655"
             },
             {
-                "eventName": "Soap Carving",
-                "description": "Sculpt your dreams on a block of soap. Create a dreamy object and narrate your dream giving us the context of how this object plays a role in it.",
+                "eventName": "Costume Designing",
+                "description": "You think you have it in you to create an outfit ready to hit the runway? This is your chance.Unleash the inner fashionista in you by making your “dream” costume.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Teams with a max size of 2 can participate.\n2.  Only the materials provided must be used.\n3.  A short note describing the costume must be written.\n4.  Usage of the Internet and mobile phones are strictly prohibited unless told.\5.  Time limits must be strictly adhered to.\n6.  The decision of the judges will be final.\n7.  Rubric - Creativity,Presentation,Integrality,Detailing,Comfortableness",
                 "prize": "2k",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "9988776655"
+            },
+            {
+                "eventName": "Mystery Box Challenge",
+                "description": "We are bringing the famous Masterchef’s “Mystery Box Challenge” to our college, only this time with art supplies",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "1.  Teams with a max size of 2 can participate.\n2.  Must use all the materials picked out.\n3.  Only the materials provided must be used.\n4.  A short note describing the art piece must be written.\n5.  Usage of the Internet and mobile phones are strictly prohibited unless told.\n6. Time limits must be strictly adhered to.\n7.  The decision of the judges will be final.\n7.  Rubric - Creativity, Presentation, Detailing",
+                "prize": "2k",
+                "date": "29 March",
+                "contact": "9988776655"
             }
         ]
     },
