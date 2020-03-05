@@ -68,7 +68,7 @@ app.get('/team', function (req, res) {
 
 app.get('/eventData', function (req, res) {
     const events = require('./public/json/events.json');
-    var e = req.query.path.substring(8);
+    var e = req.query.path.replace(/%20/g, " ").substring(8);
     var id = Number(req.query.id);
     for (let i = 0; i < events.length; i++) {
         if (events[i].clubName === e) {
