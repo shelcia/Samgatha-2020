@@ -75,9 +75,7 @@
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "27 March",
-                "venue": "H05",
                 "contact": "9988776655",
                 "registrationLink": "https://blah.com"
             },
@@ -87,7 +85,7 @@
                 "imgsrc": "../images/events/svg2.svg",
                 "rules": "1.  Duration: 2 hrs.\n2.  Individual Event.\n3.  A short note describing the art piece must be provided.\n4.  Usage of the Internet and mobile phones are strictly prohibited unless told.\n5.  Time limits must be strictly adhered to.\n6.  The decision of the judges will be final.\n6. Rubric- Creativity, Cohesivity, Detailing, Neatness",
                 "prize": "2k",
-                "date": "28 March"
+                "date": "28 March",
                 "contact": "9988776655"
             },
             {
@@ -96,9 +94,7 @@
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "1.  Teams with a max size of 2 can participate.\n2.  Only the materials provided must be used.\n3.  A short note describing the costume must be written.\n4.  Usage of the Internet and mobile phones are strictly prohibited unless told.\5.  Time limits must be strictly adhered to.\n6.  The decision of the judges will be final.\n7.  Rubric - Creativity,Presentation,Integrality,Detailing,Comfortableness",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "29 March",
-                "venue": "H05",
                 "contact": "9988776655"
             },
             {
@@ -171,7 +167,7 @@
                 "eventName": "Climateye",
                 "description": "Climate change is an alarming hazard. So make the mankind feel the guilt of befouling the environment through your hard-hitting photos.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "1.  Number of participants:1. Submissions per participant:1\n2.  Photos submitted must be at least 640pixels on the shorter side, and no more than 2000pixels on the longer side. Images should be no longer than 2MB. Photos must be in JPEG format.\n3.  All submitted photos must contain the original EXIF metadata information. However there must be no border(s), logos, copyright marks, identifying marks or any other visible references and/or marks on the image.\n4.  Photos that portray or otherwise include appropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural and moral traditions and practices of India, are strictly prohibited and will be immediately discarded.\n5.  Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.\n6.  The copyrights of the submissions made will be entitled to us and will be used for promotions. •The decision of the judges shall be final and binding.",
+                "rules": "1.  Number of participants:1. Submissions per participant:1\n2.  Photos submitted must be at least 640pixels on the shorter side, and no more than 2000pixels on the longer side. Images should be no longer than 2MB. Photos must be in JPEG format.\n3.  All submitted photos must contain the original EXIF metadata information. However there must be no border(s), logos, copyright marks, identifying marks or any other visible references and/or marks on the image.\n4.  Photos that portray or otherwise include appropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural and moral traditions and practices of India, are strictly prohibited and will be immediately discarded.\n5.  Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.\n6.  The copyrights of the submissions made will be entitled to us and will be used for promotions.\n7.  The decision of the judges shall be final and binding.",
                 "prize": "2K",
                 "date": "29 March",
                 "contact": "Siddharth - 9566707761\nNissim - 9619503514"
@@ -290,41 +286,52 @@
                 "eventName": "Synergesia",
                 "description": "A collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Takesplaceoveraspanof1week(Includingregistration) ○ Monday-Wednesday​:registrationperiodforboth
+writers and artists
+○ Wednesday23:59​:promptsaresenttowritersonly,
+given up till Friday afternoon to submit a work of min
+500 words
+○ FridayafternoontoFriday23:59​:Artistsshouldchoose
+pieces to work on.
+○ Saturday00:00​:Artistsgettheirallottedpiecesandcan
+create any art piece in relation with the written piece till
+Sunday 23:59
+● Registrationwindowwillbeopenfor12hours.Afterwhich
+writers will be given a set of prompts to pick and choose from.
+● Writerswillbeallowedtochooseoneormanyprompts,how
+many ever required to write their story.
+ 
+● Thestoryshouldhaveaminimumof500wordsandshould be submitted within 24 hours of the registration deadline. This is to ensure the artists will have a written piece to work on.
+● WrittenworksshouldbesubmittedviaGoogledocs(toavoid artists unable to figure out handwriting thus making it difficult for them to draw)
+● Artistswillthenbegivena6hourwindowtoselecttheworks they feel inspired by, and to ensure that no two artists pick the same work, they will provide a top 5 list and will be given a story in their top 5.
+● Artistswillthenbegivena24hourwindowtocomeupwith an art piece depicting the written work they have chosen, interpreting the text and scenes as they see fit.
+● FailuretosubmittheworkontimeorprovideSAMIDatthe time of submission will lead to immediate disqualification.",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "27 March",
-                "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "Ganesh - 9080964286\nAnnie - 7395947128"
             },
             {
                 "eventName": "Eloquent",
                 "description": "Many dreams and ideas have existed in our rich history of human civilization. But, could those ideologies still be applicable today? Could you convince us of such a dream? Come and test your eloquence and glib of tongue and present us with ways on how to learn from the past to change the future.",
                 "imgsrc": "../images/events/svg2.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Participant will be given a prompt that is based on past myths and fairy tales projected onto today’s context\n2.  He/She shall be given 5 minutes of prep time\n3.  He/She will then be given 10 minutes to speak and act out the given topic\n4.  He/She will be judged on Creativity,Spontaneity,Structure and Complexity.",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "28 March",
-                "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "Ganesh - 9080964286\nAnnie - 7395947128"
             },
             {
                 "eventName": "Lawyer Up!",
                 "description": "In a time where ideas are in constant clash and flux of each other, it’s time to play the part of the judge and the jury in determining their usefulness. The goal? To convince the judges and the audience (jury) on who is right.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Thiseventwillcontainthreerounds\n2.  The first and last round will contain one on one debate while the second round will be a group discussion\n3.  Each round will be a knockout\n4.  Participants get 5 mins to prepare after prompt is given\n5.  Time Structure for each round will be told during event\n6. Prompts will be based on juxtaposing past political ideologies onto today’s context.\n7.  Audience interruptions (upto 2 each)for P.o.Is are allowed.",
                 "prize": "2k",
                 "time": "2:00 p.m.",
                 "date": "29 March",
-                "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "Ganesh - 9080964286\nAnnie - 7395947128"
             }
         ]
     },
-        {
+    {
         "clubName": "Adventure",
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
@@ -361,8 +368,7 @@
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "9988776655"
             }
         ]
     },
