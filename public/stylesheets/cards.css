@@ -11,6 +11,12 @@ div.scroll-wrapper {
     height: 65vh;
 }
 
+@media (max-width: 768px) {
+    div.scroll-wrapper {
+        overflow-x: scroll;
+    }
+}
+
 div.card {
     background-size: cover;
     background-repeat: no-repeat;

@@ -3,7 +3,10 @@
 <!-- bootstrap v4.4.1 -->
 <script src="/scripts/bootstrap.min.js"></script>
 <!-- scrollbars -->
+
+<% if(route === "index") { %>
 <script src="/scripts/navbar.js"></script>
+<% } %>
 
 <% if(route === "events" || route === "hospitality") { %>
 <script src="/scripts/OverlayScrollbars.min.js"></script>
