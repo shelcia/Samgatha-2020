@@ -64,8 +64,9 @@ app.get('/sponsors', function (req, res) {
     res.render('sponsors', { route: 'sponsors', sponsor: sponsor });
 });
 
-app.get('/teams', function (req, res) {
-    res.render('teams', { route: 'teams' });
+app.get('/team', function (req, res) {
+    const team = require('./public/json/team.json');
+    res.render('team', { route: 'teams', team: team });
 });
 
 app.get('/back', function (req, res) {

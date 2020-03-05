@@ -1,30 +1,41 @@
 <%- include('./partials/header') %>
 <section class="hero d-flex align-items-center text-white">
     <%- include('./partials/navbar') %>
-    <div class="container-fluid mt-5 pt-5">
-        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-            <li class="nav-item mr-3">
-                <a href="#March27" class="nav-link btn btn-outline-gold-tips active" data-toggle="pill" role="tab">27
-                    March</a>
-            </li>
-            <li class="nav-item mx-3">
-                <a href="#March28" class="nav-link btn btn-outline-gold-tips" data-toggle="pill" role="tab">28
-                    March</a>
-            </li>
-            <li class="nav-item ml-3">
-                <a href="#March29" class="nav-link btn btn-outline-gold-tips" data-toggle="pill" role="tab">29
-                    March</a>
-            </li>
-        </ul>
-        <div class="row tab-content mx-0">
+    <div class="container-fluid mt-3 pt-5">
+        <div class="row justify-content-end mx-0">
+            <div class="col-11 px-0">
+                <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                    <li class="nav-item mr-1">
+                        <a href="#March27" class="nav-link btn btn-outline-gold-tips active" data-toggle="pill"
+                            role="tab">27
+                            March</a>
+                    </li>
+                    <li class="nav-item mx-1">
+                        <a href="#March28" class="nav-link btn btn-outline-gold-tips" data-toggle="pill" role="tab">28
+                            March</a>
+                    </li>
+                    <li class="nav-item ml-1">
+                        <a href="#March29" class="nav-link btn btn-outline-gold-tips" data-toggle="pill" role="tab">29
+                            March</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row justify-content-center tab-content mx-0 mt-3">
             <div class="col-12 tab-pane fade show active" id="March27" role="tabpanel">
-                <%- include('./partials/cards', {origin: 'Proshow', date: '27 March'}) %>
+                <div class="row">
+                    <%- include('./partials/cards', {origin: 'Proshow', date: '27 March'}) %>
+                </div>
             </div>
             <div class="col-12 tab-pane fade" id="March28" role="tabpanel">
-                <%- include('./partials/cards', {origin: 'Proshow', date: '28 March'}) %>
+                <div class="row">
+                    <%- include('./partials/cards', {origin: 'Proshow', date: '28 March'}) %>
+                </div>
             </div>
             <div class="col-12 tab-pane fade" id="March29" role="tabpanel">
-                <%- include('./partials/cards', {origin: 'Proshow', date: '29 March'}) %>
+                <div class="row">
+                    <%- include('./partials/cards', {origin: 'Proshow', date: '29 March'}) %>
+                </div>
             </div>
         </div>
     </div>

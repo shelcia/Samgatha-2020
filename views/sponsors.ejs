@@ -1,10 +1,10 @@
 <%- include('./partials/header') %>
-<section>
+<section class="pt-5">
     <%- include('./partials/navbar') %>
-    <div class="container">
+    <div class="container mt-5 pt-5 align-self-center">
         <h1 class="text-white">OUR SPONSORS</h1>
-        <div class="row row-cols-1 row-cols-md-4 mt-5">
-            <% for(let i = 0; i < 8; i++) { %>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-5">
+            <% for(let i = 0; i < sponsor.length; i++) { %>
             <div class="col mb-4">
                 <%- include('./partials/card-II.ejs', {i: i, route: route, sponsor: sponsor}) %>
             </div>

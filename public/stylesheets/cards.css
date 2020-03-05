@@ -6,7 +6,7 @@ div.scroll-wrapper {
     /* Chrome, opera, safari */
     scroll-behavior: smooth;
     display: flex;
-    overflow-x: auto;
+    overflow-x: hidden;
     flex-wrap: nowrap;
     height: 65vh;
 }
@@ -33,4 +33,21 @@ div.card.shows {
 
 div.scroll-wrapper div.card {
     flex: 0 0 auto;
+}
+
+div.nav-left,
+div.nav-right {
+    z-index: 1;
+    cursor: pointer;
+    transition: all 400ms;
+}
+
+div.nav-left,
+div.nav-right {
+    opacity: 0.7;
+}
+
+div.nav-left:hover,
+div.nav-right:hover {
+    opacity: 1;
 }

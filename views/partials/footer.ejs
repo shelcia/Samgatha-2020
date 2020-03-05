@@ -4,12 +4,18 @@
 <script src="/scripts/bootstrap.min.js"></script>
 <!-- scrollbars -->
 <script src="/scripts/navbar.js"></script>
-<% if(route !== "index" && route !== "sponsors") { %>
+
+<% if(route === "events" || route === "hospitality") { %>
 <script src="/scripts/OverlayScrollbars.min.js"></script>
 <script src="/scripts/scrollbar.js"></script>
 <% } %>
+
 <% if (route === 'shows' || route === 'workshops') { %>
 <script src="/scripts/cards.js"></script>
+<% } %>
+
+<% if (route === 'shows' || route === 'workshops' || route === 'events') { %>
+<script src="/scripts/slider.js"></script>
 <% } %>
 
 <% if (route === 'club') { %>

@@ -1,15 +1,22 @@
 <div class="card bg-transparent border-0">
+    <% if(route === 'sponsors' || route === 'teams') { %>
     <% if(route === 'sponsors') { %>
-    <a href="<%= sponsor[i].website %>" target="_blank"><img src="<%= sponsor[i].imgsrc %>"
-            class="card-img-top rounded-0" alt="sponsor"></a>
+    <a href="<%= sponsor[i].website %>" target="_blank">
+        <% } %>
+        <img src="<%= sponsor[i].imgsrc %>"
+            class="card-img-top mx-auto <% if(route === 'teams') { %>rounded-circle<% } %>" alt="<%= route %>"
+            <%if(route === 'teams') {%>style="width: 90%!important" <% } %>>
+        <% if(route === 'sponsors') { %>
+    </a>
+    <% } %>
     <% } else { %>
-    <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="sponsor">
+    <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="<%= route %>">
     <% } %>
 
     <div class="card-body text-white px-0 <% if(route === 'club') { %>py-0<% } %>">
-        <% if(route === 'sponsors') { %>
+        <% if(route === 'sponsors' || route === 'teams') { %>
         <h5 class="card-title mb-0"><%= sponsor[i].name %></h5>
-        <small><%= sponsor[i].description %></small>
+        <small><%= sponsor[i].description || sponsor[i].role %></small>
         <% } else { %>
         <h5 class="card-title p-3 font-weight-bolder bg-white text-dark"><%= event.eventName %></h5>
         <caption><%= event.description %></caption>

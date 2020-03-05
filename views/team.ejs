@@ -1,0 +1,40 @@
+<%- include('./partials/header') %>
+<section class="pt-5 mx-3 mx-sm-0">
+    <%- include('./partials/navbar') %>
+    <div class="container mx-auto text-center text-white mt-5 pt-5">
+        <h1>MEET THE TEAM</h1>
+        <h2 class="mt-5">CULTURAL TEAM</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-5">
+            <% for(let i = 0; i < team.cultural.length; i++) { %>
+            <div class="col mb-4">
+                <%- include('./partials/card-II.ejs', {i: i, route: route, sponsor: team.cultural}) %>
+            </div>
+            <% } %>
+        </div>
+        <h2 class="mt-5">SPONS TEAM</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-5">
+            <% for(let i = 0; i < team.spons.length; i++) { %>
+            <div class="col mb-4">
+                <%- include('./partials/card-II.ejs', {i: i, route: route, sponsor: team.spons}) %>
+            </div>
+            <% } %>
+        </div>
+        <h2 class="mt-5">PUBLICITY TEAM</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-5">
+            <% for(let i = 0; i < team.publicity.length; i++) { %>
+            <div class="col mb-4">
+                <%- include('./partials/card-II.ejs', {i: i, route: route, sponsor: team.publicity}) %>
+            </div>
+            <% } %>
+        </div>
+        <h2 class="mt-5">DECOR TEAM</h2>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-5">
+            <% for(let i = 0; i < team.decor.length; i++) { %>
+            <div class="col mb-4">
+                <%- include('./partials/card-II.ejs', {i: i, route: route, sponsor: team.decor}) %>
+            </div>
+            <% } %>
+        </div>
+    </div>
+</section>
+<%- include('./partials/footer') %>

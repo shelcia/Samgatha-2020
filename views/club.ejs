@@ -1,17 +1,19 @@
 <%- include('./partials/header') %>
 
-<section class="hero text-white">
+<section class="text-white pt-5">
     <%- include('./partials/navbar') %>
-    <div class="container hero-text align-self-center mt-5">
-        <div class="row h-100 justify-content-around">
-            <h3 class="bg-gold-tips rotate p-3 m-0"><%= clubName.toUpperCase() %> CLUB
-                <a href="/back" class="text-violent-violet"><i class="fa fa-caret-right fa-lg float-right"></i></a>
-            </h3>
+    <div class="container align-self-center mt-5 pt-5">
+        <div class="row">
             <main class="col-10">
                 <div>
                     <% for(let j = 0; j < 3; j++) { %>
-                    <h1 class="bg-razzmatazz sticky-top px-2 text-center">March <%= 27 + j %></h1>
-                    <div class="row justify-content-around row-cols-1 row-cols-md-3 mt-5">
+                    <div class="row mx-0 mt-5">
+                        <i class="fas fa-lg fa-angle-left" style="line-height: 2.5rem;"></i>
+                        <h5 class="px-4 py-2 ml-3 d-inline bg-gold-tips text-violent-violet font-weight-bold">March
+                            <%= 27 + j %>
+                        </h5>
+                    </div>
+                    <div class="row justify-content-start row-cols-1 row-cols-md-3 mt-3">
                         <% for(let k = 0; k < count[j].length; k++) { %>
                         <div class="col mb-4">
                             <%- include('./partials/card-II.ejs', {i: k, route: route, event: count[j][k]}) %>

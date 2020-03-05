@@ -1,5 +1,3 @@
-/* Old background image linear-gradient(180deg, #280b67 0%, #0f0030 100%) */
-
 .btn {
     font-weight: 500;
 }
@@ -16,14 +14,6 @@ h1.display-1.text-gold-tips.text-left {
     color: #280b67;
 }
 
-/* section.hero {
-    height: 100vh;
-    background-image: url('../images/hero.svg'), url('../images/bg.svg');
-    background-position: bottom, center;
-    background-size: contain, cover;
-    background-repeat: no-repeat;
-} */
-
 section.hero {
     height: 100vh;
     width: 100vw;
@@ -31,9 +21,8 @@ section.hero {
 
 h1.display-1 {
     font-family: 'blackoutsunrise', 'sans-serif';
-    letter-spacing: 10px;
+    letter-spacing: 4px;
     font-size: 12rem;
-    font-weight: 600;
 }
 
 div.daycount {

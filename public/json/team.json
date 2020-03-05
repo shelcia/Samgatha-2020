@@ -1,0 +1,80 @@
+{
+    "cultural": [
+        {
+            "name": "student1",
+            "role": "blah1",
+            "imgsrc": "../images/teams/svg1.svg"
+        },
+        {
+            "name": "student2",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "spons": [
+        {
+            "name": "student1",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student2",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "publicity": [
+        {
+            "name": "student1",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student2",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "decor": [
+        {
+            "name": "student1",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student2",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "student3",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ]
+}

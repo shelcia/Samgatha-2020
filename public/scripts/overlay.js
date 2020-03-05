@@ -1,5 +1,5 @@
 var overlay = $('#overlay');
-var overlayCard = $('section.hero.text-white .card');
+var overlayCard = $('section.hero.text-white main .card');
 var close = $('#overlay h3 i');
 
 
