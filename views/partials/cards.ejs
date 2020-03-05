@@ -16,7 +16,7 @@
         <% } else { %>
         <% imgsrc = workshop[date][i].imgsrc %>
         <% } %>
-        <div class="card justify-content-between bg-dark text-white <% if (i !== 0) { %><% if (route === 'events') { %>ml-5<% } else { %>ml-1<% } %><% } %> my-2 border-0 rounded-0 <%= route %>"
+        <div class="card justify-content-between bg-dark text-white <% if (i !== 0) { %><% if (route === 'events') { %>ml-5<% } else { %>ml-1<% } %><% } %> my-2 border-0 rounded-0<%= route %>"
             style="background-image: url('<%= imgsrc %>'); width: 45vh">
             <div class="card-body <% if(route === 'events') { %>m-4<% } %>">
                 <% if(route !== 'events') { %>

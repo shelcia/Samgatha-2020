@@ -1,12 +1,13 @@
 <%- include('./partials/header') %>
 
-<section class="text-white pt-5">
+<section class="text-white pt-5" id="hero">
     <%- include('./partials/navbar') %>
     <div class="container align-self-center mt-5 pt-5">
         <div class="row">
             <main class="col-10">
                 <div>
                     <% for(let j = 0; j < 3; j++) { %>
+                    <% if(count[j].length !== 0 ) { %>
                     <div class="row mx-0 mt-5">
                         <i class="fas fa-lg fa-angle-left" style="line-height: 2.5rem;"></i>
                         <h5 class="px-4 py-2 ml-3 d-inline bg-gold-tips text-violent-violet font-weight-bold">March
@@ -16,10 +17,11 @@
                     <div class="row justify-content-start row-cols-1 row-cols-md-3 mt-3">
                         <% for(let k = 0; k < count[j].length; k++) { %>
                         <div class="col mb-4">
-                            <%- include('./partials/card-II.ejs', {i: k, route: route, event: count[j][k]}) %>
+                            <%- include('./partials/card-II.ejs', {i: k, j: j, route: route, event: count[j][k]}) %>
                         </div>
                         <% } %>
                     </div>
+                    <% } %>
                     <% } %>
                 </div>
             </main>
@@ -36,17 +38,17 @@
                         <i class="fa fa-caret-right fa-lg float-right"></i>
                     </h3>
                     <div class="col-md-4">
-                        <img src="<%= club.events[0].imgsrc %>" class="card-img rounded-0 h-100">
+                        <img id="eventImg" src="" class="card-img rounded-0 h-100">
                     </div>
                     <div class="col-md-6">
                         <div class="card-body p-5">
-                            <h1 class="card-title"><%= club.events[0].eventName %></h1>
-                            <h5 class="font-weight-bold">Prize Money: &#8377 <%= club.events[0].prize %></h5>
+                            <h1 class="card-title"></h1>
+                            <h5 class="font-weight-bold">Prize Money: &#8377 <span id="prize"></span></h5>
                             <h5 class="font-weight-bold">Rules</h5>
-                            <p class="card-text"><%= club.events[0].rules %></p>
-                            <h5 class="font-weight-bold">Time: &#8377 <%= club.events[0].time %></h5>
-                            <h5 class="font-weight-bold">Venue: &#8377 <%= club.events[0].venue %></h5>
-                            <h5 class="font-weight-bold">Contact: &#8377 <%= club.events[0].contact %></h5>
+                            <p id="rules" class="card-text"></p>
+                            <h5 class="font-weight-bold">Time: <span id="time"></span></h5>
+                            <h5 class="font-weight-bold">Venue: <span id="venue"></span></h5>
+                            <h5 class="font-weight-bold">Contact: <span id="contact"></span></h5>
                             <a href="<%= club.events[0].registrationLink %>" class="btn btn-outline-light">REGISTER</a>
                         </div>
                     </div>

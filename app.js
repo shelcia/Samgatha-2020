@@ -18,10 +18,8 @@ app.get('/events', function (req, res) {
 });
 
 app.get('/events/:clubname', function (req, res) {
-    // var clubnames = ['Drama'];
     const events = require('./public/json/events.json');
     var i = 0, count27 = [], count28 = [], count29 = [], count = [count27, count28, count29];
-    // if (clubnames.includes(req.params.clubname)) {
     while (events[i].clubName.toUpperCase() !== req.params.clubname.toUpperCase()) {
         i++;
     }
@@ -42,7 +40,6 @@ app.get('/events/:clubname', function (req, res) {
         club: events[i],
         count: count
     });
-    // } else res.sendStatus(404);
 });
 
 app.get('/shows', function (req, res) {
@@ -69,8 +66,15 @@ app.get('/team', function (req, res) {
     res.render('team', { route: 'teams', team: team });
 });
 
-app.get('/back', function (req, res) {
-    res.redirect('back'); // redirect user to where he came from
+app.get('/eventData', function (req, res) {
+    const events = require('./public/json/events.json');
+    var e = req.query.path.substring(8);
+    var id = Number(req.query.id);
+    for (let i = 0; i < events.length; i++) {
+        if (events[i].clubName === e) {
+            return res.send(events[i].events[id]);
+        }
+    }
 });
 
 

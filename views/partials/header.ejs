@@ -17,22 +17,16 @@
     <!-- Website Theme -->
     <link rel="stylesheet" href="/stylesheets/theme.css">
 
-    <% if (route !== 'index' && route !== 'sponsors') { %>
+    <% if (route === 'events') { %>
     <!-- Overlay-Scrollbar -->
     <link rel="stylesheet" href="/stylesheets/OverlayScrollbars.min.css">
-    <% if(route === 'events') { %>
     <link rel="stylesheet" href="/stylesheets/os-theme-round-light.css">
-    <% } else { %>
     <link rel="stylesheet" href="/stylesheets/os-theme-block-light.css">
-    <% } %>
-    <% } %>
-
-    <% if (route !== 'index') { %>
-    <link rel="stylesheet" href="/stylesheets/cards.css">
-    <% } %>
-
-    <% if (route == 'events') { %>
     <link rel="stylesheet" href="/stylesheets/events.css">
+    <% } %>
+
+    <% if (route !== 'index' && route !== 'hospitality') { %>
+    <link rel="stylesheet" href="/stylesheets/cards.css">
     <% } %>
 
     <% if (route === 'hospitality') { %>
@@ -43,14 +37,14 @@
     <link rel="stylesheet" href="/stylesheets/club.css">
     <% } %>
 
-    <% //if (route === 'index' || route === 'club') { %>
+    <!-- fontawesome v5.9.0 -->
+    <% if (route !== 'hospitality' && route !== 'sponsors' && route !== 'team') { %>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css"
         integrity="sha256-PF6MatZtiJ8/c9O9HQ8uSUXr++R9KBYu4gbNG5511WE=" crossorigin="anonymous" />
-    <% //} %>
+    <% } %>
 
     <% switch (route) {
     case 'index': %>
-    <!-- fontawesome v5.9.0 -->
 
     <link rel="stylesheet" href="/stylesheets/index.css">
     <% break; %>
