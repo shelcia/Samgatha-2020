@@ -36,8 +36,7 @@
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "9988776655"
             },
             {
                 "eventName": "PUBG/COD (Solo/Squads)",
@@ -48,8 +47,7 @@
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "9988776655"
             },
             {
                 "eventName": "FIFA 1v1",
@@ -73,11 +71,10 @@
                 "eventName": "Synergesia",
                 "description": "A collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.  Takes place over as pan of 1 week (Including registration)\n a)Monday-Wednesday:registration period for both writers and artists\n b)Wednesday 23:59 :prompts are sent to writers only, given up till Friday afternoon to submit a work of min 500 words\n c)Friday afternoon to Friday 23:59 : Artists should choose pieces to work on.\n d)Saturday 00:00 : Artists get their allotted pieces and can create any art piece in relation with the written piece till Sunday 23:59\n d)Registration window will be open for 12 hours. Afterwhich writers will be given a set of prompts to pick and choose from.\n2.  Writers will be allowed to choose one or many prompts,how many ever required to write their story.\n3.  The story should have a minimum of 500 words and should be submitted within 24 hours of the registration deadline. This is to ensure the artists will have a written piece to work on.\n4.  Written works should be submitted via Google docs(to avoid artists unable to figure out handwriting thus making it difficult for them to draw)\n5.  Artists will then be given a 6 hour window to select the works they feel inspired by, and to ensure that no two artists pick the same work, they will provide a top 5 list and will be given a story in their top 5.\n6.  Artists will then be given a 24 hour window to come up with an art piece depicting the written work they have chosen, interpreting the text and scenes as they see fit.\n6.  Failure to submit the work on time or provide SAMID at the time of submission will lead to immediate disqualification.",
                 "prize": "2k",
                 "date": "27 March",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "9988776655"
             },
             {
                 "eventName": "Comicverse",
@@ -125,7 +122,7 @@
                 "eventName": "Dance wars (Group)",
                 "description": "Draw your weapons, sharpen your bodies, forge your forces and get ready for war because, you know, *Winter is coming*.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "1.  One round\n2.  Team size - 10 - 25\n3.  Time limit - 10 - 12 min\n4.  Judging Criteria: Technique - Variety,Teamwork , Originality, Use of Props ,Impact and Presentation .",
+                "rules": "1.  One round\n2.  Team size - 10 - 25\n3.  Time limit - 10 - 12 min\n4.  Judging Criteria: Technique - Variety,Team work , Originality, Use of Props ,Impact and Presentation.",
                 "prize": "First Place- Prizes worth 20K\n2nd prize-15K\n3rd prize -8.5K",
                 "date": "28 March",
                 "contact": "Nishanth-8668160642\nCharan-6369469243"
@@ -193,9 +190,7 @@
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "Group of Max 3 and Min 2 \n2.  Slots and topics will be written in chits and picked by two teams as a group \n3.  Round 1: Each team will be given 2 mins to put forward their thoughts \n4.  Round 2: Each team will be given two mins to oppose the other team \n5.  Round 3: Conclusion for 1 min  \n6.  On spot registration ",
                 "prize": "First Place- Prizes worth 1K\nSecond Place- Prizes worth 0.5K",
-                "time": "2:00 p.m.",
                 "date": "28 March",
-                "venue": "H05",
                 "contact": "Asvataman - 7401516932\nManonmani -  9176627371"
             },
             {
@@ -255,8 +250,7 @@
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
-                "contact": "Dhilipan - 6379399483\nSahithi - 9566896237",
-                "registrationLink": "https://blah.com"
+                "contact": "Dhilipan - 6379399483\nSahithi - 9566896237"
             },
             {
                 "eventName": "Spur of the moment",
@@ -330,7 +324,7 @@
                 "description": "What is buried may never be found! Not true? Come dig to win big.",
                 "imgsrc": "../images/events/svg2.svg",
                 "rules": "1.  Team of 4\n2.  Initial clue will be provided\n3.  Use your knowledge to find Treasure",
-                "prize": "Winner – 1.5K\nRunner - 0.75K",
+                "prize": "First Place - Prizes worth 1.5K\nSecond Place - Prizes worth 0.75K",
                 "date": "28 March",
                 "contact": "Krishnakumar – 9003323498\nJaihari G – 8903069461"
             },
@@ -339,7 +333,7 @@
                 "description": "A game for those who seek to leave their troubles behind. Beware, do not begin unless you intend to finish.!",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "1.  Team of 4\n2.  Time limit – 15min\n3.  Players can use gadgets like phone\n4.  Don’t damage the equipment\n5.  Use your knowledge and internet to find the key from the room.",
-                "prize": "Winner- 1500\nRunner - 750",
+                "prize": "First Place - Prizes worth 1.5K\nSecond Place - Prizes worth 0.75K",
                 "date": "27,28,29 March",
                 "contact": "Krishnakumar – 9003323498\nJaihari G – 8903069461"
             }
@@ -354,21 +348,16 @@
                 "description": "Pitch your ideas, adv .                                                cbxertise them and help us assimilate your business strategy and win big.",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "1.  Team event\n2.  There will be Rs.250 enclosed in the envelope\n3.  Team : 2 - 4\n4.  Duration : Any 8 hours, spaced out over two days - starting from the moment they receive the envelope.\n5.  Registration Period - as mentioned in the schedule. - In the QMS front desk.\n6.  The customers and the Participants are not supposed to trade using cash and are henceforth required to get tokens from the QMS ( Quality Management System ). All transactions will have to made through tokens.\n7.  No service will be entertained. Only products can be sold. You cannot auction.\n8.  35% of all profits made from the event, by every group, will be donated towards climate change.\n9.  Coordinators & volunteers will periodically monitor, to assess progress.\n10.  Any non-compliance to the aforementioned rules will lead to a fine of Rs.2500, which will also be donated towards the cause of climate cause..",
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "27 March",
-                "venue": "H05",
+                "prize": "Prizes worth 10K",
+                "date": "27,28,29 March",
                 "contact": "Sakthi S D - 9994568316"
             },
             {
                 "eventName": "Adzap",
                 "description": "Bring out the creativity, time management, marketing skills of your innovative minds and show us that the best team coordination always wins.",
                 "imgsrc": "../images/events/svg2.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
-                "prize": "2k",
-                "time": "2:00 p.m.",
+                "rules": "1. Teams of size 2-4\n2. Taglines will be provided on the spot\n3. Advertisements should be acted out on stage\n 4. Catchy slogans and acts has points\n5. Act should be within 3 mins",
                 "date": "28 March",
-                "venue": "H05",
                 "contact": "Sakthi S D - 9994568316"
             },
             {
@@ -376,7 +365,7 @@
                 "description": "Dreams are the treasures that gets your life going. Par- ticipate in this dreamhunt event to hunt and find yours.",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "1.  Individual Event.\n2.  Total no. of participants in a panel –7\n3.  Discuss idea relevant to any one problem statement we provide\n4.  Total time for pitching – 2 minutes per person\nWhat is a tear ?\n1.Vague details\n2.Plagiarism\n3.Benefit < Harm – in the solution provided.\n4.Loophole / Error identified\n5.Logical Errors\n6.Irrelevance to problem statement.",
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 3.5K\nSecond Place - Prizes worth 1.5K",
                 "date": "29 March",
                 "contact": "Sakthi S D - 9994568316"
             }
@@ -390,12 +379,10 @@
                 "eventName": "Mr & Ms Samgatha",
                 "description": "When it comes to fashion, event design creativity is everything. Just like the fashion designers you’re work- ing with, you want to get better each time you design a new catwalk. From venue selection to backdrops to lighting to curating an exclusive experience, it’s time to strut your stuff. Walk your way through to the goal, Miss/Mr Samgatha.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "27 March",
-                "venue": "H05",
-                "contact": "Sakthi S D - 9994568316"
+                "rules": "to be updated soon",
+                "prize": "to be updated soon",
+                "date": "29 March",
+                "contact": "D Shelcia - 8248578522"
             }
         ]
     }
