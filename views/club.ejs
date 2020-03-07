@@ -20,18 +20,23 @@
 </section>
 
 <section class="d-none" id="overlay">
-    <div class="overlay position-absolute d-flex justify-content-center bg-primary align-items-center w-100 vh-100">
-        <div class="container">
+    <div class="overlay pt-5 position-absolute d-flex justify-content-center w-100 vh-100">
+        <div class="container-md">
             <div class="card bg-transparent text-white border-0 rounded-0">
-                <div class="row no-gutters">
-                    <h3 class="bg-gold-tips rotate p-3 my-0"><%= clubName.toUpperCase() %> CLUB
-                        <i class="fa fa-caret-right fa-lg float-right"></i>
+                <div class="row">
+                    <h3 class="bg-gold-tips d-none d-lg-block rotate p-3 my-0"><%= clubName.toUpperCase() %> CLUB
+                        <i class="fas fa-angle-right fa-lg float-right"></i>
                     </h3>
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
+                        <h3 class="bg-gold-tips font-weight-bold text-violent-violet d-lg-none p-3 my-0">
+                            <i class="fas fa-angle-left fa-lg"></i>
+                            <%= clubName.toUpperCase() %>
+                            CLUB
+                        </h3>
                         <img id="eventImg" src="" class="card-img rounded-0 h-100">
                     </div>
-                    <div class="col-md-6">
-                        <div class="card-body p-5">
+                    <div class="col-lg-6">
+                        <div class="card-body py-5 p-lg-5">
                             <h1 class="card-title"></h1>
                             <h5 class="font-weight-bold">Prize Money: &#8377 <span id="prize"></span></h5>
                             <h5 class="font-weight-bold">Rules</h5>
