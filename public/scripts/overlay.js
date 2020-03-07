@@ -29,18 +29,16 @@ overlayCard.on('click', function (e) {
             $('#eventImg').attr('src', e.imgsrc);
         }
     });
-    $('#hero').fadeOut(400, function () {
-        setTimeout(function () {
+    $('#eventImg').on("load", function () {
+        $('#hero').fadeOut(400, function () {
             overlay.fadeIn(400);
-        }, 1500);
+        });
     });
 });
 
 close.on('click', function (e) {
     e.preventDefault();
     overlay.fadeOut(400, function () {
-        setTimeout(function () {
-            $('#hero').fadeIn(400);
-        }, 1500);
+        $('#hero').fadeIn(400);
     });
 });
