@@ -15,11 +15,6 @@ i {
     cursor: pointer;
 }
 
-main {
-    -ms-scroll-snap-type: x mandatory;
-    scroll-snap-type: x mandatory;
-}
-
 section.hero {
     height: 100vh;
 }
