@@ -28,38 +28,44 @@
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
-                "eventName": "CSGO 5v5",
+                "eventName": "CS GO Tournament-ACE",
                 "description": "Clear shot. Kill streaks. No luck. Solemn skills.Gather your mates, plan your strategy and take it all.",
                 "imgsrc": "../images/events/svg2.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "\tGame Settings\n\n All matches will be played on Counter-Strike: Global Offensive servers with the latest game patch of “Counter-Strike: Global Offensive”. A knife round will determine who willstart as Counter-Terrorists (CT) and as Terrorists (T).\nA match consists of 30 rounds. Each team has to play 15 rounds as Counter-Terrorists (CT) and15 rounds as Terrorists (T). The team winning 16 rounds out of 30 wins the match.\n\nIncase of a 15-15 draw 4 rounds will be played (2 ct / 2 t). 3 win.\n1.  Round time - 1 min 45 sec;\n2.  Buy time – 15 sec;\n3.  C4 timer – 40 sec;\n4.  freeze time – 6 sec.\n5.  Time out(2 per team)- 60 sec\nDuring a gameTeam Captain: Each team must present have 1 (one) representative. He is responsible for histeam and will be responsible for choosing maps and all communication with referees must bedone through the team captain.\nPicks and Bans\nThe map pool consists of the following five (7) maps:\n1.  Mirage\n2.  Cache\n3.  Overpass\n4.  Train\n5.  Nuke\n6.  Dust 2\n7.  Inferno\n\nALL matches are “Best-of-One” matches (Bo1), both teams alternately eliminate one (1) mapuntil only one (1) map is left .The remaining map will be played. The team mentioned first in the match details starts with the procedure. Map votes will be done before the match starts\nResults and Tiebreaker\nIf too many teams have the same score and it's therefore not clear who moves on to the next\nstage the following criteria are used to determine the exact ranking:\n1. Match wins Overall\n2. Match wins Head to Head\n3. Score Difference Head to Head",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "27 March",
-                "venue": "H05",
-                "contact": "9988776655"
+                "contact": "Mohit - 8778361216\nSanthosh - 73389226779988776655"
             },
             {
-                "eventName": "PUBG/COD (Solo/Squads)",
+                "eventName": "PUBG (Solo/Squads)",
                 "description": "The battle demands blood. Guide your gang, or fly solo to taste some delicious chicken for your dinner.",
                 "imgsrc": "../images/events/svg1.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1. It is enough for the team captain alone to fill the form.\n2. First 25 teams. \n3. No emulators allowed (Will be immediately kicked from the game room). \n4. Squads.\n5. Map that will be played is Erangel.\n6. TPP mode.\n7. Participants are requested to take screenshot at the end.\n8. First come first service.",
                 "prize": "2k",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
-                "contact": "9988776655"
+                "contact": "Mohit - 8778361216\nSanthosh - 7338922677"
+            },
+            {
+                "eventName": "COD (Solo/Squads)",
+                "description": "The battle demands blood. Guide your gang, or fly solo to taste some delicious chicken for your dinner.",
+                "imgsrc": "../images/events/svg1.svg",
+                "rules": "1. It is enough for the team captain alone to fill the form.\n2. First 25 teams. \n3. No emulators allowed (Will be immediately kicked from the game room). \n4. Squads.\n5. Map that will be played is Erangel.\n6. TPP mode.\n7. Participants are requested to take screenshot at the end.\n8. First come first service.",
+                "prize": "2k",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": "Mohit - 8778361216\nSanthosh - 7338922677"
             },
             {
                 "eventName": "FIFA 1v1",
                 "description": "Experience what it takes to control your favourite player. Play to prove the pride of your jersey and shoot for victory.",
                 "imgsrc": "../images/events/svg2.svg",
-                "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",
+                "rules": "1.The game version that will be played is FIFA 19(1v1).(Mode of matches will be Knock Out).\n2. Knockout round halftime - 4mins;semis - 5 mins; Finals - 6 mins (tentative).\n3. It is highly advised to bring YOUR OWN controller and keyboard. Laptop will be provided.\n4. Opponents will be drawn randomly.\n5.Participants will be only given limited amount of prep time.(configuring,managing,etc..)\n6. there won't be any home and away in the final game, in case of tie in final, extra time followed by penalties shall take place.\n7. A match once started won't be restarted again without any coordinators permission.",
                 "prize": "2k",
-                "time": "2:00 p.m.",
                 "date": "28 March",
-                "venue": "H05",
-                "contact": "9988776655",
-                "registrationLink": "https://blah.com"
+                "contact": "Mohit - 8778361216\nSanthosh - 7338922677"
             }
         ]
     },
