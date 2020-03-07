@@ -1,6 +1,7 @@
 [
     {
         "clubName": "Music",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -31,6 +32,7 @@
     },
     {
         "clubName": "Gaming",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -73,6 +75,7 @@
     },
     {
         "clubName": "Art",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -115,6 +118,7 @@
     },
     {
         "clubName": "Dance",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -157,6 +161,7 @@
     },
     {
         "clubName": "Photography",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -199,6 +204,7 @@
     },
     {
         "clubName": "Tamil Saalaram",
+        "suffixClub": false,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -253,6 +259,7 @@
     },
     {
         "clubName": "Quiz",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -295,6 +302,7 @@
     },
     {
         "clubName": "Drama",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -337,6 +345,7 @@
     },
     {
         "clubName": "Drama",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -379,6 +388,7 @@
     },
     {
         "clubName": "Literature",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -421,6 +431,7 @@
     },
     {
         "clubName": "Adventure",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -463,6 +474,7 @@
     },
     {
         "clubName": "EPIC",
+        "suffixClub": true,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
@@ -505,10 +517,11 @@
     },
     {
         "clubName": "Mr & Ms Samgatha",
+        "suffixClub": false,
         "imgsrc": "../images/clubs/svg1.svg",
         "events": [
             {
-                "eventName": "Mr & Ms Samgatha",
+                "eventName": "Mr & Ms Samgatha",    
                 "description": "When it comes to fashion, event design creativity is everything. Just like the fashion designers you’re work- ing with, you want to get better each time you design a new catwalk. From venue selection to backdrops to lighting to curating an exclusive experience, it’s time to strut your stuff. Walk your way through to the goal, Miss/Mr Samgatha.",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit dui, scelerisque hendrerit efficitur in, facilisis et erat. Etiam tristique tempus massa, pretium varius risus aliquet gravida. Proin vehicula efficitur nibh id viverra. Pellentesque sed condimentum sapien. Curabitur hendrerit imperdiet nunc venenatis congue. Curabitur cursus ligula dolor, imperdiet ullamcorper velit placerat vel. Sed tincidunt turpis non vehicula rhoncus.",

@@ -1,26 +1,39 @@
-<div class="card bg-transparent border-0">
-    <% if(route === 'sponsors' || route === 'teams') { %>
-    <% if(route === 'sponsors') { %>
-    <a href="<%= sponsor[i].website %>" target="_blank">
+<div class="col mb-5">
+    <div
+        class="card <% if(route === 'club') { %>bg-violent-violet shadow<% } else { %>bg-transparent<% } %> border-0 h-100">
+        <% if(route === 'club') { %>
+        <h5 class="px-2 py-1 ml-3 d-inline bg-gold-tips text-violent-violet font-weight-bold position-absolute"
+            style="right:10px; top: 10px;">March
+            <%= 27 + j %>
+        </h5>
         <% } %>
-        <img src="<%= sponsor[i].imgsrc %>"
-            class="card-img-top mx-auto <% if(route === 'teams') { %>rounded-circle<% } %>" alt="<%= route %>"
-            <%if(route === 'teams') {%>style="width: 90%!important" <% } %>>
-        <% if(route === 'sponsors') { %>
-    </a>
-    <% } %>
-    <% } else { %>
-    <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="<%= route %>">
-    <% } %>
-
-    <div class="card-body text-white px-0 <% if(route === 'club') { %>py-0<% } %>">
         <% if(route === 'sponsors' || route === 'teams') { %>
-        <h5 class="card-title mb-0"><%= sponsor[i].name %></h5>
-        <small><%= sponsor[i].description || sponsor[i].role %></small>
+        <% if(route === 'sponsors') { %>
+        <a href="<%= sponsor[i].website %>" target="_blank">
+            <% } %>
+            <img src="<%= sponsor[i].imgsrc %>"
+                class="card-img-top mx-auto <% if(route === 'teams') { %>rounded-circle<% } %>" alt="<%= route %>"
+                <%if(route === 'teams') {%>style="width: 90%!important" <% } %>>
+            <% if(route === 'sponsors') { %>
+        </a>
+        <% } %>
         <% } else { %>
-        <h5 class="card-title p-3 font-weight-bolder bg-white text-dark"><%= event.eventName %></h5>
-        <caption><%= event.description %></caption>
-        <a href="<%= event.registrationLink %>" class="btn btn-outline-light d-block mt-2">REGISTER</a>
+        <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="<%= route %>">
+        <% } %>
+
+        <div class="card-body text-white p-0">
+            <% if(route === 'sponsors' || route === 'teams') { %>
+            <h5 class="card-title mb-0  <% if(route === 'sponsors') { %>mt-3<% } %>"><%= sponsor[i].name %></h5>
+            <small><%= sponsor[i].description || sponsor[i].role %></small>
+            <% } else { %>
+            <h5 class="card-title p-3 mx-0 font-weight-bolder bg-white text-dark"><%= event.eventName %></h5>
+            <p class="px-4"><%= event.description %></p>
+            <% } %>
+        </div>
+        <% if(route === 'club') { %>
+        <div class="card-footer border-0 bg-transparent">
+            <a href="<%= event.registrationLink %>" class="btn btn-outline-light my-2">REGISTER</a>
+        </div>
         <% } %>
     </div>
 </div>

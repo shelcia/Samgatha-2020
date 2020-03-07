@@ -2,7 +2,7 @@
 <section class="hero d-flex align-items-center text-white">
     <%- include('./partials/navbar') %>
     <div class="container-fluid mt-3 pt-5">
-        <div class="row justify-content-end mx-0">
+        <div class="row justify-content-end mx-0 d-none d-sm-flex">
             <div class="col-11 px-0">
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item mr-1">
@@ -21,7 +21,7 @@
                 </ul>
             </div>
         </div>
-        <div class="row justify-content-center tab-content mx-0 mt-3">
+        <div class="row d-none d-sm-flex justify-content-center tab-content mx-0 mt-3">
             <div class="col-12 tab-pane fade show active" id="March27" role="tabpanel">
                 <div class="row">
                     <%- include('./partials/cards', {origin: 'Proshow', date: '27 March'}) %>
@@ -37,6 +37,11 @@
                     <%- include('./partials/cards', {origin: 'Proshow', date: '29 March'}) %>
                 </div>
             </div>
+        </div>
+        <div class="d-sm-none">
+            <%- include('./partials/cards', {origin: 'Proshow', date: '27 March'}) %>
+            <%- include('./partials/cards', {origin: 'Proshow', date: '28 March'}) %>
+            <%- include('./partials/cards', {origin: 'Proshow', date: '29 March'}) %>
         </div>
     </div>
 </section>

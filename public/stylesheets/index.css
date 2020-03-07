@@ -1,6 +1,15 @@
+html,
+body {
+    background-image: url('../images/bg.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
 .btn {
     font-weight: 500;
 }
+
 
 h1.display-1.text-gold-tips.text-left {
     line-height: 85%;
@@ -72,8 +81,14 @@ img.logo {
     width: 12.5rem;
 }
 
-div.social {
+div.social a {
     font-size: 15px;
+    color: #FFF;
+    transition: color 300ms;
+}
+
+div.social a:hover {
+    color: #d3af04;
 }
 
 @media (min-width:1200px) {

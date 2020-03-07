@@ -32,17 +32,4 @@ window.addEventListener('load', function (e) {
             });
         });
     });
-
-
 });
-
-function controlOpacity(params) {
-    var maxScrollable = Math.floor(wrapper.scrollWidth - wrapper.clientWidth);
-    if (wrapper.scrollLeft <= 15) {
-        left.style.opacity = 0;
-        right.style.opacity = 1;
-    } else if (Math.floor(wrapper.scrollLeft - maxScrollable) <= 15) {
-        right.style.opacity = 0;
-        left.style.opacity = 1;
-    }
-}

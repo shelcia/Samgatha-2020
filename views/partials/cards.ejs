@@ -4,11 +4,11 @@
 <% len = workshop[date].length %>
 <% } %>
 
-<div class="col-md-1 d-none d-md-block nav-left align-self-center text-left">
+<div class="col-sm-2 col-md-1 d-none d-sm-block nav-left align-self-center text-left">
     <i class="fas fa-6x fa-angle-left text-razzmatazz"></i>
 </div>
 
-<div class="col-12 col-md-10 px-0">
+<div class="col-sm-8 col-md-10 mx-auto px-0">
     <div class="scroll-wrapper">
         <% for( let i = 0; i < len; i++ ) { %>
         <% if(route == 'events') { %>
@@ -16,38 +16,56 @@
         <% } else { %>
         <% imgsrc = workshop[date][i].imgsrc %>
         <% } %>
-        <div class="card justify-content-between bg-dark text-white <% if (i !== 0) { %><% if (route === 'events') { %>ml-5<% } else { %>ml-1<% } %><% } %> my-2 border-0 rounded-0<%= route %>"
-            style="background-image: url('<%= imgsrc %>'); width: 45vh">
-            <div class="card-body <% if(route === 'events') { %>m-4<% } %>">
-                <% if(route !== 'events') { %>
-                <h1 class="card-title"><%= date %></h1>
-                <p class="card-text"><%= workshop[date][i].tagline %></p>
-                <% } else { %>
-                <% for(let j = 0; j < workshop[i].events.length; j++) { %>
-                <div class="mb-4">
-                    <h4 class="card-title mb-0"><%= workshop[i].events[j].date %></h4>
-                    <caption class="card-title"><%= workshop[i].events[j].eventName %></caption>
+        <div class="card justify-content-between bg-transparent text-white <% if (i !== 0) { %><% if (route === 'events') { %>ml-sm-5<% } else { %>ml-sm-1<% } %><% } %> my-5 mx-2 my-sm-2 border-0 rounded-0"
+            style="width: 45vh; <% if(route === 'events') { %>background-image: url('<%= imgsrc %><% } %>');">
+            <div class="card-front h-100" <% if(route !== 'events') { %>style="background-image: url('<%= imgsrc %>');"
+                <% } %><% if(route === 'events') { %>style="transform: none;" <% } %>>
+                <div class="card-body <% if(route === 'events') { %>m-4<% } %>">
+                    <% if(route !== 'events') { %>
+                    <h1 class="card-title"><%= date %></h1>
+                    <p class="card-text"><%= workshop[date][i].tagline %></p>
+                    <% } else { %>
+                    <% for(let j = 0; j < workshop[i].events.length; j++) { %>
+                    <div class="mb-4">
+                        <h4 class="card-title font-weight-bolder mb-0"><%= workshop[i].events[j].date %></h4>
+                        <caption class="card-title"><%= workshop[i].events[j].eventName %></caption>
+                    </div>
+                    <% } %>
+                    <% } %>
+                    <% if(route !== 'events') { %>
+                    <div class="position-absolute mb-3" style="bottom: 0;">
+                        <h1 class="mb-0"><%= workshop[date][i].name %></h1>
+                    </div>
+                    <% } %>
                 </div>
-                <% } %>
-                <% } %>
             </div>
+            <% if(route !== 'events') { %>
+            <div class="card-back d-sm-none bg-violent-violet h-100">
+                <div class="card-body">
+                    <h1 class="card-title text-gold-tips"><%= workshop[date][i].name %></h1>
+                    <p class="card-text"><%= workshop[date][i].description %></p>
+                    <button class="btn btn-outline-gold-tips">REGISTER</button>
+                </div>
+            </div>
+            <% } %>
             <% if(route === 'events') { %>
             <a href="/events/<%= workshop[i].clubName %>" class="text-white">
-                <% } %>
                 <div class="card-footer">
                     <% if(route === 'events') { %>
-                    <h1 class="mb-0"><%= workshop[i].clubName %></h1>
+                    <h1 class="font-weight-bolder mb-0"><%= workshop[i].clubName %></h1>
+                    <% if(workshop[i].suffixClub) { %>
                     <h2>Club</h2>
+                    <% } %>
                     <% } else { %>
                     <h1 class="mb-0"><%= workshop[date][i].name %></h1>
                     <% } %>
                 </div>
-                <% if(route === 'events') { %>
             </a>
             <% } %>
         </div>
         <% if(route !== 'events') { %>
-        <div class="card bg-transparent text-white mr-5 my-2 border-0 rounded-0" style="width: 0">
+        <div class="card bg-transparent text-white mr-5 my-2 border-0 rounded-0 d-none d-sm-block"
+            style="width: 0!important">
             <div class="card-body pl-5 d-none">
                 <h1 class="card-title <% if(route == 'shows') { %>text-gold-tips<% } else { %>text-razzmatazz<% } %>">
                     <%= workshop[date][i].name %></h1>
@@ -61,6 +79,6 @@
     </div>
 </div>
 
-<div class="col-md-1 d-none d-md-block nav-right align-self-center text-right">
+<div class="col-sm-2 col-md-1 d-none d-sm-block nav-right align-self-center text-right">
     <i class="fas fa-6x fa-angle-right text-razzmatazz"></i>
 </div>

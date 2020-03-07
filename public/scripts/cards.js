@@ -11,7 +11,7 @@ for (let i = 0; i < cards.length; i = i + 2) {
         } else {
             cards[i + 1].firstElementChild.classList.add('d-none');
             setTimeout(function () {
-                cards[i + 1].style.width = '0';
+                cards[i + 1].setAttribute('style', 'width: 0 !important');
             }, 10);
         }
     });
@@ -23,7 +23,7 @@ function closeAll() {
         if (!openCards[i].firstElementChild.classList.contains('d-none')) {
             openCards[i].firstElementChild.classList.add('d-none');
             setTimeout(function () {
-                openCards[i].style.width = '0';
+                openCards[i].setAttribute('style', 'width: 0 !important');
             }, 10);
         }
     }

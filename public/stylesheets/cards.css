@@ -1,19 +1,46 @@
-section.hero {
-    height: 100vh;
-}
+@media (min-width: 576px) {
+    section.hero {
+        height: 100vh;
+    }
 
-div.scroll-wrapper {
-    /* Chrome, opera, safari */
-    scroll-behavior: smooth;
-    display: flex;
-    overflow-x: hidden;
-    flex-wrap: nowrap;
-    height: 65vh;
-}
-
-@media (max-width: 768px) {
     div.scroll-wrapper {
-        overflow-x: scroll;
+        scroll-behavior: smooth;
+        display: flex;
+        overflow-x: hidden;
+        flex-wrap: nowrap;
+    }
+
+    div.scroll-wrapper div.card {
+        width: 45vh !important;
+        flex: 0 0 auto;
+    }
+}
+
+@media (max-width: 576px) {
+    div.card:hover div.card-front {
+        transform: rotateY(180deg);
+    }
+
+    div.card:hover div.card-back {
+        transform: rotateY(0deg);
+    }
+
+    div.card-front {
+        background-position: center;
+        backface-visibility: hidden;
+        transition: transform 1000ms cubic-bezier(0.265, -0.175, 0.805, -0.460) !important;
+    }
+
+    div.card-back {
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        transform: rotateY(180deg);
+        background-position: center;
+        backface-visibility: hidden;
+        transition: transform 1000ms cubic-bezier(0.265, -0.175, 0.805, -0.460) !important;
     }
 }
 
@@ -22,6 +49,12 @@ div.card {
     background-repeat: no-repeat;
     background-position: center;
     transition: width 400ms;
+    width: auto !important;
+    height: 65vh;
+}
+
+div.card-front {
+    background-position: center;
 }
 
 div.card:nth-of-type(2n-1) {
@@ -37,9 +70,6 @@ div.card.shows {
     color: #fff !important;
 }
 
-div.scroll-wrapper div.card {
-    flex: 0 0 auto;
-}
 
 div.nav-left,
 div.nav-right {

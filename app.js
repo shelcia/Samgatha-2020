@@ -1,15 +1,13 @@
 const express = require('express');
-const moment = require('moment');
+const favicon = require('serve-favicon');
 const app = express();
 
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
+app.use(favicon(__dirname + '/favicon.ico'));
 
 app.get('/', function (req, res) {
-    var today = moment.now();
-    var samgatha = moment('2020-03-27');
-    var daysLeft = samgatha.diff(today, 'days');
-    res.render('index', { route: 'index', daysLeft: daysLeft });
+    res.render('index', { route: 'index' });
 });
 
 app.get('/events', function (req, res) {
@@ -76,7 +74,6 @@ app.get('/eventData', function (req, res) {
         }
     }
 });
-
 
 app.listen(process.env.PORT || 3000, process.env.IP, function () {
     console.log("Server has started!");
