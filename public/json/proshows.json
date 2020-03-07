@@ -1,104 +1,28 @@
 {
     "27 March": [
         {
-            "name": "Proshow1",
-            "tagline": "tagline1",
+            "name": "Comedy Night",
+            "tagline": "to be revealed",
             "imgsrc": "../images/proshows/svg2.svg",
             "description": "lorem ipsum dolor sit amet consectutor",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow2",
-            "tagline": "tagline2",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah2",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow3",
-            "tagline": "tagline3",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah3",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow3",
-            "tagline": "tagline3",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah3",
             "registrationLink": "https://blah-blah.com"
         }
     ],
     "28 March": [
         {
-            "name": "Proshow5",
-            "tagline": "tagline5",
+            "name": "EDM Night",
+            "tagline": "to be Revealed",
             "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah5",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow6",
-            "tagline": "tagline6",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah6",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow7",
-            "tagline": "tagline7",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah7",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow8",
-            "tagline": "tagline8",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah8",
-            "registrationLink": "https://blah-blah.com"
+            "description": "blah5"
         }
     ],
     "29 March": [
         {
-            "name": "Proshow9",
-            "tagline": "tagline9",
+            "name": "Rock Night",
+            "tagline": "to be Revealed",
             "imgsrc": "../images/proshows/svg2.svg",
             "description": "blah9",
-            "date": "29 March",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow10",
-            "tagline": "tagline10",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah10",
-            "date": "29 March",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow11",
-            "tagline": "tagline11",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah11",
-            "date": "29 March",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow12",
-            "tagline": "tagline12",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah12",
-            "date": "29 March",
-            "registrationLink": "https://blah-blah.com"
-        },
-        {
-            "name": "Proshow13",
-            "tagline": "tagline13",
-            "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah13",
-            "date": "29 March",
-            "registrationLink": "https://blah-blah.com"
+            "date": "29 March"
         }
     ]
 }
