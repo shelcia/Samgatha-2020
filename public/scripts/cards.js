@@ -1,7 +1,9 @@
 var cards = document.querySelectorAll('div.card');
 for (let i = 0; i < cards.length; i = i + 2) {
     cards[i].addEventListener('click', function (e) {
+        const wrapper = document.querySelector('div.scroll-wrapper');
         e.preventDefault();
+        wrapper.scrollLeft = this.offsetLeft - 100;
         if (cards[i + 1].style.width === '0px') {
             closeAll();
             cards[i + 1].style.width = '45vh';

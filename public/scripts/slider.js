@@ -12,7 +12,7 @@ window.addEventListener('load', function (e) {
     } else {
         var scrollAmount = card.clientWidth + Number(window.getComputedStyle(card).marginLeft.substring(0, 1)) + Number(window.getComputedStyle(prevCard).marginRight.substring(0, 2));
     }
-    var delay = 3000;
+    var delay = 5000;
     wrapper.forEach(slider => {
         setInterval(function () {
             slider.scrollLeft = slider.scrollLeft + scrollAmount;
@@ -20,6 +20,7 @@ window.addEventListener('load', function (e) {
                 slider.scrollLeft = 0;
             }
         }, delay);
+
         right.forEach(right => {
             right.addEventListener('click', function (e) {
                 slider.scrollLeft = slider.scrollLeft + scrollAmount;
