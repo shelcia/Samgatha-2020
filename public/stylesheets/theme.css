@@ -116,6 +116,7 @@ nav {
     -webkit-transition: background-color 400ms;
     -o-transition: background-color 400ms;
     transition: background-color 400ms;
+    z-index: 1100 !important;
 }
 
 nav.border-bottom {

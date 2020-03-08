@@ -22,7 +22,7 @@
                 <% } %><% if(route === 'events') { %>style="transform: none;" <% } %>>
                 <div class="card-body <% if(route === 'events') { %>m-4<% } %>">
                     <% if(route !== 'events') { %>
-                    <h1 class="card-title"><%= date %></h1>
+                    <h1 class="card-title font-weight-bolder"><%= date %></h1>
                     <p class="card-text"><%= workshop[date][i].tagline %></p>
                     <% } else { %>
                     <% for(let j = 0; j < workshop[i].events.length; j++) { %>
@@ -34,13 +34,13 @@
                     <% } %>
                     <% if(route !== 'events') { %>
                     <div class="position-absolute mb-3" style="bottom: 0;">
-                        <h1 class="mb-0"><%= workshop[date][i].name %></h1>
+                        <h1 class="mb-0 font-weight-bolder"><%= workshop[date][i].name %></h1>
                     </div>
                     <% } %>
                 </div>
             </div>
             <% if(route !== 'events') { %>
-            <div class="card-back d-sm-none bg-violent-violet h-100">
+            <div class=" card-back d-sm-none bg-violent-violet h-100">
                 <div class="card-body">
                     <h1 class="card-title text-gold-tips"><%= workshop[date][i].name %></h1>
                     <p class="card-text"><%= workshop[date][i].description %></p>

@@ -1,5 +1,3 @@
-/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
-
 html,
 body {
     background-image: url('../images/bg.svg');
@@ -39,63 +37,6 @@ h1.display-1 {
     font-family: 'blackoutsunrise', 'sans-serif';
     letter-spacing: 4px;
     font-size: 12rem;
-}
-
-div.daycount {
-    text-shadow: -2px 2px 10px rgba(0, 0, 0, 0.5);
-    -webkit-transform: skewY(10deg);
-    -ms-transform: skewY(10deg);
-    transform: skewY(10deg);
-}
-
-div.daycount:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: -25px;
-    width: 25px;
-    height: 100%;
-    background-color: #eaeaea;
-    -webkit-transform-origin: left bottom;
-    -ms-transform-origin: left bottom;
-    transform-origin: left bottom;
-    -webkit-transform: skewY(-45deg);
-    -ms-transform: skewY(-45deg);
-    transform: skewY(-45deg);
-    border: 1px solid #999;
-}
-
-div.daycount:after {
-    content: '';
-    position: absolute;
-    top: -25px;
-    right: 0;
-    width: 100%;
-    height: 25px;
-    background-color: #FFF;
-    -webkit-transform-origin: bottom right;
-    -ms-transform-origin: bottom right;
-    transform-origin: bottom right;
-    -webkit-transform: skewX(-45deg);
-    -ms-transform: skewX(-45deg);
-    transform: skewX(-45deg);
-    border: 1px solid #999;
-}
-
-div.daycount p:after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    right: -25px;
-    width: 25px;
-    height: 30%;
-    -webkit-transform-origin: bottom left;
-    -ms-transform-origin: bottom left;
-    transform-origin: bottom left;
-    -webkit-transform: skewY(-45deg);
-    -ms-transform: skewY(-45deg);
-    transform: skewY(-45deg);
-    background-color: #d3af04;
 }
 
 img.logo {

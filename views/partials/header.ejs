@@ -26,10 +26,6 @@
     <link rel="stylesheet" href="/stylesheets/cards.css">
     <% } %>
 
-    <% if (route === 'hospitality') { %>
-    <link rel="stylesheet" href="/stylesheets/hospitality.css">
-    <% } %>
-
     <% if (route === 'club') { %>
     <link rel="stylesheet" href="/stylesheets/club.css">
     <% } %>
@@ -47,6 +43,21 @@
     <% break; %>
     <% } %>
     <title>Samgatha</title>
+    <style>
+        @media (max-width: 576px) {
+            * {
+                font-size: 3.5vw;
+            }
+
+            span.navbar-toggler-icon {
+                font-size: 20px;
+            }
+
+            a.nav-link {
+                font-size: 16px !important;
+            }
+        }
+    </style>
 </head>
 
 <body>

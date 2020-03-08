@@ -1,4 +1,4 @@
-<div class="col mb-5 pb-3 pb-sm-3 <% if(route === 'teams') { %>border-bottom<% } %>">
+<div class="col mb-5 pb-3 pb-sm-3">
     <div
         class="card <% if(route === 'club') { %>bg-violent-violet shadow<% } else { %>bg-transparent<% } %> border-0 h-100">
         <% if(route === 'club') { %>
@@ -23,9 +23,9 @@
 
         <div class="card-body text-white p-0">
             <% if(route === 'sponsors' || route === 'teams') { %>
-            <h5 class="card-title mb-0  <% if(route === 'sponsors' || route === 'teams') { %>mt-3<% } %>">
-                <%= sponsor[i].name %></h5>
-            <small><%= sponsor[i].description || sponsor[i].role %></small>
+            <h4 class="card-title mb-0  <% if(route === 'sponsors' || route === 'teams') { %>mt-3<% } %>">
+                <%= sponsor[i].name %></h4>
+            <p><%= sponsor[i].description || sponsor[i].role %></p>
             <% } else { %>
             <h5 class="card-title p-3 mx-0 font-weight-bolder bg-white text-dark"><%= event.eventName %></h5>
             <p class="px-4"><%= event.description %></p>
