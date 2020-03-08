@@ -25,7 +25,7 @@ overlayCard.on('click', function (e) {
             $('h1.card-title').text(e.eventName);
             for (let i = 0; i < e.rules.length; i++) {
                 var newItem = $('<li>');
-                newItem.text(e.rules[i]);
+                newItem.html(e.rules[i]);
                 $('#rules').append(newItem);
             };
             for (let i = 0; i < e.contact.length; i++) {
