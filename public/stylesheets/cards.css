@@ -95,6 +95,7 @@ div.nav-left,
 div.nav-right {
     z-index: 1;
     cursor: pointer;
+    -webkit-text-stroke: 7px #001874;
     -webkit-transition: all 400ms;
     -o-transition: all 400ms;
     transition: all 400ms;
