@@ -4,7 +4,7 @@
             "name": "Comedy Night",
             "tagline": "to be revealed",
             "imgsrc": "../images/proshows/svg2.svg",
-            "description": "lorem ipsum dolor sit amet consectutor",
+            "description": "to be revealed",
             "registrationLink": "https://blah-blah.com"
         }
     ],
@@ -13,7 +13,8 @@
             "name": "EDM Night",
             "tagline": "to be Revealed",
             "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah5"
+            "description": "to be revealed",
+            "registrationLink": "https://blah-blah.com"
         }
     ],
     "29 March": [
@@ -21,8 +22,8 @@
             "name": "Rock Night",
             "tagline": "to be Revealed",
             "imgsrc": "../images/proshows/svg2.svg",
-            "description": "blah9",
-            "date": "29 March"
+            "description": "to be revealed",
+            "registrationLink": "https://blah-blah.com
         }
     ]
 }
