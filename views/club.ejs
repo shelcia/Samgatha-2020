@@ -40,10 +40,15 @@
                             <h1 class="card-title"></h1>
                             <h5 class="font-weight-bold">Prize Money: &#8377 <span id="prize"></span></h5>
                             <h5 class="font-weight-bold">Rules</h5>
-                            <p id="rules" class="card-text"></p>
-                            <h5 class="font-weight-bold">Time: <span id="time"></span></h5>
-                            <h5 class="font-weight-bold">Venue: <span id="venue"></span></h5>
-                            <h5 class="font-weight-bold">Contact: <span id="contact"></span></h5>
+                            <ol id="rules" class="lead"></ol>
+                            <h5 class="font-weight-bold d-none">Time: <span id="time"></span></h5>
+                            <h5 class="font-weight-bold d-none">Venue: <span id="venue"></span></h5>
+                            <div class="row mb-4 mx-0">
+                                <div class="align-items-start">
+                                    <h5 class="font-weight-bold">Contact:</h5>
+                                </div>
+                                <div class="col-8" id="contact"></div>
+                            </div>
                             <a href="<%= club.events[0].registrationLink %>" class="btn btn-outline-light">REGISTER</a>
                         </div>
                     </div>

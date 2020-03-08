@@ -1,50 +1,26 @@
 [
     {
-        "name": "sponsor1",
-        "description": "blah1",
-        "imgsrc": "../images/sponsors/svg1.svg",
+        "name": "Woman's Era",
+        "description": "Print Media Partner (English)",
+        "imgsrc": "/images/sponsors/womansera.jpg",
+        "website": "https://www.womansera.com/"
+    },
+    {
+        "name": "Green Trends",
+        "description": "Style Partner",
+        "imgsrc": "/images/sponsors/greentrends.jpg",
+        "website": "http://www.greentrendschennai.com/"
+    },
+    {
+        "name": "Hello Intern",
+        "description": "Internship partner",
+        "imgsrc": "/images/sponsors/hellointern.jpg",
         "website": "https://www.google.co.in"
     },
     {
-        "name": "sponsor2",
-        "description": "blah2",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor3",
-        "description": "blah3",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor4",
-        "description": "blah4",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor5",
-        "description": "blah5",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor6",
-        "description": "blah6",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor7",
-        "description": "blah7",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
-    },
-    {
-        "name": "sponsor8",
-        "description": "blah8",
-        "imgsrc": "../images/sponsors/svg1.svg",
-        "website": "https://www.google.co.in"
+        "name": "The Souled Store",
+        "description": "Gifting Partner",
+        "imgsrc": "/images/sponsors/souledstore.jpg",
+        "website": "https://www.hellointern.com/"
     }
 ]

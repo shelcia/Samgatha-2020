@@ -20,12 +20,22 @@ overlayCard.on('click', function (e) {
         },
         dataType: "json",
         success: function (e) {
+            $('#rules').text('');
+            $('#contact').text('');
             $('h1.card-title').text(e.eventName);
-            $('#rules').text(e.rules);
+            for (let i = 0; i < e.rules.length; i++) {
+                var newItem = $('<li>');
+                newItem.text(e.rules[i]);
+                $('#rules').append(newItem);
+            };
+            for (let i = 0; i < e.contact.length; i++) {
+                var newItem = $('<p>', { class: 'mb-0' });
+                newItem.text(e.contact[i]);
+                $('#contact').append(newItem);
+            };
             $('#prize').text(e.prize);
             $('#time').text(e.time);
             $('#venue').text(e.venue);
-            $('#contact').text(e.contact);
             $('#eventImg').attr('src', e.imgsrc);
         }
     });
