@@ -132,3 +132,12 @@ ul {
         max-width: 85vw;
     }
 }
+
+@media (min-width: 576px) {
+    .fixed-sm-top {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+    }
+}
