@@ -15,12 +15,12 @@
         "name": "Hello Intern",
         "description": "Internship partner",
         "imgsrc": "/images/sponsors/hellointern.jpg",
-        "website": "https://www.google.co.in"
+        "website": "https://www.hellointern.com/"
     },
     {
         "name": "The Souled Store",
         "description": "Gifting Partner",
         "imgsrc": "/images/sponsors/souledstore.jpg",
-        "website": "https://www.hellointern.com/"
+        "website": "https://www.thesouledstore.com/"
     }
 ]
