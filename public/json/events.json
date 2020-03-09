@@ -30,7 +30,7 @@
 			},
 			{
 				"eventName": "Solo Singing",
-				"description": "You’re insecure, don’t know what for! Come sing with us and rock the floor. Calling all the hummers, profes- sionals and wannabes to sing your heart out, be it kara- oke or not.",
+				"description": "You’re insecure, don’t know what for! Come sing with us and rock the floor. Calling all the hummers, professionals and wannabes to sing your heart out, be it karaoke or not.",
 				"imgsrc": "../images/events/Music_f/f2.jpg",
 				"rules": [
 					"Any genre of music is allowed.",
@@ -65,7 +65,7 @@
 				"rules": [
 					"Game Settings",
 					"All matches will be played on Counter-Strike: Global Offensive servers with the latest game patch of “Counter-Strike: Global Offensive”. A knife round will determine who willstart as Counter-Terrorists (CT) and as Terrorists (T).A match consists of 30 rounds. Each team has to play 15 rounds as Counter-Terrorists (CT) and 15 rounds as Terrorists (T). The team winning 16 rounds out of 30 wins the match.",
-					"Incase of a 15-15 draw 4 rounds will be played (2 ct / 2 t). 3 win,<ul><li>Round time - 1 min 45 sec;/li><li>Buy time – 15 sec;/li><li>C4 timer – 40 sec;</li><li>freeze time – 6 sec.</li><li>fTime out(2 per team)- 60 sec</li><li>Time out(2 per team)- 60 sec</li></ul>",
+					"Incase of a 15-15 draw 4 rounds will be played (2 ct / 2 t). 3 win,<ul><li>Round time - 1 min 45 sec;</li><li>Buy time – 15 sec;</li><li>C4 timer – 40 sec;</li><li>freeze time – 6 sec.</li><li>Time out(2 per team)- 60 sec</li></ul>",
 					"During a game Team Captain: Each team must present have 1 (one) representative. He is responsible for histeam and will be responsible for choosing maps and all communication with referees must bedone through the team captain.",
 					"Picks and Bans - he map pool consists of the following five (7) maps,<ul><li>Mirage</li><li>Cache</li><li>Overpass</li><li>Train</li><li>Nuke</li><li>Dust</li><li>Inferno</li></ul>",
 					"ALL matches are 'Best-of-One' matches (Bo1), both teams alternately eliminate one (1) mapuntil only one (1) map is left .The remaining map will be played. The team mentioned first in the match details starts with the procedure. Map votes will be done before the match starts",
@@ -184,7 +184,7 @@
 			},
 			{
 				"eventName": "Comicverse",
-				"description": "Have a thing for recreating comic scripts? Let the wild- est of your imagination flow and deliver an interesting comic script in your own style.",
+				"description": "Have a thing for recreating comic scripts? Let the wildest of your imagination flow and deliver an interesting comic script in your own style.",
 				"imgsrc": "../images/events/Art_f/f3.jpg",
 				"rules": [
 					"Duration: 2 hrs",
@@ -263,7 +263,7 @@
 		"events": [{
 				"eventName": "Impulse (Solo)",
 				"description": "Dance is the language of the body. Show your passion on the dance stage and let your body do the talking.",
-				"imgsrc": "../images/events/Dance_f/f01.jpg",
+				"imgsrc": "../images/events/Dance_f/F01.jpg",
 				"rules": [
 					"One member.",
 					"Time limit - 3 - 5 min",
@@ -305,7 +305,7 @@
 			{
 				"eventName": "Minute to win it (Solo)",
 				"description": "A video recorder, a good beat and some crazy moves is what it takes to prove yourself to the world. Have you got what it takes? Prove it.",
-				"imgsrc": "../images/events/Dance_f/f02.jpg",
+				"imgsrc": "../images/events/Dance_f/02.jpg",
 				"rules": [
 					"One member",
 					"Time limit - Maximum 1 min",
@@ -469,9 +469,10 @@
 		"clubName": "Quiz",
 		"suffixClub": true,
 		"imgsrc": "../images/events/Quiz_f/f3.jpg",
-		"events": [{
+		"events": [
+			{
 				"eventName": "India Quiz",
-				"description": "As we have entered a new decade, let us take a look at all the facts and achievements that India and her people have conquered over the 70 years of her free- dom and over centuries of her history.",
+				"description": "As we have entered a new decade, let us take a look at all the facts and achievements that India and her people have conquered over the 70 years of her freedom and over centuries of her history.",
 				"imgsrc": "../images/events/Quiz_f/f1.jpg",
 				"rules": [
 					"The maximum team size is permitted to 3",
@@ -599,7 +600,7 @@
 		"imgsrc": "../images/events/English_f/f1",
 		"events": [{
 				"eventName": "Synergesia",
-				"description": "AA collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
+				"description": "A collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
 				"imgsrc": "../images/events/English_f/f2.jpg",
 				"rules": [
 					"Takes place over as pan of 1 week (Including registration),<ul><li>Monday-Wednesday:registration period for both writers and artists</li><li>Wednesday 23:59 :prompts are sent to writers only, given up till Friday afternoon to submit a work of min 500 words</li><li>Friday afternoon to Friday 23:59 : Artists should choose pieces to work on.</li><li>Saturday 00:00 : Artists get their allotted pieces and can create any art piece in relation with the written piece till Sunday 23:59</li><li>Registration window will be open for 12 hours. Afterwhich writers will be given a set of prompts to pick and choose from.</li></ul>",
@@ -741,7 +742,7 @@
 		"events": [{
 				"eventName": "Samgatha business challenge",
 				"description": "Pitch your ideas, advertise them and help us assimilate your business strategy and win big.",
-				"imgsrc": "../images/events/svg1.svg",
+				"imgsrc": "../images/events/Epic_f/f2.jpg",
 				"rules": [
 					"Team event",
 					"There will be Rs.250 enclosed in the envelope",
