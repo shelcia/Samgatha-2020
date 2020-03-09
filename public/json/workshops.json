@@ -1,24 +1,16 @@
 {
     "27 March": [
         {
-            "name": "Stonkz Workshop",
-            "tagline": "tagline1",
+            "name": "Photography Talk",
+            "tagline": "Talk by Raathika Ramasamy",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "lorem ipsum dolor sit amet consectutor",
-            "registrationLink": ""
+            "description": "lorem ipsum dolor sit amet consectutor"
         },
         {
-            "name": "Dramatics Workshop",
-            "tagline": "tagline2",
+            "name": "Poker Game",
+            "tagline": "taglin",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah2"
-        },
-        {
-            "name": "Dance Workshop",
-            "tagline": "tagline3",
-            "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah3",
-            "registrationLink": ""
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
         }
     ],
     "28 March": [
@@ -26,24 +18,45 @@
             "name": "Open Mic",
             "tagline": "Open for all artists",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah5",
-            "registrationLink": ""
+            "description": "blah5"
+        },
+        {
+            "name": "Dramatics Workshop",
+            "tagline": "tagline2",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "The aim of this program is to develop and bring out the creativity and lateral thinking among Students. The students of our country need more knowledge in a variety of areas. The world today demands that students be assured with creative thinking abilities, because they form the bulwark of an employable work force in the future. Their positive attitude and thinking abilities will deeply impact not only themselves, but their entire community and country. It is in this that over THEATRELAB ACTORS WORKSTATION can play a pivotal role. It is here that theatre can play a crucial role."
+        },
+        {
+            "name": "Poker Game",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
         }
     ],
     "29 March": [
         {
+            "name": "Stonkz Workshop",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Learn all about investments and earn a little, by playing safe. Invested?"
+        },
+        {
             "name": "Dudez in Madras",
             "tagline": "Rappers",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah9",
-            "date": "29 March"
+            "description": "Rappers"
         },
         {
-            "name": "Volatge B",
-            "tagline": "Beat Boxers",
+            "name": "Dance Workshop",
+            "tagline": "tagline3",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah10",
-            "date": "29 March"
+            "description": "It's time to take nap from your daily chores and make poems wih your feet. So come join us to dance to the beat of your heart.An exceptional dance workshop by Jobin master from Instincts Dance Studio, A rejuvenating oppurtunity nobody affords to lose!"
+        },
+        {
+            "name": "Poker Game",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
         }
     ]
 }

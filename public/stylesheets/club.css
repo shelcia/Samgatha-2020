@@ -23,11 +23,16 @@ div.hero-text {
     height: 60vh;
 }
 
+.noscroll {
+    overflow-y: hidden !important;
+}
+
 .overlay {
     top: 0;
     left: 0;
     z-index: 1000;
-    background-color: #001874;
+    background-color: rgba(255, 255, 255, );
+    overflow-y: scroll;
 }
 
 .overlay .card {
