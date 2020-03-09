@@ -2,51 +2,55 @@
     {
         "clubName": "Music",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Music_f/f1.jpg",
         "events": [
             {
                 "eventName": "Art of Noise (Battle of Bands)",
-                "description": "Bring your instruments, set the stage on fire and make the crowd go crazy with some mind-blowing perfor- mances and show us who owns the stage in this battle!",
+                "description": "Bring your instruments, set the stage on fire and make the crowd go crazy with some mind-blowing performances and show us who owns the stage in this battle!",
                 "imgsrc": "../images/events/Music_f/f3.jpg",
                 "rules": [
-                    "Blah blah blah, yes blah.<ul><li>Aditya</li><li>DS is</li><li>my name</li></ul>",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "The band size is supposed to be 8 members at maximum.",
+                    "Limit performance time to 18 minutes(including setup)",
+                    "Eastern and western performances are allowed.",
+                    "SAM ID / online registration is a must.",
+                    "Video to be submitted for shortlisting (5 mins max, send it to musicclub.iiitdm@gmail.com)",
+                    "Participant can perform only for one band. Extra points for original compositions!",
+                    "Only a drum kit and keyboard stand will be provided.",
+                    "Decision of the judges is final and binding.",
+                    "Any act of misconduct will lead to immediate disqualification."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 20K Second Place - Prizes worth 15K",
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Kaushik - 91 97909 08549",
+                    "Rajat Ahuja - +91 95824 22938",
+                    "Srikar - +91 73583 36314"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
-                "eventName": "Mic Night (Solo)",
+                "eventName": "Solo Singing",
                 "description": "You’re insecure, don’t know what for! Come sing with us and rock the floor. Calling all the hummers, profes- sionals and wannabes to sing your heart out, be it kara- oke or not.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Music_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Any genre of music is allowed.",
+                    "SAM ID / online registration is a must:on-spot registration at the last moment will not be allowed",
+                    "Video to be submitted for shortlisting (4 mins max send it to musicclub.iiitdm@gmail.com)",
+                    "One submission per participant",
+                    "Final performance should be under 5 minutes.",
+                    "Participant may use a karaoke or any accompanying instrument (played by him/her or another one person) though only vocals will be judged.",
+                    " Decision of the judges is final and binding. Any act of misconduct will lead to immediate disqualification."
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 6K Second Place- Prizes worth 3K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Kaushik - 91 97909 08549",
+                    "Rajat Ahuja - +91 95824 22938",
+                    "Srikar - +91 73583 36314"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -55,74 +59,99 @@
     {
         "clubName": "Gaming",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Gaming_f/f4.jpg",
         "events": [
             {
                 "eventName": "CSGO 5v5",
                 "description": "Clear shot. Kill streaks. No luck. Solemn skills.Gather your mates, plan your strategy and take it all.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Gaming_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Game Settings",
+                    "All matches will be played on Counter-Strike: Global Offensive servers with the latest game patch of “Counter-Strike: Global Offensive”. A knife round will determine who willstart as Counter-Terrorists (CT) and as Terrorists (T).A match consists of 30 rounds. Each team has to play 15 rounds as Counter-Terrorists (CT) and 15 rounds as Terrorists (T). The team winning 16 rounds out of 30 wins the match.",
+                    "Incase of a 15-15 draw 4 rounds will be played (2 ct / 2 t). 3 win,<ul><li>Round time - 1 min 45 sec;/li><li>Buy time – 15 sec;/li><li>C4 timer – 40 sec;</li><li>freeze time – 6 sec.</li><li>fTime out(2 per team)- 60 sec</li><li>Time out(2 per team)- 60 sec</li></ul>",
+                    "During a game Team Captain: Each team must present have 1 (one) representative. He is responsible for histeam and will be responsible for choosing maps and all communication with referees must bedone through the team captain.",
+                    "Picks and Bans - he map pool consists of the following five (7) maps,<ul><li>Mirage</li><li>Cache</li><li>Overpass</li><li>Train</li><li>Nuke</li><li>Dust</li><li>Inferno</li></ul>",
+                    "ALL matches are 'Best-of-One' matches (Bo1), both teams alternately eliminate one (1) mapuntil only one (1) map is left .The remaining map will be played. The team mentioned first in the match details starts with the procedure. Map votes will be done before the match starts",
+                    "Results and Tie Breaker - If too many teams have the same score and it's therefore not clear who moves on to the next stage the following criteria are used to determine the exact ranking:,<ul><li>Match wins Overall</li><li>Match wins Head to Head</li><li>Score Difference Head to Head</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 7K Second Place - Prizes worth 4K Third Place - Prizes worth 2K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "27,28,29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Mohit - 8778361216",
+                    "Santhosh - 7338922677"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
-                "eventName": "PUBG/COD (Solo/Squads)",
+                "eventName": "PUBG (Solo/Squads)",
                 "description": "The battle demands blood. Guide your gang, or fly solo to taste some delicious chicken for your dinner.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Gaming_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "It is enough for the team captain alone to fill the form.",
+                    "First 25 teams",
+                    "No emulators allowed (Will be immediately kicked from the game room). ",
+                    "Squads.",
+                    "Map that will be played is Erangel.",
+                    "TPP mode.",
+                    "Participants are requested to take screenshot at the end.",
+                    "First come first service"
                 ],
-                "prize": "2k",
+                "prize": "Prizes worth 2.5K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Mohit - 8778361216",
+                    "Santhosh - 7338922677"
+                ],
+                "registrationLink": "https://blah.com"
+            },
+            {
+                "eventName": "COD (Solo/Squads)",
+                "description": "The battle demands blood. Guide your gang, or fly solo to taste some delicious chicken for your dinner.",
+                "imgsrc": "../images/events/Gaming_f/f3.jpg",
+                "rules": [
+                    "It is enough for the team captain alone to fill the form.",
+                    "A team of five ",
+                    "No emulators allowed (Will be immediately kicked from the game room). ",
+                    "Search and destroy mode ",
+                    "Map  will be decided by the teams at that moment",
+                    "Knock out matches",
+                    "Participants are requested to take screenshot at the end.",
+                    "First come first service"
+                ],
+                "prize": "Prizes worth 2.5K",
+                "time": "2:00 p.m.",
+                "date": "28 March",
+                "venue": "H05",
+                "contact": [
+                    "Mohit - 8778361216",
+                    "Santhosh - 7338922677"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "FIFA 1v1",
                 "description": "Experience what it takes to control your favourite player. Play to prove the pride of your jersey and shoot for victory.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Gaming_f/f6.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "The game version that will be played is FIFA 19(1v1).(Mode of matches will be Knock Out).",
+                    "Knockout round halftime - 4mins;semis - 5 mins; Finals - 6 mins (tentative).",
+                    "It is highly advised to bring YOUR OWN controller and keyboard. Laptop will be provided.",
+                    "Opponents will be drawn randomly.",
+                    "Participants will be only given limited amount of prep time.(configuring,managing,etc..)",
+                    "there won't be any home and away in the final game, in case of tie in final, extra time followed by penalties shall take place.",
+                    "A match once started won't be restarted again without any coordinators permission."
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 4K\nSecond Place- Prizes worth 2K Third Place- Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Mohit - 8778361216",
+                    "Santhosh - 7338922677"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -131,74 +160,101 @@
     {
         "clubName": "Art",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Art_f/f1.jpg",
         "events": [
             {
                 "eventName": "Synergesia",
                 "description": "A collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Art_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Takes place over as pan of 1 week (Including registration),<ul><li>Monday-Wednesday:registration period for both writers and artists</li><li>Wednesday 23:59 :prompts are sent to writers only, given up till Friday afternoon to submit a work of min 500 words</li><li>Friday afternoon to Friday 23:59 : Artists should choose pieces to work on.</li><li>Saturday 00:00 : Artists get their allotted pieces and can create any art piece in relation with the written piece till Sunday 23:59</li><li>Registration window will be open for 12 hours. Afterwhich writers will be given a set of prompts to pick and choose from.</li></ul>",
+                    "Writers will be allowed to choose one or many prompts,how many ever required to write their story.",
+                    "The story should have a minimum of 500 words and should be submitted within 24 hours of the registration deadline. This is to ensure the artists will have a written piece to work on.",
+                    "Written works should be submitted via Google docs(to avoid artists unable to figure out handwriting thus making it difficult for them to draw)",
+                    "Artists will then be given a 6 hour window to select the works they feel inspired by, and to ensure that no two artists pick the same work, they will provide a top 5 list and will be given a story in their top 5.",
+                    "Artists will then be given a 24 hour window to come up with an art piece depicting the written work they have chosen, interpreting the text and scenes as they see fit.",
+                    "Failure to submit the work on time or provide SAMID at the time of submission will lead to immediate disqualification."
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 2K + Surprise Gift Second Place- Prizes worth 1K + Surprise Gift Third Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhanussh - +91 95005 13336",
+                    "Anil Kumar - +91 70931 35530",
+                    "Anupriya - +91 94459 63003"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Comicverse",
                 "description": "Have a thing for recreating comic scripts? Let the wild- est of your imagination flow and deliver an interesting comic script in your own style.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Art_f/f3.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Duration: 2 hrs",
+                    "Individual Event.",
+                    "A short note describing the art piece must be provided.",
+                    "Usage of the Internet and mobile phones are strictly prohibited unless told.",
+                    "Time limits must be strictly adhered to.",
+                    "The decision of the judges will be final.",
+                    "Rubric,<ul><li>Creativity</li><li>Cohesivity</li><li>Detailing</li><li>Neatness</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 1.5K Second Place- Prizes worth 0.8K Third Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
-                "date": "28 March",
+                "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhanussh - +91 95005 13336",
+                    "Anil Kumar - +91 70931 35530",
+                    "Anupriya - +91 94459 63003"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
-                "eventName": "Soap Carving",
-                "description": "Sculpt your dreams on a block of soap. Create a dreamy object and narrate your dream giving us the context of how this object plays a role in it.",
-                "imgsrc": "../images/events/svg1.svg",
+                "eventName": "Costume Designing",
+                "description": "You think you have it in you to create an outfit ready to hit the runway? This is your chance. Unleash the inner fashionista in you by making your “dream” costume.",
+                "imgsrc": "../images/events/Art_f/f4.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Teams with a max size of 2 can participate.",
+                    "Teams with a max size of 2 can participate.",
+                    "A short note describing the costume must be written.",
+                    "Usage of the Internet and mobile phones are strictly prohibited unless told.",
+                    "Time limits must be strictly adhered to.",
+                    "he decision of the judges will be final.",
+                    "Rubric,<ul><li>Creativity</li><li>Presentation</li><li>Detailing</li><li>Integrality</li><li>Comfortableness</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 2K Second Place- Prizes worth 1.5K Third Place - Prizes worth 0.8K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhanussh - +91 95005 13336",
+                    "Anil Kumar - +91 70931 35530",
+                    "Anupriya - +91 94459 63003"
+                ],
+                "registrationLink": "https://blah.com"
+            },
+            {
+                "eventName": "Mystery Box Challenge",
+                "description": "You think you have it in you to create an outfit ready to hit the runway? This is your chance. Unleash the inner fashionista in you by making your “dream” costume.",
+                "imgsrc": "../images/events/Art_f/f1.jpg",
+                "rules": [
+                    "Teams with a max size of 2 can participate.",
+                    "Must use all the materials picked out",
+                    "A short note describing the costume must be written.",
+                    "A short note describing the art piece must be written.",
+                    "Time limits must be strictly adhered to.",
+                    "The decision of the judges will be final.",
+                    "Rubric,<ul><li>Creativity</li><li>Presentation</li><li>Detailing</li></ul>"
+                ],
+                "prize": "First Place- Prizes worth 1.5K Second Place- Prizes worth 0.8K Third Place - Prizes worth 0.5K",
+                "time": "2:00 p.m.",
+                "date": "29 March",
+                "venue": "H05",
+                "contact": [
+                    "Dhanussh - +91 95005 13336",
+                    "Anil Kumar - +91 70931 35530",
+                    "Anupriya - +91 94459 63003"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -207,74 +263,66 @@
     {
         "clubName": "Dance",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Dance_f/f04.jpg",
         "events": [
             {
                 "eventName": "Impulse (Solo)",
                 "description": "Dance is the language of the body. Show your passion on the dance stage and let your body do the talking.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Dance_f/f01.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "One member.",
+                    "Time limit - 3 - 5 min",
+                    "Two rounds.",
+                    "The first round will be a song prepared by the participant beforehand.",
+                    "The second round will be using props.",
+                    "Judging criteria: , <ul><li>Technique</li><li>Variety</li><li>Creativity</li><li>Stage presence</li><li>Expressions</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 3.5K 2nd prize - Prizes worth 2K Third prize - Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Nishanth - 8668160642",
+                    "Charan - 6369469243"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Dance wars (Group)",
                 "description": "Draw your weapons, sharpen your bodies, forge your forces and get ready for war because, you know, *Winter is coming*.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Dance_f/f03.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "One round",
+                    "Team size - 10 - 25",
+                    "Time limit - 10 - 12 min",
+                    "Judging criteria: , <ul><li>Technique</li><li>Variety</li><li>Team work</li><li>Originality</li><li>Use of Props</li><li>Impact</li><li>Presentation</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 20K Second prize - Prizes worth 15K Third prize - Prizes worth 8.5K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Nishanth - 8668160642",
+                    "Charan - 6369469243"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Minute to win it (Solo)",
                 "description": "A video recorder, a good beat and some crazy moves is what it takes to prove yourself to the world. Have you got what it takes? Prove it.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Dance_f/f02.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "One member",
+                    "Time limit - Maximum 1 min",
+                    "Judging criteria : public favorite"
                 ],
-                "prize": "2k",
+                "prize": "Prize Money - Surprise !!!",
                 "time": "2:00 p.m.",
-                "date": "29 March",
+                "date": "Online Submission",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Nishanth - 8668160642",
+                    "Charan - 6369469243"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -290,21 +338,18 @@
                 "description": "Flaunt your photoshop skills and make your photos articulate what you wish to convey.",
                 "imgsrc": "../images/events/svg2.svg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Number of participants:1.Submissions per participant:1",
+                    "Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.",
+                    "The copyrights of the submissions made will be entitled to us and will be used for promotions.",
+                    "The decision of the judges shall be final and binding."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1.2K Second Place - Prizes worth 0.8K",
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Siddharth - 9566707761",
+                    "Nissim - 9619503514"
                 ],
                 "registrationLink": "https://blah.com"
             },
@@ -313,21 +358,20 @@
                 "description": "Let the film roll out of the canister to capture the actor in you and weave it into an amazing short film.",
                 "imgsrc": "../images/events/svg2.svg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Number of participants:1. Submissions per participant:1",
+                    "Photos submitted must be at least 640 pixels on the shorter side, and no more than 2000 pixels on the longer side. Images should be no longer than 2MB. Photos must be in JPEG format.",
+                    "All submitted photos must contain the original EXIF metadata information. However there must be no border(s), logos, copyright marks, identifying marks or any other visible references and/or marks on the image.",
+                    "Photos that portray or otherwise include appropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural and moral traditions and practices of India, are strictly prohibited and will be immediately discarded.",
+                    "Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.",
+                    "The copyrights of the submissions made will be entitled to us and will be used for promotions.\n7.  The decision of the judges shall be final and binding."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1K Second Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Siddharth - 9566707761",
+                    "Nissim - 9619503514"
                 ],
                 "registrationLink": "https://blah.com"
             },
@@ -336,21 +380,20 @@
                 "description": "Climate change is an alarming hazard. So make the mankind feel the guilt of befouling the environment through your hard-hitting photos.",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Number of participants:1. Submissions per participant:1",
+                    "Photos submitted must be at least 640 pixels on the shorter side, and no more than 2000 pixels on the longer side. Images should be no longer than 2MB. Photos must be in JPEG format.",
+                    "All submitted photos must contain the original EXIF metadata information. However there must be no border(s), logos, copyright marks, identifying marks or any other visible references and/or marks on the image.",
+                    "Photos that portray or otherwise include appropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural and moral traditions and practices of India, are strictly prohibited and will be immediately discarded.",
+                    "Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.",
+                    "The copyrights of the submissions made will be entitled to us and will be used for promotions.\n7.  The decision of the judges shall be final and binding."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1K Second Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Siddharth - 9566707761",
+                    "Nissim - 9619503514"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -359,97 +402,68 @@
     {
         "clubName": "Tamil Saalaram",
         "suffixClub": false,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Tamil_f/f3.jpg",
         "events": [
             {
                 "eventName": "Tentkotta",
                 "description": "Put your thinking caps on and brace up for a flaming quiz on kollywood.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Tamil_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Quiz competition based on Kollywood",
+                    "Max 3 members per team",
+                    "On Spot Registration "
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 3K Second Place - Prizes worth 2K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Asvataman - 7401516932",
+                    "Manonmani - 9176627371"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Dharkam",
                 "description": "Add fuel to the event with your arguments, a cutthroat debate where ingenious play with words would fetch a victory.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Tamil_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Group of Max 3 and Min 2 ",
+                    "Slots and topics will be written in chits and picked by two teams as a group ",
+                    "Round 1: Each team will be given 2 mins to put forward their thoughts ",
+                    "Round 2: Each team will be given two mins to oppose the other team ",
+                    "Round 3: Conclusion for 1 min ",
+                    "On spot registration "
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1K Second Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
-                "date": "28 March",
+                "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Asvataman - 7401516932",
+                    "Manonmani - 9176627371"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
-                "eventName": "Paattuku paatu",
-                "description": "'Every end has a new beginning' is what the game is all about, also have an eye on the fleeting clock.",
-                "imgsrc": "../images/events/svg2.svg",
+                "eventName": "Oru Kutty Story",
+                "description": "Bring out the Kalki in you and deliver the most interestng story of all and win big.",
+                "imgsrc": "../images/events/Tamil_f/f4.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Story writing competition (Individual)",
+                    "Duration of 1 hour",
+                    "Topic will be given on spot",
+                    "Must be written in Tamil ",
+                    "On spot registration",
+                    "Topic will be given on spot"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1.5K Second Place - Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
-                ],
-                "registrationLink": "https://blah.com"
-            },
-            {
-                "eventName": "Oru kadha sollata sir",
-                "description": "Bring out the Kalki in you and deliver the most interest- ing story of all and win big.",
-                "imgsrc": "../images/events/svg1.svg",
-                "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
-                ],
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "29 March",
-                "venue": "H05",
-                "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Asvataman - 7401516932",
+                    "Manonmani - 9176627371"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -458,74 +472,59 @@
     {
         "clubName": "Quiz",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Quiz_f/f3.jpg",
         "events": [
             {
                 "eventName": "India Quiz",
                 "description": "As we have entered a new decade, let us take a look at all the facts and achievements that India and her people have conquered over the 70 years of her free- dom and over centuries of her history.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Quiz_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "The maximum team size is permitted to 3",
+                    "All members should have the samgatha passport failure to which will lead to immediate disqualification.",
+                    "Quiz Masters decision is FINAL."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 2.5K Second Place - Prizes worth 1.5K Third Place - Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "P Aakarsh - 9566945819"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Fandom Quiz",
                 "description": "Seen all the Marvel movies till date? Able to quote Chandler by heart? Watched so much anime you can understand Japanese? Well, this quiz is for you! Test your trivia over various fandoms and earn something more than just money!",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Quiz_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "The maximum team size is permitted to 3.",
+                    "All members of the team must have a samgatha passport,failure to which will lead to immediate disqualification.",
+                    "Quiz Masters decision is FINAL"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 2.5K Second Place - Prizes worth 1.5K Third Place - Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "P Aakarsh - 9566945819"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
-                "eventName": "Meme Quiz (Tentative)",
+                "eventName": "Meme Quiz ",
                 "description": "Think you know the latest trends on Instagram? Can you tell the difference between the floss and the nae nae? Put the hours of mindlessly scrolling through your phone to use and try your luck at the meme quiz!",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Quiz_f/f4.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "The maximum team size is permitted to 2.",
+                    "All members of the team must have a samgatha passport,failure to which will lead to immediate disqualification.",
+                    "Quiz Masters decision is FINAL"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 2.5K Second Place - Prizes worth 1.5K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "P Aakarsh - 9566945819"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -534,150 +533,67 @@
     {
         "clubName": "Drama",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
-        "events": [
-            {
-                "eventName": "India Quiz",
-                "description": "As we have entered a new decade, let us take a look at all the facts and achievements that India and her people have conquered over the 70 years of her free- dom and over centuries of her history.",
-                "imgsrc": "../images/events/svg1.svg",
-                "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
-                ],
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "27 March",
-                "venue": "H05",
-                "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
-                ],
-                "registrationLink": "https://blah.com"
-            },
-            {
-                "eventName": "Fandom Quiz",
-                "description": "Seen all the Marvel movies till date? Able to quote Chandler by heart? Watched so much anime you can understand Japanese? Well, this quiz is for you! Test your trivia over various fandoms and earn something more than just money!",
-                "imgsrc": "../images/events/svg2.svg",
-                "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
-                ],
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "28 March",
-                "venue": "H05",
-                "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
-                ],
-                "registrationLink": "https://blah.com"
-            },
-            {
-                "eventName": "Meme Quiz (Tentative)",
-                "description": "Think you know the latest trends on Instagram? Can you tell the difference between the floss and the nae nae? Put the hours of mindlessly scrolling through your phone to use and try your luck at the meme quiz!",
-                "imgsrc": "../images/events/svg1.svg",
-                "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
-                ],
-                "prize": "2k",
-                "time": "2:00 p.m.",
-                "date": "29 March",
-                "venue": "H05",
-                "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
-                ],
-                "registrationLink": "https://blah.com"
-            }
-        ]
-    },
-    {
-        "clubName": "Drama",
-        "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Dramtics_f/f_2.jpg",
         "events": [
             {
                 "eventName": "Mayashristi",
                 "description": "It's time to glint in the spotlight! All you have to do is stir the emotions of audience with your expressions. So, make up your crew and stun the mob with an awe- struck performance.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Dramtics_f/f_3.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Theme of play - No restriction on the themes.",
+                    "Type of drama includes mime, Dance drama, skit, variety show, etc.",
+                    "Team Size Minimum of 3 to maximum of 15.",
+                    "Language The drama can be in - English, Hindi, Tamil, Telugu.",
+                    "Time Limit - The team should perform for a minimum of 10 minutes to a maximum of 30 minutes."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 15K Second Place - Prizes worth 10K Third Place - Prizes worth 7.5K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
-                "venue": "H05",
+                "date": "28 March",
+                "venue": "Main Stage",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhilipan - 6379399483",
+                    "Sahithi - 9566896237"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Spur of the moment",
                 "description": "You need not be a chef to cook up stories, just season your creativity with some spontaneity and you are an improv king.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Dramtics_f/f_5.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Team Size - Maximum of 4 members per team",
+                    "Language - The act can be in any of the following languages English, Hindi, Tamil and Telugu.",
+                    "The performed scene should last between 2-5 mins",
+                    "Limited props will be provided."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 4K Second Place - Prizes worth 2K Third Place - Prizes worth 1K",
                 "time": "2:00 p.m.",
-                "date": "28 March",
+                "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhilipan - 6379399483",
+                    "Sahithi - 9566896237"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "ScriptWriting",
                 "description": "A well-written script creates in the mind of the reader the experience of watching a movie. To that end, you must describe images, sounds, actions, and speech in such a way that the scenes unspool as they would on a screen.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Dramtics_f/f_1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Script can be in the English, Tamil, Hindi, Telugu.",
+                    "If the script is written by a writing team, it must be submitted by one of the writers with the consent of the other (any and all prizes will be sent to the writer who submitted the winning script, it is the responsibility of the writing team to share or divide the prizes.",
+                    " There is no limit to the number of different scripts you may submit. Duplicate entries of the same project, however, will be automatically disqualified.",
+                    "Once a script has been submitted, no substitutions will be accepted. No corrected pages or revised drafts allowed.",
+                    "Scripts must be the original work of the author(s)"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 3K Second Place - Prizes worth 2K Third Place - Prizes worth 1K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Dhilipan - 6379399483",
+                    "Sahithi - 9566896237"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -686,74 +602,71 @@
     {
         "clubName": "Literature",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/English_f/f1.jpg",
         "events": [
             {
                 "eventName": "Synergesia",
                 "description": "AA collaborative online event between writers and artists where you interpret the art/story from that of other contestants. Creativity to its core!",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/English_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Takes place over as pan of 1 week (Including registration),<ul><li>Monday-Wednesday:registration period for both writers and artists</li><li>Wednesday 23:59 :prompts are sent to writers only, given up till Friday afternoon to submit a work of min 500 words</li><li>Friday afternoon to Friday 23:59 : Artists should choose pieces to work on.</li><li>Saturday 00:00 : Artists get their allotted pieces and can create any art piece in relation with the written piece till Sunday 23:59</li><li>Registration window will be open for 12 hours. Afterwhich writers will be given a set of prompts to pick and choose from.</li></ul>",
+                    "Writers will be allowed to choose one or many prompts,how many ever required to write their story.",
+                    "The story should have a minimum of 500 words and should be submitted within 24 hours of the registration deadline. This is to ensure the artists will have a written piece to work on.",
+                    "Written works should be submitted via Google docs(to avoid artists unable to figure out handwriting thus making it difficult for them to draw)",
+                    "Artists will then be given a 6 hour window to select the works they feel inspired by, and to ensure that no two artists pick the same work, they will provide a top 5 list and will be given a story in their top 5.",
+                    "Artists will then be given a 24 hour window to come up with an art piece depicting the written work they have chosen, interpreting the text and scenes as they see fit.",
+                    "Failure to submit the work on time or provide SAMID at the time of submission will lead to immediate disqualification."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 2K + Surprise Gift  Second Place - Prizes worth 1K + Surprise Gift   Third Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Ganesh - 9080964286",
+                    "Annie - 7395947128"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Eloquent",
                 "description": "Many dreams and ideas have existed in our rich history of human civilization. But, could those ideologies still be applicable today? Could you convince us of such a dream? Come and test your eloquence and glib of tongue and present us with ways on how to learn from the past to change the future.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/English_f/f3.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Participant will be given a prompt that is based on past myths and fairy tales projected onto today’s context",
+                    "He/She shall be given 5 minutes of prep time",
+                    "He/She will then be given 10 minutes to speak and act out the given topic",
+                    "He/She will be judged on Creativity,Spontaneity,Structure and Complexity."
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 2K + Surprise Gift Second Place- Prizes worth 1K + Surprise Gift Third Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Ganesh - 9080964286",
+                    "Annie - 7395947128"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Lawyer Up!",
                 "description": "In a time where ideas are in constant clash and flux of each other, it’s time to play the part of the judge and the jury in determining their usefulness. The goal? To convince the judges and the audience (jury) on who is right.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/English_f/f4.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "This event will contain three rounds",
+                    "The first and last round will contain one on one debate while the second round will be a group discussion",
+                    "Each round will be a knockout",
+                    "Participants get 5 mins to prepare after prompt is given",
+                    "Time Structure for each round will be told during event",
+                    "Prompts will be based on juxtaposing past political ideologies onto today’s context.",
+                    "Audience interruptions (upto 2 each)for P.o.Is are allowed."
                 ],
-                "prize": "2k",
+                "prize": "First Place- Prizes worth 2K + Surprise Gift Second Place - Prizes worth 1K + Surprise Gift Third Place - Prizes worth 0.5K",
                 "time": "2:00 p.m.",
                 "date": "29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Ganesh - 9080964286",
+                    "Annie - 7395947128"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -762,74 +675,68 @@
     {
         "clubName": "Adventure",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Adventure_f/f4.jpg",
         "events": [
             {
                 "eventName": "Nerf War",
                 "description": "Are you ready to fight in a 500 square foot, adrenaline pumping, action packed active play experience? With thousands of blasters, millions of darts, live the life of a true NERF fan!",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Adventure_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Team of 3",
+                    "Point based game",
+                    "Time – 10 min",
+                    "Ranking depend on the points scored",
+                    "No physical abuse",
+                    "Guns will be provided",
+                    "Equipment must be handled with care"
                 ],
-                "prize": "2k",
+                "prize": "First place – Prizes worth 3K  Second place – Prizes worth – 1.5K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "27,28,29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Krishnakumar – 9003323498",
+                    "Jaihari G – 8903069461"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Treasure hunt",
                 "description": "What is buried may never be found! Not true? Come dig to win big.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Adventure_f/f2.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Team of 4",
+                    "Initial clue will be provided",
+                    "Use your knowledge to find Treasure"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1.5K Second Place - Prizes worth 0.75K",
                 "time": "2:00 p.m.",
                 "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Krishnakumar – 9003323498",
+                    "Jaihari G – 8903069461"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Escape Room",
                 "description": "A game for those who seek to leave their troubles behind. Beware, do not begin unless you intend to finish.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Adventure_f/f3.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Team of 4",
+                    "Time limit – 15 min",
+                    "Players can use gadgets like phone",
+                    "Don’t damage the equipment",
+                    "Use your knowledge and internet to find the key from the room."
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 1.5K Second Place - Prizes worth 0.75K",
                 "time": "2:00 p.m.",
-                "date": "29 March",
+                "date": "27,28,29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Krishnakumar – 9003323498",
+                    "Jaihari G – 8903069461"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -838,74 +745,70 @@
     {
         "clubName": "EPIC",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Epic_f/f4.jpg",
         "events": [
             {
                 "eventName": "Samgatha business challenge",
                 "description": "Pitch your ideas, advertise them and help us assimilate your business strategy and win big.",
                 "imgsrc": "../images/events/svg1.svg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Team event",
+                    "There will be Rs.250 enclosed in the envelope",
+                    "Team : 2 - 4",
+                    "Duration : Any 8 hours, spaced out over two days - starting from the moment they receive the envelope.",
+                    "Registration Period - as mentioned in the schedule. - In the QMS front desk.",
+                    "The customers and the Participants are not supposed to trade using cash and are henceforth required to get tokens from the QMS ( Quality Management System ). All transactions will have to made through tokens",
+                    "No service will be entertained. Only products can be sold. You cannot auction.",
+                    " 35% of all profits made from the event, by every group, will be donated towards climate change.",
+                    " Coordinators & volunteers will periodically monitor, to assess progress.",
+                    "10.  Any non-compliance to the aforementioned rules will lead to a fine of Rs.2500, which will also be donated towards the cause of climate cause"
                 ],
-                "prize": "2k",
+                "prize": "Prizes worth 10K",
                 "time": "2:00 p.m.",
-                "date": "27 March",
+                "date": "27,28,29 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Sakthi S D - 9994568316"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Adzap",
                 "description": "Bring out the creativity, time management, marketing skills of your innovative minds and show us that the best team coordination always wins.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Epic_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Teams of size 2-4",
+                    "Taglines will be provided on the spot",
+                    "Advertisements should be acted out on stage",
+                    "Catchy slogans and acts has points",
+                    "Act should be within 3 mins"
                 ],
-                "prize": "2k",
+                "prize": "Prizes worth 2.5K",
                 "time": "2:00 p.m.",
-                "date": "28 March",
+                "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Sakthi S D - 9994568316"
                 ],
                 "registrationLink": "https://blah.com"
             },
             {
                 "eventName": "Dreamhunt",
                 "description": "Dreams are the treasures that gets your life going. Par- ticipate in this dreamhunt event to hunt and find yours.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Epic_f/f3.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "Individual Event",
+                    "Total no. of participants in a panel –7",
+                    "Discuss idea relevant to any one problem statement we provide",
+                    "Total time for pitching – 2 minutes per person",
+                    "What is a tear ?<ul><li>Vague</li><li>Plagiarism</li><li>Benefit< Harm – in the solution provided</li><li>Loop hole / Error identified</li><li>Logical Errors</li><li>Irrelevance to problem statement</li></ul>"
                 ],
-                "prize": "2k",
+                "prize": "First Place - Prizes worth 3.5K . Second Place - Prizes worth 1.5K",
                 "time": "2:00 p.m.",
-                "date": "29 March",
+                "date": "28 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Sakthi S D - 9994568316"
                 ],
                 "registrationLink": "https://blah.com"
             }
@@ -914,28 +817,21 @@
     {
         "clubName": "Mr & Ms Samgatha",
         "suffixClub": false,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Fashion_f/f2.jpg",
         "events": [
             {
                 "eventName": "Mr & Ms Samgatha",
                 "description": "When it comes to fashion, event design creativity is everything. Just like the fashion designers you’re work- ing with, you want to get better each time you design a new catwalk. From venue selection to backdrops to lighting to curating an exclusive experience, it’s time to strut your stuff. Walk your way through to the goal, Miss/Mr Samgatha.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Fashion_f/f1.jpg",
                 "rules": [
-                    "P0",
-                    "P1",
-                    "P2",
-                    "P3",
-                    "P4",
-                    "P5"
+                    "to be revealed soon"
                 ],
-                "prize": "2k",
+                "prize": "to be revealed soon",
                 "time": "2:00 p.m.",
                 "date": "27 March",
                 "venue": "H05",
                 "contact": [
-                    "Person0 - 9988776655",
-                    "Person1 - 9988776655",
-                    "Person2 - 9988776655"
+                    "Shelcia - 8248578522"
                 ],
                 "registrationLink": "https://blah.com"
             }
