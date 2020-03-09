@@ -1,23 +1,23 @@
 {
     "27 March": [
         {
-            "name": "Stonkz Workshop",
+            "name": "Photography Talk - Raathika Ramasamy",
             "tagline": "tagline1",
             "imgsrc": "../images/workshops/svg1.svg",
             "description": "lorem ipsum dolor sit amet consectutor",
             "registrationLink": ""
         },
         {
-            "name": "Dramatics Workshop",
-            "tagline": "tagline2",
+            "name": "Poker Game",
+            "tagline": "tagline1",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah2"
-        },
-        {
-            "name": "Dance Workshop",
-            "tagline": "tagline3",
-            "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah3",
+            "description": "Tokens will be provided in the QMS counter."
+"One person will coordinate the game."
+"There are two ways to win at poker:"
+"Either (1) you bluff (by betting or raising) and force your opponents to fold their poker hands. Or (2) you have the best poker hand at showdown (when two or more players show their hands after all the betting rounds have finished)."
+"Usually, you’re looking to make the best 5-card poker hand."
+"Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+"<ol><li>Royal Flush: A-K-Q-J-T (all in the same suit)</li><li>Straight Flush: 8-7-6-5-4 (all in the same suit)</li><li>4-of-a-Kind: A-4-4-4-4</li><li>Full House (Boat): A-A-A-J-J (three of one, two of the other)</li><li>Flush: A-J-8-4-2 (all in the same suit)</li><li>Straight: 8-7-6-5-4 (of various suits)</li><li> 3-of-a-Kind (Set/Trips): A-K-5-5-5</li><li>Two Pair: A-K-5-5-5</li><li>One Pair: A-A-7-4-2</li><li>High Card: A-Q-9-6-3 (different suits, non-connected, unpaired)"</ol>,
             "registrationLink": ""
         }
     ],
@@ -28,22 +28,61 @@
             "imgsrc": "../images/workshops/svg1.svg",
             "description": "blah5",
             "registrationLink": ""
+        },
+        {
+            "name": "Dramatics Workshop",
+            "tagline": "tagline2",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "The aim of this program is to develop and bring out the creativity and lateral thinking among Students. The students of our country need more knowledge in a variety of areas. The world today demands that students be assured with creative thinking abilities, because they form the bulwark of an employable work force in the future. Their positive attitude and thinking abilities will deeply impact not only themselves, but their entire community and country. It is in this that over THEATRELAB ACTORS WORKSTATION can play a pivotal role. It is here that theatre can play a crucial role."
+        },
+        {
+            "name": "Poker Game",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Tokens will be provided in the QMS counter."
+"One person will coordinate the game."
+"There are two ways to win at poker:"
+"Either (1) you bluff (by betting or raising) and force your opponents to fold their poker hands. Or (2) you have the best poker hand at showdown (when two or more players show their hands after all the betting rounds have finished)."
+"Usually, you’re looking to make the best 5-card poker hand."
+"Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+"<ol><li>Royal Flush: A-K-Q-J-T (all in the same suit)</li><li>Straight Flush: 8-7-6-5-4 (all in the same suit)</li><li>4-of-a-Kind: A-4-4-4-4</li><li>Full House (Boat): A-A-A-J-J (three of one, two of the other)</li><li>Flush: A-J-8-4-2 (all in the same suit)</li><li>Straight: 8-7-6-5-4 (of various suits)</li><li> 3-of-a-Kind (Set/Trips): A-K-5-5-5</li><li>Two Pair: A-K-5-5-5</li><li>One Pair: A-A-7-4-2</li><li>High Card: A-Q-9-6-3 (different suits, non-connected, unpaired)"</ol>,
+            "registrationLink": ""
         }
     ],
     "29 March": [
+         {
+            "name": "Stonkz Workshop",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Learn all about investments and earn a little, by playing safe. Invested?",
+            "registrationLink": ""
+        },
         {
             "name": "Dudez in Madras",
             "tagline": "Rappers",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah9",
+            "description": "Rappers",
             "date": "29 March"
         },
         {
-            "name": "Volatge B",
-            "tagline": "Beat Boxers",
+            "name": "Dance Workshop",
+            "tagline": "tagline3",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "blah10",
-            "date": "29 March"
+            "description": "It's time to take nap from your daily chores and make poems wih your feet. So come join us to dance to the beat of your heart.An exceptional dance workshop by Jobin master from Instincts Dance Studio, A rejuvenating oppurtunity nobody affords to lose!",
+            "registrationLink": ""
+        },
+        {
+            "name": "Poker Game",
+            "tagline": "tagline1",
+            "imgsrc": "../images/workshops/svg1.svg",
+            "description": "Tokens will be provided in the QMS counter."
+"One person will coordinate the game."
+"There are two ways to win at poker:"
+"Either (1) you bluff (by betting or raising) and force your opponents to fold their poker hands. Or (2) you have the best poker hand at showdown (when two or more players show their hands after all the betting rounds have finished)."
+"Usually, you’re looking to make the best 5-card poker hand."
+"Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+"<ol><li>Royal Flush: A-K-Q-J-T (all in the same suit)</li><li>Straight Flush: 8-7-6-5-4 (all in the same suit)</li><li>4-of-a-Kind: A-4-4-4-4</li><li>Full House (Boat): A-A-A-J-J (three of one, two of the other)</li><li>Flush: A-J-8-4-2 (all in the same suit)</li><li>Straight: 8-7-6-5-4 (of various suits)</li><li> 3-of-a-Kind (Set/Trips): A-K-5-5-5</li><li>Two Pair: A-K-5-5-5</li><li>One Pair: A-A-7-4-2</li><li>High Card: A-Q-9-6-3 (different suits, non-connected, unpaired)"</ol>,
+            "registrationLink": ""
         }
     ]
 }
