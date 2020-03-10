@@ -1,5 +1,5 @@
 <nav id="navbar-example2"
-    class="navbar navbar-expand-lg navbar-light <% if(route !== 'sponsors' && route !== 'hospitality' && route !== 'teams' && route !== 'testing') { %>fixed-sm-top<% } %> text-center <% if(route === 'index') {%>py-3 py-sm-5<% } else { %>py-2 bg-violent-violet border-bottom<% } %> px-3">
+    class="navbar navbar-expand-lg navbar-light <% if(route !== 'sponsors' && route !== 'hospitality' && route !== 'teams') { %>fixed-sm-top<% } %> text-center <% if(route === 'index') {%>py-3 py-sm-5<% } else { %>py-2 bg-violent-violet border-bottom<% } %> px-3">
     <div class="container">
         <% if(route !== 'index') { %>
         <a href="/" class="navbar-brand">
@@ -30,7 +30,7 @@
                     <a class="nav-link text-white" href="/team">Meet The Team</a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a href="" class="btn btn-lg btn-outline-light rounded-0 my-2 my-lg-0">REGISTER</a>
+                    <a href="/register" class="btn btn-lg btn-outline-light rounded-0 my-2 my-lg-0">REGISTER</a>
                 </li>
             </ul>
         </div>
