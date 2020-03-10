@@ -4,13 +4,13 @@
             "name": "Photography Talk",
             "tagline": "Talk by Raathika Ramasamy",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "lorem ipsum dolor sit amet consectutor"
+            "description": "Maake your stps in a stealthy way.... wait patiently for the right moment... CAPTURE ! It is not so easy to be wildlife photographer. Come, join us on a talk on photographer by Ms. Rathika Ramasamy to know the wax and wane of being a wildlife photographer. Never Miss out !"
         },
         {
             "name": "Poker Game",
-            "tagline": "taglin",
+            "tagline": "By EPIC",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:(More on Rulebook)"
         }
     ],
     "28 March": [
@@ -22,41 +22,41 @@
         },
         {
             "name": "Dramatics Workshop",
-            "tagline": "tagline2",
+            "tagline": "THEATRELAB ACTORS WORKSTATION",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "The aim of this program is to develop and bring out the creativity and lateral thinking among Students. The students of our country need more knowledge in a variety of areas. The world today demands that students be assured with creative thinking abilities, because they form the bulwark of an employable work force in the future. Their positive attitude and thinking abilities will deeply impact not only themselves, but their entire community and country. It is in this that over THEATRELAB ACTORS WORKSTATION can play a pivotal role. It is here that theatre can play a crucial role."
+            "description": " The world today demands that students be assured with creative thinking abilities, because they form the bulwark of an employable work force in the future. It is in this that over THEATRELAB ACTORS WORKSTATION can play a pivotal role. It is here that theatre can play a crucial role."
         },
         {
             "name": "Poker Game",
-            "tagline": "tagline1",
+            "tagline": "By EPIC",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:(More on Rulebook)"
         }
     ],
     "29 March": [
         {
             "name": "Stonkz Workshop",
-            "tagline": "tagline1",
+            "tagline": "By Integrated Enterprises",
             "imgsrc": "../images/workshops/svg1.svg",
             "description": "Learn all about investments and earn a little, by playing safe. Invested?"
         },
         {
             "name": "Dudez in Madras",
-            "tagline": "Rappers",
+            "tagline": "Tamil Rappers",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "Rappers"
+            "description": "Samgatha 2020 brings you the dudezin madras with their croed engaging performance and their fame"
         },
         {
             "name": "Dance Workshop",
-            "tagline": "tagline3",
+            "tagline": "By Jobin Master Instincts Academy",
             "imgsrc": "../images/workshops/svg1.svg",
             "description": "It's time to take nap from your daily chores and make poems wih your feet. So come join us to dance to the beat of your heart.An exceptional dance workshop by Jobin master from Instincts Dance Studio, A rejuvenating oppurtunity nobody affords to lose!"
         },
         {
             "name": "Poker Game",
-            "tagline": "tagline1",
+            "tagline": "By EPIC",
             "imgsrc": "../images/workshops/svg1.svg",
-            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:"
+            "description": "Here is a poker-ranking chart (with examples) of the best possible poker hands:(More on Rulebook)"
         }
     ]
 }
