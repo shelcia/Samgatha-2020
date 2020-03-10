@@ -40,11 +40,12 @@
                 </div>
             </div>
             <% if(route !== 'events') { %>
-            <div class=" card-back d-sm-none bg-violent-violet h-100">
+            <div class="card-back d-sm-none bg-violent-violet h-100">
                 <div class="card-body">
-                    <h1 class="card-title text-gold-tips"><%= workshop[date][i].name %></h1>
+                    <h1
+                        class="card-title <% if(route === 'shows') { %>text-gold-tips<% } else if(route === 'workshops') { %>text-razzmatazz<% } %>">
+                        <%= workshop[date][i].name %></h1>
                     <p class="card-text"><%= workshop[date][i].description %></p>
-                    <button class="btn btn-outline-gold-tips">REGISTER</button>
                 </div>
             </div>
             <% } %>
