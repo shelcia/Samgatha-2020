@@ -1,80 +1,529 @@
 {
-    "cultural": [
+    "Cultural Affairs": [
         {
-            "name": "student1",
-            "role": "blah1",
+            "name": "K.Keerthanapriyaa ",
+            "role": "Cultural Secretary",
             "imgsrc": "../images/teams/svg1.svg"
         },
         {
-            "name": "student2",
-            "role": "blah1",
+            "name": "Bhiragatheesh Varun M V",
+            "role": "Cultural Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Harish K M",
+            "role": "Cultural Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Muthu Ramkumar Av ",
+            "role": "Cultural Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Narasimhan",
+            "role": "Cultural Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Sharath.D",
+            "role": "Cultural Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Subash Mylraj",
+            "role": "Cultural Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+        
+    ],
+     "Head Oragnisers": [
+        {
+            "name": "Praneeth",
+            "role": "Head Oragniser",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ram Koushik",
+            "role": "Head Oragniser",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Aditya Srikanthan",
+            "role": "Head Oragniser",
             "imgsrc": "https://picsum.photos/2000"
         }
     ],
-    "spons": [
+    "Sponsorship Team": [
         {
-            "name": "student1",
-            "role": "blah1",
+            "name": "Shelcia",
+            "role": "Sponsorship Team Head",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student2",
-            "role": "blah1",
+            "name": "Santhosh",
+            "role": "Sponsorship Team Head",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Manonmani",
+            "role": "Sponsorship Team Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Sandhya",
+            "role": "Sponsorship Team Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Vishva Bhate",
+            "role": "Sponsorship Team Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Joseph",
+            "role": "Sponsorship Team Volunteer",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Sonuderya",
+            "role": "Sponsorship Team Volunteer",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Raadhika",
+            "role": "Sponsorship Team Volunteer",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Vaishnav",
+            "role": "Sponsorship Team Volunteer",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+         {
+            "name": "Shivansh",
+            "role": "Sponsorship Team Volunteer",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+        
+    ],
+    "Finance": [
+        {
+            "name": "Sriram",
+            "role": "Finance Head",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Pugazharasu",
+            "role": "Finance Head",
             "imgsrc": "https://picsum.photos/2000"
         }
     ],
-    "publicity": [
+    "Publicity": [
         {
-            "name": "student1",
-            "role": "blah1",
+            "name": "Dhruthi",
+            "role": "Publicity Team Head",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student2",
-            "role": "blah1",
+            "name": "Sakthi",
+            "role": "Publicity Team Head",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Rahul",
+            "role": "Publicity Team Head",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Harini",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishal",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Abhiram",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Venkat",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Sagar",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Mithilesh",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Arun",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Rajendra",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Bala Vignesh",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Gopi krishna",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Sarath",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Zahir",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Yashwanth",
+            "role": "Publicity Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Harish",
+            "role": "Publicity Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         }
     ],
-    "decor": [
+    "Webops": [
         {
-            "name": "student1",
-            "role": "blah1",
+            "name": "Shelcia",
+            "role": "Team Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student2",
-            "role": "blah1",
+            "name": "Aditya DS",
+            "role": "Team Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         },
         {
-            "name": "student3",
-            "role": "blah1",
+            "name": "Samrat",
+            "role": "Team Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+    ],
+    "Adventure": [
+        {
+            "name": "Krishnakumar T",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Jaihari G",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Sujith J",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Kavinila M S",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Shaik Mushraf Parvez",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Rohit Ananthan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Shankar Saravanan P",
+            "role": "Club Co-ordinator",
             "imgsrc": "https://picsum.photos/2000"
         }
-    ]
+    ],
+    "Art": [
+        {
+            "name": "Dhanussh",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Anil",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Anupriya",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Shivaram krishna ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Mogulla Venkata Sai",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ruthwik",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Hritik Bagul",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Sathvik",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Suruthi Poornima A",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Pranita ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Santhosh",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vaishnavi Reddy",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+     "Dramatics Club": [
+        {
+            "name": "S.Dhilipan",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "A.Sahithi prakarsha",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Navaas Roshan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ramya",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Srivatsan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishwa Bhate",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "EPIC Club": [
+        {
+            "name": "Sakthi ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Muthu Ramkumar Avichi ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "AVPL Narasimhan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishal",
+            "role": "blah1",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Rohit Aanandhan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "G.N.P. Sudeepta Vaishnavi",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "Gaming Club": [
+        {
+            "name": "Santhosh ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Mohit",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ish gautam ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishal",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Hrishikesh Rajesh Menon",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Samarth Sudarshan Inamdar",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Suyash Chaudhary",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "Literature Club": [
+        {
+            "name": "Annie Theres Alexis ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Shriganesh Bollakpalli",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ch. Madhu",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+     "Photography Club": [
+        {
+            "name": "Siddhartha ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Nissim",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Narasimhan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Yashwanth",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishnu vardhan",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "Quiz Club": [
+        {
+            "name": "P Aakarsh ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vbss Prathyush",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Sai bhargav",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Ts ganesh ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Dhananjaya",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
+    "Tamil Saalaram": [
+        {
+            "name": "Asvataman ",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Manonmani",
+            "role": "Club Core",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Vishal ",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Harini",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Harini",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        },
+        {
+            "name": "Prathyush",
+            "role": "Club Co-ordinator",
+            "imgsrc": "https://picsum.photos/2000"
+        }
+    ],
 }
