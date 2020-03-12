@@ -11,8 +11,7 @@
         <% if(route === 'sponsors') { %>
         <a href="<%= sponsor[i].website %>" target="_blank">
             <% } %>
-            <img src="<%= sponsor[i].imgsrc %>"
-                class="card-img-top mx-auto <% if(route === 'teams') { %>rounded-circle<% } %>" alt="<%= route %>"
+            <img src="<%= sponsor[i].imgsrc %>" class="card-img-top mx-auto rounded-0" alt="<%= route %>"
                 <%if(route === 'teams') {%>style="width: 90%!important" <% } %>>
             <% if(route === 'sponsors') { %>
         </a>

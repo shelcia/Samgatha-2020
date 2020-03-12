@@ -36,7 +36,7 @@ router.get('/events/:clubname', function (req, res) {
 
 router.get('/shows', function (req, res) {
     const proshows = require('../public/json/proshows.json');
-    res.render('shows', { route: 'shows', workshop: proshows });
+    res.render('showstemp', { route: 'shows', workshop: proshows });
 });
 
 router.get('/workshops', function (req, res) {

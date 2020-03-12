@@ -375,12 +375,12 @@
     {
         "clubName": "Photography",
         "suffixClub": true,
-        "imgsrc": "../images/clubs/svg1.svg",
+        "imgsrc": "../images/events/Photography_f/p4.jpg",
         "events": [
             {
                 "eventName": "Rawgue",
                 "description": "Flaunt your photoshop skills and make your photos articulate what you wish to convey.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Photography_f/p1.jpg",
                 "rules": [
                     "Number of participants:1.Submissions per participant:1",
                     "Organizing committee has complete right to change schedule of the event,cancellation of the event and take any necessary actions in violation of rules.",
@@ -403,7 +403,7 @@
             {
                 "eventName": "Chimera",
                 "description": "Let the film roll out of the canister to capture the actor in you and weave it into an amazing short film.",
-                "imgsrc": "../images/events/svg2.svg",
+                "imgsrc": "../images/events/Photography_f/p2.jpg",
                 "rules": [
                     "Number of participants:1. Submissions per participant:1",
                     "Photos submitted must be at least 640 pixels on the shorter side, and no more than 2000 pixels on the longer side. Images should be no longer than 2 MB. Photos must be in JPEG format.",
@@ -429,7 +429,7 @@
             {
                 "eventName": "Climateye",
                 "description": "Climate change is an alarming hazard. So make the mankind feel the guilt of befouling the environment through your hard-hitting photos.",
-                "imgsrc": "../images/events/svg1.svg",
+                "imgsrc": "../images/events/Photography_f/p3.jpg",
                 "rules": [
                     "Number of participants:1. Submissions per participant:1",
                     "Photos submitted must be at least 640 pixels on the shorter side, and no more than 2000 pixels on the longer side. Images should be no longer than 2MB. Photos must be in JPEG format.",
