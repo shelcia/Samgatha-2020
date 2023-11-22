@@ -1,719 +1,719 @@
 [
-    {
-        "Cultural Affairs": [
-            {
-                "name": "K.Keerthanapriyaa",
-                "role": "Cultural Secretary",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Bhiragatheesh Varun M V",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/6404.jpeg"
-            },
-            {
-                "name": "Harish K M",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/6434.jpeg"
-            },
-            {
-                "name": "Muthu Ramkumar Av ",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Narasimhan",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/6521.jpeg"
-            },
-            {
-                "name": "Sharath.D",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Subash Mylraj",
-                "role": "Cultural Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Head Oragnisers": [
-            {
-                "name": "Praneeth",
-                "role": "Head Oragniser",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Ram Koushik",
-                "role": "Head Oragniser",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Aditya Srikanthan",
-                "role": "Head Oragniser",
-                "imgsrc": "../images/teams/Adi.jpeg"
-            }
-        ]
-    },
-    {
-        "Sponsorship Team": [
-            {
-                "name": "Shelcia",
-                "role": "Sponsorship Team Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Santhosh",
-                "role": "Sponsorship Team Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Manonmani",
-                "role": "Sponsorship Team Co-ordinator",
-                "imgsrc": "../images/teams/6776.jpeg"
-            },
-            {
-                "name": "Sandhya",
-                "role": "Sponsorship Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Vishva Bhate",
-                "role": "Sponsorship Team Co-ordinator",
-                "imgsrc": "../images/teams/6918.jpeg"
-            },
-            {
-                "name": "Joseph Melvin K",
-                "role": "Sponsorship Team Volunteer",
-                "imgsrc": "../images/teams/6782.jpeg"
-            },
-            {
-                "name": "Sonuderya V.V",
-                "role": "Sponsorship Team Volunteer",
-                "imgsrc": "../images/teams/6789.jpeg"
-            },
-            {
-                "name": "Raadhika Mittal",
-                "role": "Sponsorship Team Volunteer",
-                "imgsrc": "../images/teams/6786.jpeg"
-            },
-            {
-                "name": "Vyshnav K",
-                "role": "Sponsorship Team Volunteer",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Shivansh",
-                "role": "Sponsorship Team Volunteer",
-                "imgsrc": "../images/teams/6745.jpeg"
-            }
-        ]
-    },
-    {
-        "Finance": [
-            {
-                "name": "Sriram",
-                "role": "Finance Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Pugazharasu",
-                "role": "Finance Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Publicity": [
-            {
-                "name": "Dhruthi",
-                "role": "Publicity Team Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sakthi",
-                "role": "Publicity Team Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Rahul",
-                "role": "Publicity Team Head",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Harini",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/6452.jpeg"
-            },
-            {
-                "name": "Vishal",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/6448.jpeg"
-            },
-            {
-                "name": "Abhiram",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/6765.jpeg"
-            },
-            {
-                "name": "Venkat",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sagar",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Mithilesh",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Arun",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Rajendra Prasad",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Bala Vignesh",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/6858.jpeg"
-            },
-            {
-                "name": "Gopi krishna",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sarath",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Zahir",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Yashwanth",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Harish",
-                "role": "Publicity Co-ordinator",
-                "imgsrc": "../images/teams/6434.jpeg"
-            }
-        ]
-    },
-    {
-        "Webops": [
-            {
-                "name": "Shelcia",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Aditya DS",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Samrat",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Designers Team": [
-            {
-                "name": "B Vignesh",
-                "role": "Team Mentor",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Shriganesh Bollakpalli",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/6720.jpeg"
-            },
-            {
-                "name": "Nikhil Chowdary",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sai Santhosh Pentakota ",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Samrat",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Dinesh Kumar",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/6425.jpeg"
-            },
-            {
-                "name": "Hrishikesh Rajesh Menon",
-                "role": "Team Co-ordinator",
-                "imgsrc": "../images/teams/6407.jpeg"
-            }
-        ]
-    },
-    {
-        "Adventure": [
-            {
-                "name": "Krishnakumar T",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Jaihari G",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6886.jpeg"
-            },
-            {
-                "name": "Sujith J",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6431.jpeg"
-            },
-            {
-                "name": "Kavinila M S",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6429.jpeg"
-            },
-            {
-                "name": "Shaik Mushraf Parvez",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Rohit Ananthan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Shankar Saravanan P",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Art": [
-            {
-                "name": "Dhanussh",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Anil",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Anupriya",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Shivaram krishna ",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Mogulla Venkata Sai",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Ruthwik",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Hritik Bagul",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sai Sathvik",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6742.jpeg"
-            },
-            {
-                "name": "Suruthi Poornima A",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Pranita Uppalapati",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6869.jpeg"
-            },
-            {
-                "name": "Santhosh",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Vaishnavi Reddy",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6866.jpeg"
-            }
-        ]
-    },
-    {
-        "Dance Club": [
-            {
-                "name": "Nishanth",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Charan Preetam",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6724.jpeg"
-            },
-            {
-                "name": "Siva Surya",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6446.jpeg"
-            },
-            {
-                "name": "Gururaj",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6862.jpeg"
-            },
-            {
-                "name": "Santhosh",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sanjana",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6411.jpeg"
-            },
-            {
-                "name": "Pramodh Jangam",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6796.jpeg"
-            },
-            {
-                "name": "Shivani",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Zahir Mahammad",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "D. Ruthwik Dasyam",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6794.jpeg"
-            }
-        ]
-    },
-    {
-        "Dramatics Club": [
-            {
-                "name": "S.Dhilipan",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "A.Sahithi prakarsha",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Navaas Roshan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Ramya",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Srivatsan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Vishva Bhate",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6918.jpeg"
-            }
-        ]
-    },
-    {
-        "EPIC Club": [
-            {
-                "name": "Sakthi ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6499.jpeg"
-            },
-            {
-                "name": "Muthu Ramkumar Avichi ",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "AVPL Narasimhan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6521.jpeg"
-            },
-            {
-                "name": "Vishal",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6448.jpeg"
-            },
-            {
-                "name": "Rohit Aanandhan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "G.N.P. Sudeepta Vaishnavi",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Gaming Club": [
-            {
-                "name": "Santhosh ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Mohit",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Ish gautam ",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Vishal",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Hrishikesh Rajesh Menon",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6407.jpeg"
-            },
-            {
-                "name": "Samarth Sudarshan Inamdar",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Suyash Chaudhary",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Music Club": [
-            {
-                "name": "Srikar",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Rajat",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Kaushik",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6719.jpeg"
-            },
-            {
-                "name": "Vaishnavi",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6866.jpeg"
-            },
-            {
-                "name": "Reuben",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6417.jpeg"
-            },
-            {
-                "name": "Febin",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Kaushik",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Sharath",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Pratyush",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Harish",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6434.jpeg"
-            },
-            {
-                "name": "Adithya",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Satyam",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Abhiram",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6765.jpeg"
-            }
-        ]
-    },
-    {
-        "Literature Club": [
-            {
-                "name": "Annie Theres Alexis ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6418.jpeg"
-            },
-            {
-                "name": "Shriganesh Bollakpalli",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6720.jpeg"
-            },
-            {
-                "name": "Ch. Madhu",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Photography Club": [
-            {
-                "name": "Siddhartha ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6422.jpeg"
-            },
-            {
-                "name": "Nissim",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6433.jpeg"
-            },
-            {
-                "name": "Narasimhan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6521.jpeg"
-            },
-            {
-                "name": "Yashwanth",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Vishnu Vardhan",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Quiz Club": [
-            {
-                "name": "P Aakarsh ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6420.jpeg"
-            },
-            {
-                "name": "Vbss Prathyush",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6439.jpeg"
-            },
-            {
-                "name": "Sai Bhargav",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6438.jpeg"
-            },
-            {
-                "name": "Ts Ganesh",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Dhananjaya",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    },
-    {
-        "Tamil Saalaram": [
-            {
-                "name": "Asvataman ",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6840.jpeg"
-            },
-            {
-                "name": "Manonmani",
-                "role": "Club Core",
-                "imgsrc": "../images/teams/6776.jpeg"
-            },
-            {
-                "name": "Vishal ",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6448.jpeg"
-            },
-            {
-                "name": "Harini",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/6452.jpeg"
-            },
-            {
-                "name": "Harini",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            },
-            {
-                "name": "Prathyush",
-                "role": "Club Co-ordinator",
-                "imgsrc": "../images/teams/1.jpeg"
-            }
-        ]
-    }
+  {
+    "Cultural Affairs": [
+      {
+        "name": "K.Keerthanapriyaa",
+        "role": "Cultural Secretary",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Bhiragatheesh Varun M V",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/6404.jpeg"
+      },
+      {
+        "name": "Harish K M",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/6434.jpeg"
+      },
+      {
+        "name": "Muthu Ramkumar Av ",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Narasimhan",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/6521.jpeg"
+      },
+      {
+        "name": "Sharath.D",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Subash Mylraj",
+        "role": "Cultural Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Head Oragnisers": [
+      {
+        "name": "Praneeth",
+        "role": "Head Oragniser",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Ram Koushik",
+        "role": "Head Oragniser",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Aditya Srikanthan",
+        "role": "Head Oragniser",
+        "imgsrc": "../images/teams/Adi.jpeg"
+      }
+    ]
+  },
+  {
+    "Sponsorship Team": [
+      {
+        "name": "Shelcia",
+        "role": "Sponsorship Team Head",
+        "imgsrc": "../images/teams/6498.jpeg"
+      },
+      {
+        "name": "Santhosh",
+        "role": "Sponsorship Team Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Manonmani",
+        "role": "Sponsorship Team Co-ordinator",
+        "imgsrc": "../images/teams/6776.jpeg"
+      },
+      {
+        "name": "Sandhya",
+        "role": "Sponsorship Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Vishva Bhate",
+        "role": "Sponsorship Team Co-ordinator",
+        "imgsrc": "../images/teams/6918.jpeg"
+      },
+      {
+        "name": "Joseph Melvin K",
+        "role": "Sponsorship Team Volunteer",
+        "imgsrc": "../images/teams/6782.jpeg"
+      },
+      {
+        "name": "Sonuderya V.V",
+        "role": "Sponsorship Team Volunteer",
+        "imgsrc": "../images/teams/6789.jpeg"
+      },
+      {
+        "name": "Raadhika Mittal",
+        "role": "Sponsorship Team Volunteer",
+        "imgsrc": "../images/teams/6786.jpeg"
+      },
+      {
+        "name": "Vyshnav K",
+        "role": "Sponsorship Team Volunteer",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Shivansh",
+        "role": "Sponsorship Team Volunteer",
+        "imgsrc": "../images/teams/6745.jpeg"
+      }
+    ]
+  },
+  {
+    "Finance": [
+      {
+        "name": "Sriram",
+        "role": "Finance Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Pugazharasu",
+        "role": "Finance Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Publicity": [
+      {
+        "name": "Dhruthi",
+        "role": "Publicity Team Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sakthi",
+        "role": "Publicity Team Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Rahul",
+        "role": "Publicity Team Head",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Harini",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/6452.jpeg"
+      },
+      {
+        "name": "Vishal",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/6448.jpeg"
+      },
+      {
+        "name": "Abhiram",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/6765.jpeg"
+      },
+      {
+        "name": "Venkat",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sagar",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Mithilesh",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Arun",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Rajendra Prasad",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Bala Vignesh",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/6858.jpeg"
+      },
+      {
+        "name": "Gopi krishna",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sarath",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Zahir",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Yashwanth",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Harish",
+        "role": "Publicity Co-ordinator",
+        "imgsrc": "../images/teams/6434.jpeg"
+      }
+    ]
+  },
+  {
+    "Webops": [
+      {
+        "name": "Shelcia",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/6498.jpeg"
+      },
+      {
+        "name": "Aditya DS",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Samrat",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Designers Team": [
+      {
+        "name": "B Vignesh",
+        "role": "Team Mentor",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Shriganesh Bollakpalli",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/6720.jpeg"
+      },
+      {
+        "name": "Nikhil Chowdary",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sai Santhosh Pentakota ",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Samrat",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Dinesh Kumar",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/6425.jpeg"
+      },
+      {
+        "name": "Hrishikesh Rajesh Menon",
+        "role": "Team Co-ordinator",
+        "imgsrc": "../images/teams/6407.jpeg"
+      }
+    ]
+  },
+  {
+    "Adventure": [
+      {
+        "name": "Krishnakumar T",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Jaihari G",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6886.jpeg"
+      },
+      {
+        "name": "Sujith J",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6431.jpeg"
+      },
+      {
+        "name": "Kavinila M S",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6429.jpeg"
+      },
+      {
+        "name": "Shaik Mushraf Parvez",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Rohit Ananthan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Shankar Saravanan P",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Art": [
+      {
+        "name": "Dhanussh",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Anil",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Anupriya",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Shivaram krishna ",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Mogulla Venkata Sai",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Ruthwik",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Hritik Bagul",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sai Sathvik",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6742.jpeg"
+      },
+      {
+        "name": "Suruthi Poornima A",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Pranita Uppalapati",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6869.jpeg"
+      },
+      {
+        "name": "Santhosh",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Vaishnavi Reddy",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6866.jpeg"
+      }
+    ]
+  },
+  {
+    "Dance Club": [
+      {
+        "name": "Nishanth",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Charan Preetam",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6724.jpeg"
+      },
+      {
+        "name": "Siva Surya",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6446.jpeg"
+      },
+      {
+        "name": "Gururaj",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6862.jpeg"
+      },
+      {
+        "name": "Santhosh",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sanjana",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6411.jpeg"
+      },
+      {
+        "name": "Pramodh Jangam",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6796.jpeg"
+      },
+      {
+        "name": "Shivani",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Zahir Mahammad",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "D. Ruthwik Dasyam",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6794.jpeg"
+      }
+    ]
+  },
+  {
+    "Dramatics Club": [
+      {
+        "name": "S.Dhilipan",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "A.Sahithi prakarsha",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Navaas Roshan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Ramya",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Srivatsan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Vishva Bhate",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6918.jpeg"
+      }
+    ]
+  },
+  {
+    "EPIC Club": [
+      {
+        "name": "Sakthi ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6499.jpeg"
+      },
+      {
+        "name": "Muthu Ramkumar Avichi ",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "AVPL Narasimhan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6521.jpeg"
+      },
+      {
+        "name": "Vishal",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6448.jpeg"
+      },
+      {
+        "name": "Rohit Aanandhan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "G.N.P. Sudeepta Vaishnavi",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Gaming Club": [
+      {
+        "name": "Santhosh ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Mohit",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Ish gautam ",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Vishal",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Hrishikesh Rajesh Menon",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6407.jpeg"
+      },
+      {
+        "name": "Samarth Sudarshan Inamdar",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Suyash Chaudhary",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Music Club": [
+      {
+        "name": "Srikar",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Rajat",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Kaushik",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6719.jpeg"
+      },
+      {
+        "name": "Vaishnavi",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6866.jpeg"
+      },
+      {
+        "name": "Reuben",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6417.jpeg"
+      },
+      {
+        "name": "Febin",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Kaushik",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Sharath",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Pratyush",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Harish",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6434.jpeg"
+      },
+      {
+        "name": "Adithya",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Satyam",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Abhiram",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6765.jpeg"
+      }
+    ]
+  },
+  {
+    "Literature Club": [
+      {
+        "name": "Annie Theres Alexis ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6418.jpeg"
+      },
+      {
+        "name": "Shriganesh Bollakpalli",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6720.jpeg"
+      },
+      {
+        "name": "Ch. Madhu",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Photography Club": [
+      {
+        "name": "Siddhartha ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6422.jpeg"
+      },
+      {
+        "name": "Nissim",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6433.jpeg"
+      },
+      {
+        "name": "Narasimhan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6521.jpeg"
+      },
+      {
+        "name": "Yashwanth",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Vishnu Vardhan",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Quiz Club": [
+      {
+        "name": "P Aakarsh ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6420.jpeg"
+      },
+      {
+        "name": "Vbss Prathyush",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6439.jpeg"
+      },
+      {
+        "name": "Sai Bhargav",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6438.jpeg"
+      },
+      {
+        "name": "Ts Ganesh",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Dhananjaya",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  },
+  {
+    "Tamil Saalaram": [
+      {
+        "name": "Asvataman ",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6840.jpeg"
+      },
+      {
+        "name": "Manonmani",
+        "role": "Club Core",
+        "imgsrc": "../images/teams/6776.jpeg"
+      },
+      {
+        "name": "Vishal ",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6448.jpeg"
+      },
+      {
+        "name": "Harini",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/6452.jpeg"
+      },
+      {
+        "name": "Harini",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      },
+      {
+        "name": "Prathyush",
+        "role": "Club Co-ordinator",
+        "imgsrc": "../images/teams/1.jpeg"
+      }
+    ]
+  }
 ]
