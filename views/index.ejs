@@ -1,8 +1,8 @@
 <%- include('./partials/header') %>
-<section class="hero d-flex align-items-center px-0 px-sm-2 px-md-5">
+<section class="hero d-flex align-items-start align-items-sm-center px-0 px-sm-2 pt-5 pt-sm-0 px-md-5">
     <%- include('./partials/navbar') %>
-    <div class="row container-fluid mx-4">
-        <div class="col-12 px-0">
+    <div class="row container-fluid mx-0 mt-5 mt-sm-0 mx-sm-4">
+        <div class="col-12 align-self-end px-0">
             <img src="/images/logo.svg" class="img-fluid logo d-block mb-5 mb-sm-3" alt="Samgatha Logo">
             <h5 class="bg-gold-tips text-violent-violet px-3 py-2 m-0 d-inline d-md-none font-weight-bold">TAKE A
                 TRIP
@@ -13,7 +13,7 @@
         <div class="col-1 d-none d-md-block align-self-start pl-0 pl-lg-4">
             <h5 class="bg-gold-tips rotate d-inline p-3 m-0">TAKE A TRIP TO OUR</h5>
         </div>
-        <header class="col-12 col-sm-11 mt-5">
+        <header class="col-12 col-sm-11 mt-5 mt-md-1">
             <div class="row">
                 <div class="align-self-start">
                     <h1 class="display-1 text-gold-tips text-left">DREAM</h1>
@@ -26,41 +26,53 @@
             <div class="row">
                 <div class="align-self-start">
                     <h1 class="display-1 text-gold-tips text-left">LAND</h1>
-                    <div class="text-white align-self-end d-block d-lg-none mb-5 mb-sm-0">
+                </div>
+                <div class="align-self-center">
+                    <div class="text-white d-block d-lg-none mb-sm-0">
                         <h1 class="mb-0">MARCH</h1>
                         <h1 class="mb-2">27-29</h1>
                     </div>
                 </div>
-                <div class="col-12 col-lg-5 text-white align-self-center px-0 pt-3 pt-sm-0">
+                <div class="col-11 col-sm-12 col-lg-5 text-white align-self-center px-0 pt-3 pt-sm-0">
                     <h2 class="font-weight-bolder text-gold-tips text-left text-sm-center d-sm-none">ABOUT SAMGATHA</h2>
-                    <p>Samgatha is the annual cultural celebration of IIITDM Kancheepuram that started as a humble intra-college fest in 2011. Since then, it has grown leaps and bounds, as a festival radiating fun and enthusiasm, boasting of over 40 events spread across three remarkable days.
-Samgatha strives to provide budding artists and curious minds from across the country a competing platform to showcase their talent in diverse fields</p>
+                    <p>Samgatha is the annual cultural celebration of IIITDM Kancheepuram that started as a humble
+                        intra-college fest in 2011. Since then, it has grown leaps and bounds, as a festival radiating
+                        fun and enthusiasm, boasting of over 40 events spread across three remarkable days.
+                        Samgatha strives to provide budding artists and curious minds from across the country a
+                        competing platform to showcase their talent in diverse fields.</p>
                 </div>
             </div>
-            <div class="row justify-content-center justify-content-sm-start">
-                <a href="" class="btn btn-lg btn-outline-light rounded-0 mt-4 mt-sm-0">REGISTER</a>
+            <div class="row justify-content-start">
+                <a href="https://www.thecollegefever.com/events/samgatha-2020"
+                    class="btn btn-lg btn-outline-light rounded-0 mt-4 mt-sm-0">REGISTER</a>
+                <div class="col-12 d-sm-none mt-5 px-0">
+                    <div class="social text-white">
+                        <a target="_blank" href="https://www.facebook.com/samgathaatiiitdm"><i
+                                class="fab fa-facebook-f fa-lg mr-5"></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCKJFJ5ngqcXBv8Yj9HKPkRA"><i
+                                class="fab fa-youtube fa-lg mx-5"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/samgatha/"><i
+                                class="fab fa-instagram fa-lg ml-5"></i></a>
+                    </div>
+                </div>
             </div>
         </header>
-        <!-- <div class="col-11 col-sm-5 text-right align-self-end align-self-md-center" id="day-count">
-            <div class="daycount text-center bg-white d-inline-block">
-                <h1 class="display-2 d-inline"><%= //daysLeft %></h1>
-                <p class="lead font-weight-bolder bg-gold-tips m-0 py-2 px-3">DAYS TO GO</p>
-            </div>
-        </div> -->
         <div class="fixed-top d-flex justify-content-center"
             style="transform-origin: right bottom; transform: rotateZ(-90deg); width: 90vh; left: auto;">
-            <a href="">
+            <a href="/docs/Samgatha_2020_Schedule.pdf">
                 <h5 class="px-3 py-2 m-0 bg-gold-tips text-violent-violet font-weight-bold mr-4">SCHEDULE</h5>
             </a>
-            <a href="">
+            <a href="/docs/Rulebook.pdf">
                 <h5 class="px-3 py-2 m-0 bg-gold-tips text-violent-violet font-weight-bold ml-4">RULEBOOK</h5>
             </a>
         </div>
     </div>
-    <div class="social fixed-bottom text-white text-right mb-4 mr-0 mr-sm-4">
-        <i class="fab fa-twitter fa-lg mr-5"></i>
-        <i class="fab fa-facebook-f fa-lg mx-5"></i>
-        <i class="fab fa-linkedin-in fa-lg mx-5"></i>
+    <div class="social fixed-bottom d-none d-sm-block text-white text-right mb-4 mr-0 mr-sm-4">
+        <a target="_blank" href="https://www.facebook.com/samgathaatiiitdm"><i
+                class="fab fa-facebook-f fa-lg mx-5"></i></a>
+        <a target="_blank" href="https://www.youtube.com/channel/UCKJFJ5ngqcXBv8Yj9HKPkRA"><i
+                class="fab fa-youtube fa-lg mx-5"></i></a>
+        <a target="_blank" href="https://www.instagram.com/samgatha/"><i class="fab fa-instagram fa-lg mx-5"></i></a>
     </div>
 </section>
 <%- include('./partials/footer') %>

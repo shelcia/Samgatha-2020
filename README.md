@@ -8,7 +8,7 @@ Make sure to enter the full link (https://example.com, not example.com). Try to 
 
 1. sponsors.json
 
-    URL: http://samgatha2020.herokuapp.com/sponsors
+    URL: https://samgatha-2020.up.railway.app/sponsors
 
     "imgsrc": "../images/sponsors/test.svg"
 

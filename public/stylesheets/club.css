@@ -1,18 +1,18 @@
 .rotate {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
     writing-mode: vertical-rl;
+    -webkit-text-orientation: mixed;
     text-orientation: mixed;
+    -webkit-transform: rotateZ(-180deg);
+    -ms-transform: rotate(-180deg);
     transform: rotateZ(-180deg);
     font-weight: 700;
     color: #280b67;
 }
 
-body {
-    background-image: linear-gradient(180deg, #280b67 0%, #0f0030 100%);
-    background-repeat: no-repeat;
-}
-
-main {
-    scroll-snap-type: x mandatory;
+i {
+    cursor: pointer;
 }
 
 section.hero {
@@ -23,11 +23,16 @@ div.hero-text {
     height: 60vh;
 }
 
+.noscroll {
+    overflow-y: hidden !important;
+}
+
 .overlay {
     top: 0;
     left: 0;
     z-index: 1000;
-    background-image: linear-gradient(180deg, #280b67 0%, #0f0030 100%);
+    background-color: rgba(255, 255, 255, );
+    overflow-y: scroll;
 }
 
 .overlay .card {
