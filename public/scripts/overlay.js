@@ -1,64 +1,72 @@
-var overlay = $('#overlay');
-var overlayCard = $('#hero button');
-var close = $('#overlay h3 i');
+var overlay = document.getElementById('overlay');
+var hero = document.getElementById('hero');
+var closeBtn = document.querySelector('#overlay h3 i');
 
-
-window.onload = function () {
-    overlay.removeClass('d-none');
-    overlay.fadeOut(0);
+function fadeOut(el, duration, callback) {
+    el.style.transition = 'opacity ' + duration + 'ms';
+    el.style.opacity = '0';
+    setTimeout(function () {
+        el.classList.add('d-none');
+        el.style.transition = '';
+        el.style.opacity = '';
+        if (callback) callback();
+    }, duration);
 }
 
-overlayCard.on('click', function (e) {
-    e.preventDefault();
-    document.body.classList.add('noscroll');
-    document.querySelector('#overlay').firstElementChild.classList.remove('noscroll');
-    var index = Array.from(document.querySelectorAll('div.card')).indexOf(this.parentElement.parentElement);
-    $.ajax({
-        type: "GET",
-        url: "/eventData",
-        data: {
-            path: window.location.pathname,
-            id: index
-        },
-        dataType: "json",
-        success: function (e) {
-            console.log(e);
-            $('#rules').text('');
-            $('#contact').text('');
-            $('#prize').text('');
-            $('h1.card-title').text(e.eventName);
-            for (let i = 0; i < e.rules.length; i++) {
-                var newItem = $('<li>');
-                newItem.html(e.rules[i]);
-                $('#rules').append(newItem);
-            };
-            for (let i = 0; i < e.contact.length; i++) {
-                var newItem = $('<p>', { class: 'mb-0' });
-                newItem.text(e.contact[i]);
-                $('#contact').append(newItem);
-            };
-            for (let i = 0; i < e.prize.length; i++) {
-                var prize = $('<li>', { class: 'font-weight-bold' });
-                prize.text(e.prize[i]);
-                $('#prize').append(prize);
-            }
-            $('#time').text(e.time);
-            $('#venue').text(e.venue);
-            $('#eventImg').attr('src', e.imgsrc);
-        }
-    });
-    $('#eventImg').on("load", function () {
-        $('#hero').fadeOut(400, function () {
-            overlay.fadeIn(400);
-        });
+function fadeIn(el, duration) {
+    el.classList.remove('d-none');
+    el.style.opacity = '0';
+    el.offsetHeight; // force reflow to allow transition
+    el.style.transition = 'opacity ' + duration + 'ms';
+    el.style.opacity = '1';
+    setTimeout(function () {
+        el.style.transition = '';
+    }, duration);
+}
+
+window.addEventListener('load', function () {
+    overlay.classList.add('d-none');
+});
+
+document.querySelectorAll('#hero button').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.body.classList.add('noscroll');
+        overlay.firstElementChild.classList.remove('noscroll');
+
+        var index = Array.from(document.querySelectorAll('div.card')).indexOf(btn.parentElement.parentElement);
+
+        fetch('/eventData?' + new URLSearchParams({ path: window.location.pathname, id: index }))
+            .then(function (res) { return res.json(); })
+            .then(function (data) {
+                document.querySelector('h1.card-title').textContent = data.eventName;
+                document.getElementById('rules').innerHTML = data.rules.map(function (r) { return '<li>' + r + '</li>'; }).join('');
+                document.getElementById('contact').innerHTML = data.contact.map(function (c) { return '<p class="mb-0">' + c + '</p>'; }).join('');
+                document.getElementById('prize').innerHTML = data.prize.map(function (p) { return '<li class="font-weight-bold">' + p + '</li>'; }).join('');
+                document.getElementById('time').textContent = data.time;
+                document.getElementById('venue').textContent = data.venue;
+
+                var img = document.getElementById('eventImg');
+                img.onload = function () {
+                    fadeOut(hero, 400, function () {
+                        fadeIn(overlay, 400);
+                    });
+                };
+                img.src = data.imgsrc;
+            })
+            .catch(function (err) {
+                console.error('Failed to load event data:', err);
+            });
     });
 });
 
-close.on('click', function (e) {
-    e.preventDefault();
-    document.body.classList.remove('noscroll');
-    document.querySelector('#overlay').firstElementChild.classList.add('noscroll');
-    overlay.fadeOut(400, function () {
-        $('#hero').fadeIn(400);
+if (closeBtn) {
+    closeBtn.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.body.classList.remove('noscroll');
+        overlay.firstElementChild.classList.add('noscroll');
+        fadeOut(overlay, 400, function () {
+            fadeIn(hero, 400);
+        });
     });
-});
+}

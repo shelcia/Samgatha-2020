@@ -1,16 +1,3 @@
-.rotate {
-    -webkit-writing-mode: vertical-rl;
-    -ms-writing-mode: tb-rl;
-    writing-mode: vertical-rl;
-    -webkit-text-orientation: mixed;
-    text-orientation: mixed;
-    -webkit-transform: rotateZ(-180deg);
-    -ms-transform: rotate(-180deg);
-    transform: rotateZ(-180deg);
-    font-weight: 700;
-    color: #280b67;
-}
-
 i {
     cursor: pointer;
 }
@@ -31,7 +18,7 @@ div.hero-text {
     top: 0;
     left: 0;
     z-index: 1000;
-    background-color: rgba(255, 255, 255, );
+    background-color: rgba(255, 255, 255, 0.97);
     overflow-y: scroll;
 }
 
@@ -43,13 +30,3 @@ div.hero-text {
     height: 99.99%;
 }
 
-/* scrollbar */
-.os-scrollbar-track {
-    height: 60%;
-    top: 20%;
-}
-
-.overlay .os-scrollbar-track {
-    height: 100%;
-    top: 0;
-}

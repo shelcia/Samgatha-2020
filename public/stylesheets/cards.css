@@ -106,6 +106,10 @@ div.nav-right {
     opacity: 0.7;
 }
 
+img.card-img-team {
+    width: 90% !important;
+}
+
 div.nav-left:hover,
 div.nav-right:hover {
     opacity: 1;

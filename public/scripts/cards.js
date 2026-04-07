@@ -1,32 +1,41 @@
-var cards = document.querySelectorAll('div.card');
-for (let i = 0; i < cards.length; i = i + 2) {
-    cards[i].addEventListener('click', function (e) {
-        const wrapper = document.querySelector('div.scroll-wrapper');
-        e.preventDefault();
-        wrapper.scrollLeft = this.offsetLeft - 100;
-        if (cards[i + 1].style.width === '0px') {
-            closeAll();
-            cards[i + 1].style.width = '45vh';
+var wrapper = document.querySelector('div.scroll-wrapper');
+
+function closeAll() {
+    document.querySelectorAll('div.card:nth-of-type(2n)').forEach(function (card) {
+        if (!card.firstElementChild.classList.contains('d-none')) {
+            card.firstElementChild.classList.add('d-none');
             setTimeout(function () {
-                cards[i + 1].firstElementChild.classList.remove('d-none');
-            }, 350);
-        } else {
-            cards[i + 1].firstElementChild.classList.add('d-none');
-            setTimeout(function () {
-                cards[i + 1].setAttribute('style', 'width: 0 !important');
+                card.setAttribute('style', 'width: 0 !important');
             }, 10);
         }
     });
 }
 
-function closeAll() {
-    var openCards = document.querySelectorAll('div.card:nth-of-type(2n)');
-    for (let i = 0; i < openCards.length; i++) {
-        if (!openCards[i].firstElementChild.classList.contains('d-none')) {
-            openCards[i].firstElementChild.classList.add('d-none');
+if (wrapper) {
+    var allCards = Array.from(wrapper.querySelectorAll('div.card'));
+    wrapper.addEventListener('click', function (e) {
+        var clickedCard = e.target.closest('div.card');
+        if (!clickedCard) return;
+        var idx = allCards.indexOf(clickedCard);
+        if (idx < 0 || idx % 2 !== 0) return;
+
+        e.preventDefault();
+        wrapper.scrollLeft = clickedCard.offsetLeft - 100;
+
+        var expandCard = allCards[idx + 1];
+        if (!expandCard) return;
+
+        if (expandCard.style.width === '0px') {
+            closeAll();
+            expandCard.style.width = '45vh';
             setTimeout(function () {
-                openCards[i].setAttribute('style', 'width: 0 !important');
+                expandCard.firstElementChild.classList.remove('d-none');
+            }, 350);
+        } else {
+            expandCard.firstElementChild.classList.add('d-none');
+            setTimeout(function () {
+                expandCard.setAttribute('style', 'width: 0 !important');
             }, 10);
         }
-    }
+    });
 }

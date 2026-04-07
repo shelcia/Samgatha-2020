@@ -11,13 +11,12 @@
         <% if(route === 'sponsors') { %>
         <a href="<%= sponsor[i].website %>" target="_blank">
             <% } %>
-            <img src="<%= sponsor[i].imgsrc %>" class="card-img-top mx-auto rounded-0" alt="<%= route %>"
-                <%if(route === 'teams') {%>style="width: 90%!important" <% } %>>
+            <img src="<%= sponsor[i].imgsrc %>" class="card-img-top mx-auto rounded-0 <%if(route === 'teams') {%>card-img-team<% } %>" alt="<%= route %>" loading="lazy">
             <% if(route === 'sponsors') { %>
         </a>
         <% } %>
         <% } else { %>
-        <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="<%= route %>">
+        <img src="<%= event.imgsrc %>" class="card-img-top rounded-0" alt="<%= route %>" loading="lazy">
         <% } %>
 
         <div class="card-body text-white p-0">

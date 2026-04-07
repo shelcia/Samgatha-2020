@@ -15,19 +15,6 @@ h1.display-1.text-gold-tips.text-left {
     line-height: 85%;
 }
 
-.rotate {
-    -webkit-writing-mode: vertical-rl;
-    -ms-writing-mode: tb-rl;
-    writing-mode: vertical-rl;
-    -webkit-text-orientation: mixed;
-    text-orientation: mixed;
-    -webkit-transform: rotateZ(-180deg);
-    -ms-transform: rotate(-180deg);
-    transform: rotateZ(-180deg);
-    font-weight: 700;
-    color: #280b67;
-}
-
 section.hero {
     height: 100vh;
     width: 100vw;

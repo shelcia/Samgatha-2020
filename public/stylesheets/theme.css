@@ -133,11 +133,57 @@ ul {
     }
 }
 
+.rotate {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    -webkit-text-orientation: mixed;
+    text-orientation: mixed;
+    -webkit-transform: rotateZ(-180deg);
+    -ms-transform: rotate(-180deg);
+    transform: rotateZ(-180deg);
+    font-weight: 700;
+    color: #280b67;
+}
+
+/* Native scrollbar styling */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(232, 196, 25, 0.5) transparent;
+}
+
+*::-webkit-scrollbar {
+    width: 6px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgba(232, 196, 25, 0.5);
+    border-radius: 3px;
+}
+
 @media (min-width: 576px) {
     .fixed-sm-top {
         position: fixed;
         top: 0;
         right: 0;
         left: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    * {
+        font-size: 3.5vw;
+    }
+
+    span.navbar-toggler-icon {
+        font-size: 20px;
+    }
+
+    a.nav-link {
+        font-size: 16px !important;
     }
 }

@@ -1,16 +1,20 @@
 const router = require('express').Router({ mergeParams: true });
 
+const events = require('../public/json/events.json');
+const proshows = require('../public/json/proshows.json');
+const workshop = require('../public/json/workshops.json');
+const sponsor = require('../public/json/sponsors.json');
+const team = require('../public/json/team.json');
+
 router.get('/', function (req, res) {
     res.render('index', { route: 'index' });
 });
 
 router.get('/events', function (req, res) {
-    const events = require('../public/json/events.json');
     res.render('events', { route: 'events', workshop: events });
 });
 
 router.get('/events/:clubname', function (req, res) {
-    const events = require('../public/json/events.json');
     var i = 0, count27 = [], count28 = [], count29 = [], count = [count27, count28, count29];
     while (events[i].clubName.toUpperCase() !== req.params.clubname.toUpperCase()) {
         i++;
@@ -25,7 +29,7 @@ router.get('/events/:clubname', function (req, res) {
             count29.push(e);
         }
     }
-    count = [count27, count28, count29]
+    count = [count27, count28, count29];
     res.render('club', {
         route: 'club',
         clubName: req.params.clubname,
@@ -35,12 +39,10 @@ router.get('/events/:clubname', function (req, res) {
 });
 
 router.get('/shows', function (req, res) {
-    const proshows = require('../public/json/proshows.json');
     res.render('showstemp', { route: 'shows', workshop: proshows });
 });
 
 router.get('/workshops', function (req, res) {
-    const workshop = require('../public/json/workshops.json');
     res.render('workshops', { route: 'workshops', workshop: workshop });
 });
 
@@ -49,17 +51,14 @@ router.get('/hospitality', function (req, res) {
 });
 
 router.get('/sponsors', function (req, res) {
-    const sponsor = require('../public/json/sponsors.json');
     res.render('sponsors', { route: 'sponsors', sponsor: sponsor });
 });
 
 router.get('/team', function (req, res) {
-    const team = require('../public/json/team.json');
     res.render('team', { route: 'teams', team: team });
 });
 
 router.get('/eventData', function (req, res) {
-    const events = require('../public/json/events.json');
     var e = req.query.path.replace(/%20/g, " ").substring(8);
     var id = Number(req.query.id);
     for (let i = 0; i < events.length; i++) {
