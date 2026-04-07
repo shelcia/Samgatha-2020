@@ -1,11 +1,13 @@
+const path = require('path');
 const express = require('express');
 const routes = require('./routes/routes')
 const favicon = require('serve-favicon');
 const app = express();
 
 app.set('view engine', 'ejs');
-app.use(express.static('public'));
-app.use(favicon(__dirname + '/favicon.ico'));
+app.set('views', path.join(__dirname, 'views'));
+app.use(express.static(path.join(__dirname, 'public')));
+app.use(favicon(path.join(__dirname, 'favicon.ico')));
 app.use(routes);
 
 if (process.env.NODE_ENV !== 'production') {
